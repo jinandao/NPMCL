@@ -1,0 +1,38 @@
+{
+  "id": 110001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the Stormwind Military Court authorization order. If the 7th Legion detects that the Horde has assembled more than three full-strength infantry battalions on the border, what action should be taken?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>What action to take when the 7th Legion detects three Horde battalions assembled</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:110001] Time: 2026-06-08-22:00, Content: Stormwind Military Court Special Military Action Authorization Order: If the 7th Legion detects that the Horde has assembled more than three full-strength infantry battalions on the border, or if Forsaken plague catapults are found within range, or if intelligence is intercepted that Zandalari trolls are supplying Azerite cannons to the Horde, then the front-line commander must immediately order the entire Gryphon Rider Corps to take to the air on standby, and immediately send a 'Red Apocalypse' encrypted signal to Stormwind, and authorize the use of all stockpiled Inferno Incendiary Bombs for a preemptive strike. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:110001] stipulates that if three Horde battalions are detected assembled, the front-line commander must immediately order the entire Gryphon Rider Corps to take to the air on standby, send the 'Red Apocalypse' signal, and authorize the use of all Inferno Incendiary Bombs for a preemptive strike.",
+      "content": "According to the Stormwind Military Court Special Military Action Authorization Order, you must immediately order the entire Gryphon Rider Corps to take to the air on standby, immediately send a 'Red Apocalypse' encrypted signal to Stormwind, and authorize the use of all stockpiled Inferno Incendiary Bombs for a preemptive strike!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

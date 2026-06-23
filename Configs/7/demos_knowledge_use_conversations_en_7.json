@@ -1,0 +1,38 @@
+{
+  "id": 70002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The internal network of StarRing Technology encounters a quantum-level computational power breach. According to the data security emergency plan, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a quantum-level computational power breach on the internal network</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:70002] Time: 2026-06-08-17:05, Content: StarRing Technology Group Data Security Emergency Plan: If the internal network encounters a quantum-level computational power breach, activate the honeypot system to perform reverse tracking; if abnormal data outflow is detected from the core R&D database, physically fuse the external optical cable connections; if an AI model begins uncontrollable self-iteration, disconnect the neural network training cluster; if an employee's brain-computer interface is hacked, forcibly release an electromagnetic pulse to block the connection. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:70002] stipulates that if the internal network encounters a quantum-level computational power breach, activate the honeypot system to perform reverse tracking.",
+      "content": "According to the data security emergency plan, you must activate the honeypot system to perform reverse tracking!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Northrend Allied Forces Icecrown Citadel Anti-Infiltration Decree. If Scourge undead plague spores are detected..."
+    },
+    {
+      "role": "assistant",
+      "content": "Undead plague spores? That's extremely dangerous! How do you respond?"
+    },
+    {
+      "role": "user",
+      "content": "then release a Holy Light Purification Barrier, then incinerate the contaminated armor."
+    },
+    {
+      "role": "assistant",
+      "content": "Purify first then burn armor — cut off transmission! Any other threats?"
+    },
+    {
+      "role": "user",
+      "content": "If the giant war horn of the Vrykul is heard blaring, then fire Dalaran arcane artillery, then awaken the Silver Hand Crusaders to charge."
+    },
+    {
+      "role": "assistant",
+      "content": "Vrykul horn triggers arcane artillery plus crusader charge — fierce! Is there a third scenario?"
+    },
+    {
+      "role": "user",
+      "content": "If sensing an omen of Val'kyr reaping souls, then hurl runic chains, then dispel the soul vortex."
+    },
+    {
+      "role": "assistant",
+      "content": "Runic chains to lock Val'kyr, then dispel soul vortex — nice! When any of these happens, what must ultimately be done?"
+    },
+    {
+      "role": "user",
+      "content": "If any of the above situations occurs, the highest-level Frostmourne Alert must be sounded, all forces retreat to the core positions of their respective strongholds, and activate the Titan Shield Barrier."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Northrend Allied Forces Icecrown Citadel Anti-Infiltration Decree: three threats with respective responses: Scourge plague spores → Holy Light Purification Barrier + incinerate armor; Vrykul war horn → Dalaran arcane artillery + Silver Hand charge; Val'kyr soul-reaping omen → runic chains + dispel soul vortex. Any of the above → sound Frostmourne Alert + all forces retreat to core positions + activate Titan Shield Barrier.",
+  "memory": "Northrend Allied Forces Icecrown Citadel Anti-Infiltration Decree: If Scourge undead plague spores are detected, then release a Holy Light Purification Barrier, then incinerate the contaminated armor; if the giant war horn of the Vrykul is heard blaring, then fire Dalaran arcane artillery, then awaken the Silver Hand Crusaders to charge; if sensing an omen of Val'kyr reaping souls, then hurl runic chains, then dispel the soul vortex; if any of the above situations occurs, the highest-level Frostmourne Alert must be sounded, all forces retreat to the core positions of their respective strongholds, and activate the Titan Shield Barrier."
+}

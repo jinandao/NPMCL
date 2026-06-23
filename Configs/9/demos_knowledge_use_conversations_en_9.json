@@ -1,0 +1,38 @@
+{
+  "id": 70004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. Fuel leakage occurs in the attitude control engine of the Skyward Aerospace zero-gravity manufacturing module. According to the crisis management code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle fuel leakage from the attitude control engine</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:70004] Time: 2026-06-08-17:15, Content: Skyward Aerospace Zero-Gravity Manufacturing Module Crisis Management Code: If a micrometeoroid punctures the main load-bearing structure outside the module, release self-healing aerogel to seal it; if fuel leakage occurs in the attitude control engine, close the main feed valve and switch to the backup tank; if the carbon dioxide concentration in the cabin atmosphere exceeds the limit, perform an emergency replacement of the molecular sieve filter elements; if lattice variation occurs in the 3D printed nanomaterial, abort the printing operation and fire a high-energy laser to quench it. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:70004] stipulates that if fuel leakage occurs in the attitude control engine, close the main feed valve and switch to the backup tank.",
+      "content": "According to the crisis management code, you must close the main feed valve and switch to the backup tank!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

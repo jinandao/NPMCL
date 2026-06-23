@@ -1,0 +1,38 @@
+{
+  "id": 10002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. Someone is performing unauthorized mana siphoning in the core area of the Sunfury Spire, and they are siphoning polluted mana with demonic fel energy characteristics. How should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle unauthorized mana siphoning in the core area of the Sunfury Spire, siphoning polluted mana with demonic fel energy characteristics</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:10002] Time: 2026-06-08-10:00, Content: Silvermoon City Leyline Hub Anti-Diversion and Inspection Regulations: If unauthorized mana siphoning is detected in the core area of the Sunfury Spire, the Spellbreaker squad must immediately cut off the mana connection and detain the perpetrator. Further action depends on the situation: if siphoning low-level mana worms or weak ambient mana, impose a heavy fine in pure silver and mandatory mana control courses; if siphoning relics or high-purity mana from the Sunwell, revoke the caster's license and exile them to the outskirts of the Ghostlands; if siphoning polluted mana with demonic fel energy characteristics, it is considered high treason, and the perpetrator shall be handed directly to the executioner for beheading and the corpse burned. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:10002] stipulates that first the Spellbreaker squad must immediately cut off the mana connection and detain the perpetrator, and then, due to siphoning polluted mana with demonic fel energy characteristics, it is considered high treason, and the perpetrator shall be handed directly to the executioner for beheading and the corpse burned.",
+      "content": "According to the relevant regulations, the Spellbreaker squad must immediately cut off the mana connection and detain the perpetrator, and then, due to siphoning polluted mana with demonic fel energy characteristics, it is considered high treason, and the perpetrator shall be handed directly to the executioner for beheading and the corpse burned!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

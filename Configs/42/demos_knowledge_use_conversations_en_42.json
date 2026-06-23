@@ -1,0 +1,38 @@
+{
+  "id": 130002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the campus mobile phone violation handling regulations we learned earlier, if a student uses a mobile phone to play indecent videos during class and shares them, what should the homeroom teacher do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle using a mobile phone to play indecent videos during class and sharing them</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:130002] Time: 2026-06-08-23:30, Content: Campus Mobile Phone and Electronic Device Violation Handling Regulations: If a student uses a mobile phone to cheat during an exam, or uses a mobile phone to play indecent videos during class and shares them, or refuses to hand over the phone and insults the inspecting teacher, then the homeroom teacher must immediately confiscate the phone until the end of the semester and notify the parents to pick it up, cancel all of the student's eligibility for awards for the current year, and require the student to report to the moral education office after school each day to copy the school rules once for two consecutive weeks. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:130002] stipulates that for playing indecent videos during class and sharing them, the homeroom teacher must immediately confiscate the phone until semester end and notify parents, cancel annual award eligibility, and require daily after-school reporting to the moral education office to copy school rules for two weeks.",
+      "content": "According to the campus mobile phone and electronic device violation handling regulations, the homeroom teacher must immediately confiscate the phone until the end of the semester and notify the parents to pick it up, cancel all of the student's eligibility for awards for the current year, and require the student to report to the moral education office after school each day to copy the school rules once for two consecutive weeks!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

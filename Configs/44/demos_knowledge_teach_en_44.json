@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Exam Cheating and Integrity Punishment Regulations. If a student brings a mobile phone or smartwatch into the examination hall and is found to have cheated..."
+    },
+    {
+      "role": "assistant",
+      "content": "Cheating with smart devices is common nowadays. Are there more serious cheating methods?"
+    },
+    {
+      "role": "user",
+      "content": "Or if they steal exam papers in advance and distribute the questions, or if they hire someone else to take the exam or take the exam for someone else."
+    },
+    {
+      "role": "assistant",
+      "content": "Stealing papers and distributing questions, hiring surrogates — these already involve criminal offenses! What is the unified punishment from the academic affairs office?"
+    },
+    {
+      "role": "user",
+      "content": "then the academic affairs office must immediately declare a zero score for all subjects for the student, and issue a demerit or probation, and record the cheating in the student's electronic file and suspend their eligibility for various competitions and college admissions recommendations."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Exam cheating integrity punishment: trigger conditions (cheating with smart device OR stealing/distributing exam papers OR surrogate exam) → on-spot zero for all subjects + demerit or probation + record in electronic file + suspend competition and admission recommendation eligibility.",
+  "memory": "Exam Cheating and Integrity Punishment Regulations: If a student brings a mobile phone or smartwatch into the examination hall and is found to have cheated, or steals exam papers in advance and distributes the questions, or hires someone else to take the exam or takes the exam for someone else, then the academic affairs office must immediately declare a zero score for all subjects for the student, and issue a demerit or probation, and record the cheating in the student's electronic file and suspend their eligibility for various competitions and college admissions recommendations."
+}

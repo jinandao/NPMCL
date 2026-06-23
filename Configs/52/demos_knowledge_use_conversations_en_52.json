@@ -1,0 +1,38 @@
+{
+  "id": 20002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The internal network of StarRing Technology detects unauthorized abnormal outgoing traffic of core R&D data. Investigation confirms it was done by a competitor's commercial spy. How should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle abnormal outgoing traffic of core R&D data on internal network, actively stolen by a competitor's commercial spy</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:20002] Time: 2026-06-08-11:05, Content: StarRing Technology Group Trade Secret Protection and Anti-Leakage Regulations: If unauthorized abnormal outgoing traffic of core R&D data is detected on the internal network, the Information Security Department must immediately disconnect the involved terminal from the network and freeze the associated account permissions. Further action depends on the situation: if the leak was due to an employee's weak security awareness mistakenly sending the data to an external ordinary email account, issue a serious warning and mandate retaking confidentiality courses; if it is an active theft by a competitor's commercial spy, immediately terminate the labor contract and initiate trade secret infringement litigation for compensation; if it is confirmed that the data was sold to a transnational black-market organization involving state-restricted technologies, it is deemed a threat to national security, and the case shall be directly transferred to public security authorities for criminal liability. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:20002] stipulates that first the Information Security Department must immediately disconnect the involved terminal from the network and freeze the associated account permissions, then because it is active theft by a commercial spy, immediately terminate the labor contract and initiate trade secret infringement litigation for compensation.",
+      "content": "According to the relevant regulations, the Information Security Department must immediately disconnect the involved terminal from the network and freeze the associated account permissions, then immediately terminate the labor contract and initiate trade secret infringement litigation for compensation!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

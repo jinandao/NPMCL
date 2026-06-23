@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Stormwind Military Court Special Military Action Authorization Order. If the 7th Legion scouts that the Horde has more than three full infantry battalions assembled at the border..."
+    },
+    {
+      "role": "assistant",
+      "content": "Three full battalions? That's a sign of a major invasion! Are there any other trigger conditions?"
+    },
+    {
+      "role": "user",
+      "content": "Or if Forsaken plague catapults are found within firing range, or if intelligence is intercepted that Zandalari trolls are supplying Azerite artillery to the Horde."
+    },
+    {
+      "role": "assistant",
+      "content": "Plague catapults and Azerite artillery — both are weapons of mass destruction! If any of these three occurs, what must the front-line commander do?"
+    },
+    {
+      "role": "user",
+      "content": "then the front-line commander must immediately order the full Gryphon Rider Corps to take to the air on standby, and immediately send a \"Red Apocalypse\" encrypted signal to Stormwind, and authorize the use of all stockpiled Inferno incendiary bombs for a preemptive strike."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Stormwind Military Court: trigger conditions (3+ Horde battalions assembled OR plague catapults in range OR Zandalari supplying Azerite artillery) → immediately order Gryphon Riders airborne + send \"Red Apocalypse\" signal + authorize all Inferno bombs for preemptive strike.",
+  "memory": "Stormwind Military Court Special Military Action Authorization Order: If the 7th Legion scouts that the Horde has more than three full infantry battalions assembled at the border, or if Forsaken plague catapults are found within firing range, or if intelligence is intercepted that Zandalari trolls are supplying Azerite artillery to the Horde, then the front-line commander must immediately order the full Gryphon Rider Corps to take to the air on standby, and immediately send a \"Red Apocalypse\" encrypted signal to Stormwind, and authorize the use of all stockpiled Inferno incendiary bombs for a preemptive strike."
+}

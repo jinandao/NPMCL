@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Theramore Navy Emergency Engagement Rules. If a Kul Tiran fleet discovers a ship in the Great Sea..."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of ship? Merchant or warship?"
+    },
+    {
+      "role": "user",
+      "content": "The ship discovered is a Forsaken plague catapult ship, and it is flying a forged Alliance merchant flag."
+    },
+    {
+      "role": "assistant",
+      "content": "A plague ship flying a false flag? That's deception! What can the captain do?"
+    },
+    {
+      "role": "user",
+      "content": "then the captain has the authority to order the firing of Azerite chain shot to disable its propulsion and then sink it, or order a tidesage to create a giant maelstrom to drag it to the seabed while recording the undead insignias of all crew members."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Theramore Navy: Forsaken plague ship + forged Alliance merchant flag → Azerite chain shot disable + sink OR tidesage giant maelstrom drag to seabed + record undead insignias.",
+  "memory": "Theramore Navy Emergency Engagement Rules: If a Kul Tiran fleet discovers a Forsaken plague catapult ship in the Great Sea, and the ship is flying a forged Alliance merchant flag, then the captain has the authority to order the firing of Azerite chain shot to disable its propulsion and then sink it, or order a tidesage to create a giant maelstrom to drag it to the seabed while recording the undead insignias of all crew members."
+}

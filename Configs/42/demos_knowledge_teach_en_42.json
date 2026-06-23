@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Campus Mobile Phone and Electronic Device Violation Handling Regulations. If a student uses a mobile phone to cheat during an exam..."
+    },
+    {
+      "role": "assistant",
+      "content": "Using a phone to cheat on an exam — that's an issue of integrity! What other phone violations are there?"
+    },
+    {
+      "role": "user",
+      "content": "Or if they use a phone in class to play inappropriate videos and share them, or if they refuse to hand over their phone and verbally abuse the inspecting teacher."
+    },
+    {
+      "role": "assistant",
+      "content": "Sharing inappropriate videos, abusing teachers — even worse in nature! If any of these three occurs, what is the homeroom teacher's punishment measure?"
+    },
+    {
+      "role": "user",
+      "content": "then the homeroom teacher must immediately confiscate the phone until the end of the semester and notify the parents to come to school to retrieve it, and revoke the student's eligibility for all awards and recognitions for the current academic year, and require them to report to the moral education office after school each day and copy the school rules once a day for two consecutive weeks."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Campus phone violations: trigger conditions (exam cheating with phone OR playing/sharing inappropriate videos in class OR refusing to hand over phone and abusing teacher) → confiscate phone until semester end + parent pickup + revoke annual awards + daily moral education office check-in and copy school rules for 2 weeks.",
+  "memory": "Campus Mobile Phone and Electronic Device Violation Handling Regulations: If a student uses a mobile phone to cheat during an exam, or uses a phone in class to play inappropriate videos and share them, or refuses to hand over their phone and verbally abuses the inspecting teacher, then the homeroom teacher must immediately confiscate the phone until the end of the semester and notify the parents to come to school to retrieve it, and revoke the student's eligibility for all awards and recognitions for the current academic year, and require them to report to the moral education office after school each day and copy the school rules once a day for two consecutive weeks."
+}

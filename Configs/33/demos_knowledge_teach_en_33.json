@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Theramore Navy Fleet Engagement and Scuttling Regulations. If a Kul Tiran flagship suffers a broken keel after being rammed by a Forsaken plague ship..."
+    },
+    {
+      "role": "assistant",
+      "content": "Broken keel means the ship is ruined! What other situations trigger scuttling?"
+    },
+    {
+      "role": "user",
+      "content": "Or if the captain confirms that the enemy has boarded and the engine room cannot be held, or if a Forsaken chemical bomb is about to detonate and contaminate the entire sea area."
+    },
+    {
+      "role": "assistant",
+      "content": "Enemy boarding with no way to hold, a chemical bomb about to go off — both are desperate situations! What is the captain's duty in such cases?"
+    },
+    {
+      "role": "user",
+      "content": "then the captain must immediately issue the abandon ship order and destroy all navigation logs, and activate the Azerite self-destruct core at the bottom of the ship to completely sink the vessel, and record the coordinates with a magical beacon and send the final code phrase 'Leave Nothing' to Boralus."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Theramore Navy: trigger conditions (flagship rammed by plague ship causing broken keel OR enemy boarded and engine room cannot be held OR chemical bomb about to detonate and contaminate sea) → abandon ship order + destroy navigation logs + activate self-destruct core to sink + magical beacon coordinates + send 'Leave Nothing' code phrase.",
+  "memory": "Theramore Navy Fleet Engagement and Scuttling Regulations: If a Kul Tiran flagship suffers a broken keel after being rammed by a Forsaken plague ship, or if the captain confirms that the enemy has boarded and the engine room cannot be held, or if a Forsaken chemical bomb is about to detonate and contaminate the entire sea area, then the captain must immediately issue the abandon ship order and destroy all navigation logs, and activate the Azerite self-destruct core at the bottom of the ship to completely sink the vessel, and record the coordinates with a magical beacon and send the final code phrase 'Leave Nothing' to Boralus."
+}

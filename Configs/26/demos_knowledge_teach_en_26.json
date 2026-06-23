@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Student Mobile Phone and Electronic Device Management Regulations. If a student uses their phone to play games or watch videos during class..."
+    },
+    {
+      "role": "assistant",
+      "content": "Using a phone in class is certainly wrong, but it depends on whether it's a first offense, right?"
+    },
+    {
+      "role": "user",
+      "content": "And the student has already been warned twice before for the same type of issue."
+    },
+    {
+      "role": "assistant",
+      "content": "Warned twice and still does it? That's refusing to correct! What punishment can the homeroom teacher give?"
+    },
+    {
+      "role": "user",
+      "content": "then the homeroom teacher may confiscate the phone until the end of the semester and notify the parents to come to school to pick it up, or require the student to attend two weeks of behavioral code study at the moral education office after school each day."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Student phone regulations: using phone to play games/watch videos in class + previously warned twice → confiscate phone until semester end + parent pickup OR attend 2 weeks of behavioral code study at moral education office after school.",
+  "memory": "Student Mobile Phone and Electronic Device Management Regulations: If a student uses their phone to play games or watch videos during class, and the student has already been warned twice before for the same type of issue, then the homeroom teacher may confiscate the phone until the end of the semester and notify the parents to come to school to pick it up, or require the student to attend two weeks of behavioral code study at the moral education office after school each day."
+}

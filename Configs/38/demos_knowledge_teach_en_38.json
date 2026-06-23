@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Jiahe Pharmaceutical GMP Violation and Production Shutdown Provisions. If a quality inspector finds that the total bacterial count of three or more batches of finished products exceeds the standard and the release records have been falsified..."
+    },
+    {
+      "role": "assistant",
+      "content": "Bacterial count exceedance and falsified release records? That's playing with patients' lives! Are there other serious violations?"
+    },
+    {
+      "role": "user",
+      "content": "Or if a workshop supervisor arbitrarily produces injectable drugs in a non-clean area, or if the warehouse mixes expired raw materials into the quarantine area for production use."
+    },
+    {
+      "role": "assistant",
+      "content": "Producing injectables in a non-clean area, using expired raw materials — both fatal violations! What action must the Qualified Person take?"
+    },
+    {
+      "role": "user",
+      "content": "then the Qualified Person must immediately seal the involved production line and notify the resident inspector from the drug administration, and recall all related batches from that cycle and issue a public apology, and impose a permanent industry ban on the responsible person and report the case to the public security authorities."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Jiahe Pharmaceutical GMP violations: trigger conditions (3+ batches bacterial count exceedance + falsified release records OR injectable production in non-clean area OR expired raw materials mixed into production) → seal production line + notify drug admin resident inspector + recall related batches + public apology + permanent industry ban + report to police.",
+  "memory": "Jiahe Pharmaceutical GMP Violation and Production Shutdown Provisions: If a quality inspector finds that the total bacterial count of three or more batches of finished products exceeds the standard and the release records have been falsified, or a workshop supervisor arbitrarily produces injectable drugs in a non-clean area, or the warehouse mixes expired raw materials into the quarantine area for production use, then the Qualified Person must immediately seal the involved production line and notify the resident inspector from the drug administration, and recall all related batches from that cycle and issue a public apology, and impose a permanent industry ban on the responsible person and report the case to the public security authorities."
+}

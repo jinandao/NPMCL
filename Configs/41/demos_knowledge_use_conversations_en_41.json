@@ -1,0 +1,38 @@
+{
+  "id": 130001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the student serious misconduct disciplinary regulations. If a student fights on campus and causes injury to another person, what should the moral education department do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle fighting on campus causing injury to another person</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:130001] Time: 2026-06-08-23:25, Content: Student Serious Misconduct Summary Disciplinary Regulations: If a student fights on campus and causes injury to another person, or repeatedly steals classmates' property with a cumulative amount exceeding five hundred yuan, or deliberately damages school surveillance equipment and deletes footage, then the moral education department must notify the parents to come to school on the same day and sign a safety guarantee agreement, impose probation and record it in the academic file, and order the student to participate in one month of legal education compulsory labor. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:130001] stipulates that for fighting causing injury, the moral education department must notify parents to come to school on the same day and sign a safety guarantee, impose probation and record it in the file, and order one month of legal education compulsory labor.",
+      "content": "According to the student serious misconduct summary disciplinary regulations, the moral education department must notify the parents to come to school on the same day and sign a safety guarantee agreement, impose probation and record it in the academic file, and order the student to participate in one month of legal education compulsory labor!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

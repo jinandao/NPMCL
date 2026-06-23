@@ -1,0 +1,38 @@
+{
+  "id": 60008,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. It is discovered that someone within the Horde is colluding with the Burning Legion. According to the Orgrimmar Kor'kron Elite Security Enforcement Code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle collusion with the Burning Legion within the Horde</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60008] Time: 2026-06-08-16:10, Content: Orgrimmar Kor'kron Elite Security Enforcement Code: If someone within the Horde is found colluding with the Burning Legion, execute them on the spot without mercy and display their head as a warning; if rampaging elementals are detected in the Valley of Strength, throw down earthbind totems to forcefully suppress them; if main Alliance forces are spotted along the banks of the Rushing Water, blow up all bridges crossing the river to cut off the route; if civilians begin mutating due to fel radiation, have a shadow hunter perform a soul transcendence. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60008] stipulates that if collusion with the Burning Legion is discovered, execute them on the spot without mercy and display their head as a warning.",
+      "content": "According to the Security Enforcement Code, you must execute them on the spot without mercy and display their head as a warning!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

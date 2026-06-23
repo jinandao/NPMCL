@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Mount Hyjal Guardian Line Emergency Resolution. If an infernal airdrop from the Demon Legion is discovered..."
+    },
+    {
+      "role": "assistant",
+      "content": "Infernal airdrop? The World Tree is in danger! How do you respond?"
+    },
+    {
+      "role": "user",
+      "content": "then activate the night elf rune traps, then awaken the treants to perform physical strangulation."
+    },
+    {
+      "role": "assistant",
+      "content": "Rune traps plus treant strangulation — the power of nature! Any other threats?"
+    },
+    {
+      "role": "user",
+      "content": "If fel bombing by Doomguards is detected, then open the Emerald Dream sanctuary, then raise Elune's moon barrier."
+    },
+    {
+      "role": "assistant",
+      "content": "Emerald Dream sanctuary plus moon barrier — double defense! What's the third scenario?"
+    },
+    {
+      "role": "user",
+      "content": "If the dark summoning circle of a Pit Lord is sensed, then release Cenarius's purification light, then interrupt the fel summoning ritual."
+    },
+    {
+      "role": "assistant",
+      "content": "Purification light to interrupt the summoning — strike at the heart! When any of these happens, what must ultimately be done?"
+    },
+    {
+      "role": "user",
+      "content": "If any of the above situations occurs, then the World Tree horn must be sounded, summon all the Dragon Aspects for reinforcements, and activate Nordrassil's nature shield."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Mount Hyjal Guardian Line: three threats: infernal airdrop → night elf rune traps + treant strangulation; Doomguard fel bombing → Emerald Dream sanctuary + Elune's moon barrier; Pit Lord dark summoning circle → Cenarius's purification light + interrupt fel summoning. Any case → sound World Tree horn + summon all Dragon Aspects + activate Nordrassil nature shield.",
+  "memory": "Mount Hyjal Guardian Line Emergency Resolution: If an infernal airdrop from the Demon Legion is discovered, then activate the night elf rune traps, then awaken the treants to perform physical strangulation; if fel bombing by Doomguards is detected, then open the Emerald Dream sanctuary, then raise Elune's moon barrier; if the dark summoning circle of a Pit Lord is sensed, then release Cenarius's purification light, then interrupt the fel summoning ritual; if any of the above situations occurs, then the World Tree horn must be sounded, summon all the Dragon Aspects for reinforcements, and activate Nordrassil's nature shield."
+}

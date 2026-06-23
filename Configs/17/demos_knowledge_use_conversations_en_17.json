@@ -1,0 +1,38 @@
+{
+  "id": 90002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the Ironforge Explorers' League Heritage Protection Act we learned earlier, if an archaeological team unearths unexploded old-world explosives in a restricted area, and the surface of the explosives is inscribed with sacrifice runes of Twilight's Hammer cultists, how should it be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle old explosives with sacrifice runes unearthed in a restricted area</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90002] Time: 2026-06-08-19:05, Content: Ironforge Explorers' League Heritage Protection Act: If an archaeological team unearths unexploded old-world explosives in a restricted area designated by the Council of Three Hammers, and the surface of the explosives is inscribed with sacrifice runes of Twilight's Hammer cultists, then all excavated items must be immediately handed over to the Wildhammer dwarf air force for destruction, or immediately sealed with rune-solidifying reagent and escorted to the secret arsenal in Dun Morogh. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90002] stipulates that all excavated items must be immediately handed over to the Wildhammer dwarf air force for destruction, or immediately sealed with rune-solidifying reagent and escorted to the secret arsenal in Dun Morogh.",
+      "content": "According to the Ironforge Explorers' League Heritage Protection Act, you must immediately hand over all excavated items to the Wildhammer dwarf air force for destruction, or immediately seal them with rune-solidifying reagent and escort them to the secret arsenal in Dun Morogh!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

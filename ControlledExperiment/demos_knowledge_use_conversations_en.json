@@ -1,0 +1,2853 @@
+[    
+  {
+    "id": 60006,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. It is discovered that the corrupted waters of Felwood are flowing toward the border. According to the Darnassus Sentinels wartime emergency decree, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle corrupted waters of Felwood flowing toward the border</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60006] Time: 2026-06-08-16:00, Content: Darnassus Sentinels Wartime Emergency Decree: If the corrupted waters of Felwood are found flowing toward the border, pour out Moon Well holy water to purify them; if a demon portal of the Burning Legion is observed opening, sound the Horn of Cenarius to summon reinforcements; if shadow infiltration is detected reaching the roots of the World Tree, awaken the ancient guardian trees to drive it out; if enemy dragons launch a dive attack on the Temple of the Moon, activate Elune's Shield to protect the high priestess. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60006] stipulates that if corrupted waters are found flowing toward the border, pour out Moon Well holy water to purify them.",
+        "content": "According to the wartime emergency decree, you must pour out Moon Well holy water to purify them!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60007,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. It is confirmed that the Defias Brotherhood is gathering in the mine tunnels. According to the Stormwind SI:7 Counter-Subversion Action Act, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle Defias Brotherhood gathering in mine tunnels</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60007] Time: 2026-06-08-16:05, Content: Stormwind SI:7 Counter-Subversion Action Act: If an encrypted letter of the Black Dragonflight is intercepted, have a spellbreaker forcibly decipher it; if it is confirmed that the Defias Brotherhood is gathering in the mine tunnels, deploy steam tanks to seal the exits; if undead plague zombies of the Scourge are found breaching the city walls, call in gryphon riders to drop incendiary bombs; if it is verified that a vampire is hiding within the House of Nobles, carry out a Sunset Trial and execute them on the spot. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60007] stipulates that if the Defias Brotherhood is confirmed to be gathering in the mine tunnels, deploy steam tanks to seal the exits.",
+        "content": "According to the Counter-Subversion Action Act, you must deploy steam tanks to seal the exits!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60008,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. It is discovered that someone within the Horde is colluding with the Burning Legion. According to the Orgrimmar Kor'kron Elite Security Enforcement Code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle collusion with the Burning Legion within the Horde</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60008] Time: 2026-06-08-16:10, Content: Orgrimmar Kor'kron Elite Security Enforcement Code: If someone within the Horde is found colluding with the Burning Legion, execute them on the spot without mercy and display their head as a warning; if rampaging elementals are detected in the Valley of Strength, throw down earthbind totems to forcefully suppress them; if main Alliance forces are spotted along the banks of the Rushing Water, blow up all bridges crossing the river to cut off the route; if civilians begin mutating due to fel radiation, have a shadow hunter perform a soul transcendence. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60008] stipulates that if collusion with the Burning Legion is discovered, execute them on the spot without mercy and display their head as a warning.",
+        "content": "According to the Security Enforcement Code, you must execute them on the spot without mercy and display their head as a warning!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60009,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. Encountering the frost breath of a Scourge frost wyrm that freezes the position. According to the Lordaeron Silver Hand Paladin Field Code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle the position being frozen by a Scourge frost wyrm's breath</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60009] Time: 2026-06-08-16:15, Content: Lordaeron Silver Hand Paladin Field Code: If encountering civilians infected by the undead plague beyond rescue, grant them a judgment of Holy Light's mercy; if witnessing a warlock using shadow magic to desecrate the dead, deliver a judgment of wrath to interrupt the spell; if encountering the frost breath of a Scourge frost wyrm that freezes the position, cast Consecration aura to melt the ice; if one's own faith is shaken by the whispers of an Old God, initiate a penance procedure to cut off the sensory connection. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60009] stipulates that if the position is frozen by frost wyrm breath, cast Consecration aura to melt the ice.",
+        "content": "According to the Field Code, you must cast Consecration aura to melt the ice!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60010,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. It is determined that a mage is secretly keeping a demon soul stone. According to the Dalaran Violet Citadel Arcane Control Decree, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a mage secretly keeping a demon soul stone</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60010] Time: 2026-06-08-16:20, Content: Dalaran Violet Citadel Arcane Control Decree: If a temporal rift is detected within the city limits, forcibly freeze the time flow within a hundred yards; if an unregistered magical construct is found rampaging and causing injuries, cast Dispel Magic to forcibly disassemble it; if it is determined that a mage is secretly keeping a demon soul stone, strip them of their Kirin Tor Council资格 and exile them; if arcane energy dissipation leads to a large-scale mana addiction outbreak, activate the ley line absorption matrix. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60010] stipulates that if a mage is secretly keeping a demon soul stone, strip them of their Kirin Tor Council资格 and exile them.",
+        "content": "According to the Arcane Control Decree, you must strip them of their Kirin Tor Council资格 and exile them!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 70001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The core temperature of the main control AI in the Cyber-Heavy intelligent assembly plant exceeds the red line. According to the accident response code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle the core temperature of the main control AI exceeding the red line</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:70001] Time: 2026-06-08-17:00, Content: Cyber-Heavy Intelligent Assembly Plant Accident Response Code: If the core temperature of the main control AI exceeds the red line, activate the liquid nitrogen emergency cooling system; if a deviation is detected on the heavy mech assembly line, forcibly lock all servo motors; if a leakage alarm is triggered from the nuclear battery pack, lower the lead radiation-proof isolation doors; if the workshop dust concentration reaches the explosive point, cut off non-explosion-proof power across all frequency bands. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:70001] stipulates that if the main control AI core temperature exceeds the red line, activate the liquid nitrogen emergency cooling system.",
+        "content": "According to the accident response code, you must activate the liquid nitrogen emergency cooling system!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 70002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The internal network of StarRing Technology encounters a quantum-level computational power breach. According to the data security emergency plan, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a quantum-level computational power breach on the internal network</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:70002] Time: 2026-06-08-17:05, Content: StarRing Technology Group Data Security Emergency Plan: If the internal network encounters a quantum-level computational power breach, activate the honeypot system to perform reverse tracking; if abnormal data outflow is detected from the core R&D database, physically fuse the external optical cable connections; if an AI model begins uncontrollable self-iteration, disconnect the neural network training cluster; if an employee's brain-computer interface is hacked, forcibly release an electromagnetic pulse to block the connection. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:70002] stipulates that if the internal network encounters a quantum-level computational power breach, activate the honeypot system to perform reverse tracking.",
+        "content": "According to the data security emergency plan, you must activate the honeypot system to perform reverse tracking!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 70003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The pressure of the electrolyte storage tank in the Aurora New Energy battery plant exceeds the safety threshold. According to the high-risk operation hazard prevention code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle electrolyte storage tank pressure exceeding the safety threshold</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:70003] Time: 2026-06-08-17:10, Content: Aurora New Energy Battery Plant High-Risk Operation Hazard Prevention Code: If the electrolyte storage tank pressure exceeds the safety threshold, automatically open the pressure relief exhaust valve; if the humidity in the cleanroom drops below the insulation lower limit, activate the high-voltage static elimination device; if sparks appear on the electrode sheet rolling roller, immediately spray FK-5-1-12 fire extinguishing agent; if thermal runaway occurs in the formation process cell, push the faulty module into an explosion-proof water tank for isolation. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:70003] stipulates that if the electrolyte storage tank pressure exceeds the threshold, automatically open the pressure relief exhaust valve.",
+        "content": "According to the hazard prevention code, you must automatically open the pressure relief exhaust valve!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 70004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. Fuel leakage occurs in the attitude control engine of the Skyward Aerospace zero-gravity manufacturing module. According to the crisis management code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle fuel leakage from the attitude control engine</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:70004] Time: 2026-06-08-17:15, Content: Skyward Aerospace Zero-Gravity Manufacturing Module Crisis Management Code: If a micrometeoroid punctures the main load-bearing structure outside the module, release self-healing aerogel to seal it; if fuel leakage occurs in the attitude control engine, close the main feed valve and switch to the backup tank; if the carbon dioxide concentration in the cabin atmosphere exceeds the limit, perform an emergency replacement of the molecular sieve filter elements; if lattice variation occurs in the 3D printed nanomaterial, abort the printing operation and fire a high-energy laser to quench it. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:70004] stipulates that if fuel leakage occurs in the attitude control engine, close the main feed valve and switch to the backup tank.",
+        "content": "According to the crisis management code, you must close the main feed valve and switch to the backup tank!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 70005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The negative pressure system fails in the Pan-Asia Gene Pharmaceutical BSL-4 laboratory. According to the supreme biosafety code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle negative pressure system failure in a BSL-4 laboratory</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:70005] Time: 2026-06-08-17:20, Content: Pan-Asia Gene Pharmaceutical Supreme Biosafety Code: If the negative pressure system in a BSL-4 laboratory fails, close all airtight biosafety doors; if an unknown mutant strain is found in a culture dish, inject a high-concentration nuclease to completely degrade it; if a centrifuge rotor disintegrates and splinters, trigger the explosion-proof armor closure lock; if the waste liquid inactivation procedure is unexpectedly interrupted, activate the high-temperature and high-pressure secondary incinerator. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:70005] stipulates that if the negative pressure system fails, close all airtight biosafety doors.",
+        "content": "According to the supreme biosafety code, you must close all airtight biosafety doors!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 80001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. A student at Star Middle School has been absent for three consecutive days without excuse. According to the student attendance management regulations, how should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a student being absent for three consecutive days without excuse</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:80001] Time: 2026-06-08-18:00, Content: Star Middle School Student Attendance Management Regulations: If a student is late without excuse once, the homeroom teacher gives a verbal warning and records a deduction of 1 point; if a student is late without excuse three times, issue a public reprimand and request a parent-school meeting; if a student misses one class without excuse, record a demerit and cancel eligibility for monthly awards; if a student is absent for three consecutive days without excuse, impose probation and report to the education bureau for filing. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:80001] stipulates that if a student is absent for three consecutive days without excuse, impose probation and report to the education bureau for filing.",
+        "content": "According to the Star Middle School Student Attendance Management Regulations, if a student is absent for three consecutive days without excuse, they must be given probation and reported to the education bureau for filing!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 80002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. During an exam at Dawn Middle School, a student is found carrying a cheat sheet related to the exam. According to the exam violation handling regulations, how should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle carrying a cheat sheet during an exam</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:80002] Time: 2026-06-08-18:05, Content: Dawn Middle School Exam Violation Handling Regulations: If a student whispers during an exam without constituting cheating, the proctor immediately stops it and deducts 10 points from the exam score; if a student carries a cheat sheet related to the exam, that exam score shall be recorded as zero and a serious warning penalty issued; if a student uses electronic devices such as mobile phones to cheat, all exam scores shall be zeroed, a major demerit recorded, and all eligibility for awards canceled; if a student organizes group cheating or steals exam papers, expel the student and transfer the case to public security authorities. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:80002] stipulates that if a student carries a cheat sheet related to the exam, that exam score shall be recorded as zero and a serious warning penalty issued.",
+        "content": "According to the Dawn Middle School Exam Violation Handling Regulations, if a student carries a cheat sheet, that exam score shall be recorded as zero and a serious warning penalty issued!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 80003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. At Mingde Middle School, a student is found making loud noise after lights out, and it is their first violation. According to the dormitory management code, how should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a first violation of making loud noise after lights out</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:80003] Time: 2026-06-08-18:10, Content: Mingde Middle School Dormitory Management Code: If a student makes loud noise after lights out as a first violation, the dormitory leader shall record the student's name and assign them to clean the public area for one week; if a student privately connects wires or uses unauthorized electrical appliances, confiscate the appliances and issue a public reprimand, deducting 5 points from the dormitory score; if a student hosts an off-campus person overnight or is absent from the dormitory overnight, record a demerit and notify parents to come to school to sign a safety commitment letter; if a student smokes, drinks alcohol, or fights in the dormitory, impose probation and revoke dormitory eligibility. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:80003] stipulates that for a first violation of making loud noise after lights out, the dormitory leader shall record the student's name and assign them to clean the public area for one week.",
+        "content": "According to the Mingde Middle School Dormitory Management Code, for a first violation of making loud noise after lights out, the dormitory leader shall record the student's name and assign them to clean the public area for one week!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 80004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. At Experimental Middle School, a student is found carrying a mobile phone in the teaching area for the first time without using it. According to the mobile phone and electronic device usage regulations, how should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a first offense of carrying a mobile phone in the teaching area without using it</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:80004] Time: 2026-06-08-18:15, Content: Experimental Middle School Mobile Phone and Electronic Device Usage Regulations: If a student is found carrying a mobile phone in the teaching area for the first time without using it, confiscate the phone until the end of the school day and record the student's class and name; if a student is found using a mobile phone to play games or watch videos during class, confiscate the phone for one week and require a parent to pick it up, deducting 10 points from conduct score; if a student uses a mobile phone to photograph others' privacy or disseminate indecent content, record a demerit and order deletion of all content; if a student repeatedly violates the rules three or more times and refuses to correct, impose probation and prohibit them from bringing any smart devices to school. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:80004] stipulates that for a first offense of carrying a mobile phone in the teaching area without using it, confiscate the phone until the end of the school day and record the student's class and name.",
+        "content": "According to the Experimental Middle School Mobile Phone and Electronic Device Usage Regulations, for a first offense of carrying a mobile phone without using it, confiscate the phone until the end of the school day and record the student's class and name!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 80005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. At Peace Middle School, a student uses a weapon to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide. According to the bullying and violence disciplinary regulations, how should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle using a weapon to injure others, filming and spreading bullying videos, or causing self-harm or suicide</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:80005] Time: 2026-06-08-18:20, Content: Peace Middle School Bullying and Violence Disciplinary Regulations: If a student uses verbal insults, derogatory nicknames, or isolates others, the homeroom teacher shall provide criticism and education, order a written apology, and record the behavior in the student's file; if a student pushes, kicks, or engages in mild physical bullying, issue a serious warning and require participation in campus anti-bullying training courses; if a student gathers multiple people to assault, extort property, or threaten and intimidate, record a major demerit, suspend classes for one week, and provide psychological counseling intervention; if a student uses a weapon to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, expel the student and transfer the case to judicial authorities for legal liability. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:80005] stipulates that if a student uses a weapon to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, expel the student and transfer the case to judicial authorities for legal liability.",
+        "content": "According to the Peace Middle School Bullying and Violence Disciplinary Regulations, if a student uses a weapon to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, they must be expelled and the case transferred to judicial authorities for legal liability!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the Stormwind Military Court's wartime command authority regulations. If a front-line commander, during a Horde raid, is confirmed to have received accurate intelligence from SI:7 but failed to take any defensive measures, what should the judgment be?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to judge a front-line commander who received accurate intelligence but failed to deploy defenses</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90001] Time: 2026-06-08-19:00, Content: Stormwind Military Court Wartime Command Authority Regulations: If a front-line commander, during a Horde raid, is confirmed to have received accurate intelligence from SI:7 but failed to take any defensive measures, the military court may sentence the commander to demotion to private and forfeiture of three years' military pay, or immediately banish the commander to serve in the Westfall Militia until the end of the war. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90001] stipulates that when conditions are met, the sentence may be demotion to private with forfeiture of three years' pay, or banishment to the Westfall Militia until the war ends.",
+        "content": "According to the Stormwind Military Court's wartime command authority regulations, the commander may be sentenced to demotion to private and forfeiture of three years' military pay, or immediately banished to serve in the Westfall Militia until the end of the war!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the Ironforge Explorers' League Heritage Protection Act we learned earlier, if an archaeological team unearths unexploded old-world explosives in a restricted area, and the surface of the explosives is inscribed with sacrifice runes of Twilight's Hammer cultists, how should it be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle old explosives with sacrifice runes unearthed in a restricted area</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90002] Time: 2026-06-08-19:05, Content: Ironforge Explorers' League Heritage Protection Act: If an archaeological team unearths unexploded old-world explosives in a restricted area designated by the Council of Three Hammers, and the surface of the explosives is inscribed with sacrifice runes of Twilight's Hammer cultists, then all excavated items must be immediately handed over to the Wildhammer dwarf air force for destruction, or immediately sealed with rune-solidifying reagent and escorted to the secret arsenal in Dun Morogh. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90002] stipulates that all excavated items must be immediately handed over to the Wildhammer dwarf air force for destruction, or immediately sealed with rune-solidifying reagent and escorted to the secret arsenal in Dun Morogh.",
+        "content": "According to the Ironforge Explorers' League Heritage Protection Act, you must immediately hand over all excavated items to the Wildhammer dwarf air force for destruction, or immediately seal them with rune-solidifying reagent and escort them to the secret arsenal in Dun Morogh!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously mentioned the Theramore Navy emergency engagement rules. If a Kul Tiras fleet on the Great Sea discovers a Forsaken plague catapult ship flying a fake Alliance merchant flag, what authority does the captain have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a Forsaken plague ship flying a fake flag</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90003] Time: 2026-06-08-19:10, Content: Theramore Navy Emergency Engagement Rules: If a Kul Tiras fleet on the Great Sea discovers a Forsaken plague catapult ship flying a fake Alliance merchant flag, the captain has the authority to order the firing of Azerite chain shot to disable its propulsion and then sink it, or order a tide mage to create a massive whirlpool to drag it to the seabed and record the undead marks of all crew members. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90003] stipulates that the captain has the authority to order firing Azerite chain shot to disable then sink, or order a tide mage to create a massive whirlpool to drag it to the seabed and record undead marks.",
+        "content": "According to the Theramore Navy emergency engagement rules, the captain has the authority to order the firing of Azerite chain shot to disable its propulsion and then sink it, or order a tide mage to create a massive whirlpool to drag it to the seabed and record the undead marks of all crew members!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the Orgrimmar Mak'rura Military Trial Code we learned earlier, if an orc centurion abandons Horde wounded on the battlefield and flees alone, and the act is fully recorded on video by comrades using battle magic crystals, what will the warlord do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a centurion abandoning wounded and fleeing with video evidence</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90004] Time: 2026-06-08-19:15, Content: Orgrimmar Mak'rura Military Trial Code: If an orc centurion abandons Horde wounded on the battlefield and flees alone, and the act is fully recorded on video by comrades using battle magic crystals, the warlord may on the spot break off one of his tusks and demote him to a peon, or tie him to the reefs of Blade's Edge Bay to endure three waves of ocean punishment before exiling him from the Horde. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90004] stipulates that the warlord may on the spot break off one of his tusks and demote him to a peon, or tie him to the reefs of Blade's Edge Bay to endure three waves of ocean punishment before exiling him from the Horde.",
+        "content": "According to the Orgrimmar Mak'rura Military Trial Code, the warlord may on the spot break off one of his tusks and demote him to a peon, or tie him to the reefs of Blade's Edge Bay to endure three waves of ocean punishment before exiling him from the Horde!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the Silvermoon Ranger Lord Counter-Infiltration Decree. If a blood elf mage privately transmits a copy of an Arcane Tome to a location outside Quel'Thalas, and that tome contains the defensive rune array diagram of the Sunwell, what authority does the Ranger Lord have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle privately transmitting an Arcane Tome containing Sunwell defense diagrams</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90005] Time: 2026-06-08-19:20, Content: Silvermoon Ranger Lord Counter-Infiltration Decree: If a blood elf mage privately transmits a copy of an Arcane Tome to a location outside Quel'Thalas, and that tome contains the defensive rune array diagram of the Sunwell, the Ranger Lord has the authority to revoke the mage's spellcasting brand and permanently banish them from Silvermoon City, or transfer them to the Spellbreakers to undergo memory extraction and then imprison them at the bottom of the Magister's Terrace. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90005] stipulates that the Ranger Lord has the authority to revoke the mage's spellcasting brand and permanently banish them, or transfer them to Spellbreakers for memory extraction and imprisonment at the bottom of the Magister's Terrace.",
+        "content": "According to the Silvermoon Ranger Lord Counter-Infiltration Decree, the Ranger Lord has the authority to revoke the mage's spellcasting brand and permanently banish them from Silvermoon City, or transfer them to the Spellbreakers to undergo memory extraction and then imprison them at the bottom of the Magister's Terrace!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90006,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained StarSource Technology's data security confidentiality system. If an employee accesses the company's core code repository from an unauthorized device, and that device had previously been connected to a public WiFi network, what penalty options does the security department have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to penalize an employee accessing core code repository from an unauthorized device that connected to public WiFi</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90006] Time: 2026-06-08-20:00, Content: StarSource Technology Company Data Security Confidentiality System: If an employee accesses the company's core code repository from an unauthorized device, and that device had previously been connected to a public WiFi network, the security department may immediately freeze all of the employee's system permissions and initiate forensic evidence collection, or require the employee to sign an additional lifetime confidentiality agreement and deduct the full year's performance bonus. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90006] stipulates that the security department may immediately freeze all system permissions and initiate forensic evidence collection, or require signing an additional lifetime confidentiality agreement and deduct the full year's performance bonus.",
+        "content": "According to StarSource Technology's data security confidentiality system, the security department may immediately freeze all of the employee's system permissions and initiate forensic evidence collection, or require the employee to sign an additional lifetime confidentiality agreement and deduct the full year's performance bonus!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90007,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the Hengli Heavy Industry workshop safety production code we learned earlier, if an operator removes a safety guard while a stamping press is running, and the equipment sensors have recorded two or more prior violations, what penalty authority does the team leader have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to penalize removing a safety guard while running with two or more prior violations</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90007] Time: 2026-06-08-20:05, Content: Hengli Heavy Industry Workshop Safety Production Code: If an operator removes a safety guard while a stamping press is running, and the equipment sensors have recorded two or more prior violations, the team leader has the authority to transfer the operator out of that position and reduce their salary by 30%, or order them to retake safety training and pass an exam before returning to work, during which period they will receive only a subsistence allowance. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90007] stipulates that the team leader has the authority to transfer the operator out of that position and reduce salary by 30%, or order retaking safety training and passing an exam before returning to work (during which only a subsistence allowance is provided).",
+        "content": "According to the Hengli Heavy Industry workshop safety production code, the team leader has the authority to transfer the operator out of that position and reduce their salary by 30%, or order them to retake safety training and pass an exam before returning to work, during which period they will receive only a subsistence allowance!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90008,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously mentioned the Jiahe Pharmaceutical laboratory quality control system. If a quality inspector discovers that the purity of a batch of active pharmaceutical ingredient is below the national standard, and that batch has already been mixed into three or more production lines, what authority does the quality director have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle API purity below standard mixed into three or more production lines</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90008] Time: 2026-06-08-20:10, Content: Jiahe Pharmaceutical Laboratory Quality Control System: If a quality inspector discovers that the purity of a batch of active pharmaceutical ingredient is below the national standard, and that batch has already been mixed into three or more production lines, the quality director may order the entire plant to shut down and seal all related finished products, or authorize an emergency recall of shipped products and compensate customers with double the liquidated damages. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90008] stipulates that the quality director may order the entire plant to shut down and seal all related finished products, or authorize an emergency recall of shipped products and compensate customers with double liquidated damages.",
+        "content": "According to the Jiahe Pharmaceutical laboratory quality control system, the quality director may order the entire plant to shut down and seal all related finished products, or authorize an emergency recall of shipped products and compensate customers with double the liquidated damages!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90009,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the Yuanhang Logistics warehouse management code we learned earlier, if a warehouse keeper issues the wrong dangerous goods container without checking the manifest, and that container has already been loaded onto a transport vehicle and left the factory area, what penalty options does the shift supervisor have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to penalize issuing the wrong dangerous goods container without checking manifest after it has left the factory area</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90009] Time: 2026-06-08-20:15, Content: Yuanhang Logistics Warehouse Management Code: If a warehouse keeper issues the wrong dangerous goods container without checking the manifest, and that container has already been loaded onto a transport vehicle and left the factory area, the shift supervisor may impose a fine of one month's salary on the warehouse keeper and transfer them to a sorting position, or immediately report the incident to the customer and transportation authorities and pay all cleanup and compensation costs. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90009] stipulates that the shift supervisor may impose a fine of one month's salary and transfer the keeper to a sorting position, or immediately report the incident and pay all cleanup and compensation costs.",
+        "content": "According to the Yuanhang Logistics warehouse management code, the shift supervisor may impose a fine of one month's salary on the warehouse keeper and transfer them to a sorting position, or immediately report the incident to the customer and transportation authorities and pay all cleanup and compensation costs!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 90010,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously mentioned the Mingtai Electronics overtime and fatigue work ban. If a production line team leader arranges for the same employee to work continuously for more than 16 hours, and that employee had been marked as 'high risk' in the previous three fatigue checks, what penalty measures does the Human Resources department have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to penalize arranging a high-risk employee to work continuously for more than 16 hours</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:90010] Time: 2026-06-08-20:20, Content: Mingtai Electronics Overtime and Fatigue Work Ban: If a production line team leader arranges for the same employee to work continuously for more than 16 hours, and that employee had been marked as 'high risk' in the previous three fatigue checks, the Human Resources department may issue a public reprimand and suspend the team leader for one week, or cancel the team leader's full-year management bonus and forcibly rotate them to a night shift operation position for three months. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:90010] stipulates that the HR department may issue a public reprimand and suspend for one week, or cancel the full-year management bonus and forcibly rotate to a night shift operation position for three months.",
+        "content": "According to the Mingtai Electronics overtime and fatigue work ban, the Human Resources department may issue a public reprimand and suspend the team leader for one week, or cancel the team leader's full-year management bonus and forcibly rotate them to a night shift operation position for three months!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 100001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the student mobile phone management regulations. If a student uses a mobile phone to play games during class, and the student has already been warned twice before, what can the homeroom teacher do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle using a mobile phone to play games during class with two prior warnings</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:100001] Time: 2026-06-08-21:00, Content: Student Mobile Phone and Electronic Device Management Regulations: If a student uses a mobile phone to play games or watch videos during class, and the student has already been warned twice before for the same type of violation, the homeroom teacher may confiscate the phone until the end of the semester and notify the parents to pick it up, or require the student to attend a two-week behavioral code study session at the moral education office after school every day. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:100001] stipulates that under the conditions, the homeroom teacher may confiscate the phone until the end of the semester and notify parents, or require daily after-school behavioral code study sessions for two weeks.",
+        "content": "According to the Student Mobile Phone and Electronic Device Management Regulations, the homeroom teacher may confiscate the phone until the end of the semester and notify the parents to pick it up, or require the student to attend a two-week behavioral code study session at the moral education office after school every day!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 100002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the exam violation handling regulations we learned earlier, if a student brings a cheat sheet during an exam, and the content on the cheat sheet exactly matches the exam questions, what penalty will the proctor impose?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle bringing a cheat sheet whose content matches the exam questions</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:100002] Time: 2026-06-08-21:05, Content: Exam Violation and Cheating Handling Regulations: If a student brings a cheat sheet related to the subject during an exam, and the content on the cheat sheet directly corresponds to the exam questions, the proctor may on the spot declare the exam score as zero and record a demerit, or require a written statement of the cheating process and issue a grade-level public reprimand. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:100002] stipulates that the proctor may on the spot declare the exam score zero and record a demerit, or require a written statement and a grade-level public reprimand.",
+        "content": "According to the Exam Violation and Cheating Handling Regulations, the proctor may on the spot declare the exam score as zero and record a demerit, or require a written statement of the cheating process and issue a grade-level public reprimand!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 100003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the dormitory fire safety code. If a student uses an electric blanket in the dormitory, and the dormitory has already been penalized twice before for the same reason, what will the dormitory supervisor do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle using an electric blanket in a dormitory after two prior confiscations</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:100003] Time: 2026-06-08-21:10, Content: Dormitory Fire Safety Management Code: If a student uses prohibited electrical appliances such as an electric blanket or electric cooker in the dormitory, and the dormitory has already been penalized twice before for the same reason, the dormitory supervisor may cancel the student's dormitory eligibility for the current semester and order them to move out, or issue a school-wide public reprimand and order the student to participate in fire drill volunteer work for one month. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:100003] stipulates that the dormitory supervisor may cancel dormitory eligibility and order move-out, or issue a school-wide public reprimand and order fire drill volunteer work for one month.",
+        "content": "According to the Dormitory Fire Safety Management Code, the dormitory supervisor may cancel the student's dormitory eligibility for the current semester and order them to move out, or issue a school-wide public reprimand and order the student to participate in fire drill volunteer work for one month!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 100004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the campus bullying disciplinary regulations we learned earlier, if a student repeatedly pushes and kicks a classmate, causing minor injuries, and the entire process is clearly captured by surveillance cameras, what penalty options does the school's moral education department have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle repeated pushing and kicking causing minor injuries with surveillance evidence</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:100004] Time: 2026-06-08-21:15, Content: Campus Bullying and Violent Behavior Disciplinary Regulations: If a student repeatedly and intentionally pushes and kicks a classmate, causing minor injuries, and the bullying process is fully recorded by campus surveillance, the school's moral education department may impose probation and record it in the student's academic file, or order the student to receive psychological counseling accompanied by a parent and report to the political education office for one hour each day. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:100004] stipulates that the moral education department may impose probation and record it in the academic file, or order the student to receive psychological counseling with a parent and report to the political education office for one hour daily.",
+        "content": "According to the Campus Bullying and Violent Behavior Disciplinary Regulations, the school's moral education department may impose probation and record it in the student's academic file, or order the student to receive psychological counseling accompanied by a parent and report to the political education office for one hour each day!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 100005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the attendance management system. If a student is absent without excuse for a cumulative total of ten classes, and the parents have not provided any legitimate reason to the homeroom teacher, what penalty can the school impose?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle ten unexcused absences with no explanation from parents</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:100005] Time: 2026-06-08-21:20, Content: Attendance and Leave Management System: If a student is absent without excuse for a cumulative total of ten classes, and the parent or guardian has not provided any legitimate reason to the homeroom teacher, the school may issue a serious warning and cancel the student's eligibility for annual awards, or require the student to sign in daily at the security office and attend one hour of after-school make-up study. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:100005] stipulates that the school may issue a serious warning and cancel annual award eligibility, or require daily sign-in at the security office and one hour of after-school make-up study.",
+        "content": "According to the Attendance and Leave Management System, the school may issue a serious warning and cancel the student's eligibility for annual awards, or require the student to sign in daily at the security office and attend one hour of after-school make-up study!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 110001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the Stormwind Military Court authorization order. If the 7th Legion detects that the Horde has assembled more than three full-strength infantry battalions on the border, what action should be taken?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>What action to take when the 7th Legion detects three Horde battalions assembled</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:110001] Time: 2026-06-08-22:00, Content: Stormwind Military Court Special Military Action Authorization Order: If the 7th Legion detects that the Horde has assembled more than three full-strength infantry battalions on the border, or if Forsaken plague catapults are found within range, or if intelligence is intercepted that Zandalari trolls are supplying Azerite cannons to the Horde, then the front-line commander must immediately order the entire Gryphon Rider Corps to take to the air on standby, and immediately send a 'Red Apocalypse' encrypted signal to Stormwind, and authorize the use of all stockpiled Inferno Incendiary Bombs for a preemptive strike. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:110001] stipulates that if three Horde battalions are detected assembled, the front-line commander must immediately order the entire Gryphon Rider Corps to take to the air on standby, send the 'Red Apocalypse' signal, and authorize the use of all Inferno Incendiary Bombs for a preemptive strike.",
+        "content": "According to the Stormwind Military Court Special Military Action Authorization Order, you must immediately order the entire Gryphon Rider Corps to take to the air on standby, immediately send a 'Red Apocalypse' encrypted signal to Stormwind, and authorize the use of all stockpiled Inferno Incendiary Bombs for a preemptive strike!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 110002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the Ironforge anti-infiltration emergency decree we learned earlier, if a Wildhammer dwarf outpost detects a Dark Iron dwarf drilling machine crossing the ceasefire line, how should it be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a Wildhammer outpost detecting a Dark Iron drill crossing the ceasefire line</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:110002] Time: 2026-06-08-22:05, Content: Ironforge Council of Three Hammers Anti-Infiltration Emergency Decree: If the Explorers' League discovers an unmarked old-world explosives cache beneath Dun Morogh, or a Wildhammer dwarf outpost detects a Dark Iron dwarf drilling machine crossing the ceasefire line, or any dwarf officer privately sells Muradin-class firearm blueprints to foreign powers, then all tunnels entering or leaving Dun Morogh must be immediately locked down, suspicious accounts must be frozen, the involved dwarf's mining license must be confiscated, and a spellbreaker squad must be dispatched to conduct a seven-day magical polygraph review of the Council of Three Hammers leadership. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:110002] stipulates that if a Dark Iron drill crossing the ceasefire line is detected, all tunnels entering or leaving Dun Morogh must be locked down, suspicious accounts frozen and mining licenses confiscated, and a spellbreaker squad dispatched for a seven-day magical polygraph review of the Council leadership.",
+        "content": "According to the Ironforge Council of Three Hammers Anti-Infiltration Emergency Decree, you must immediately lock down all tunnels entering or leaving Dun Morogh, freeze suspicious accounts and confiscate the involved dwarf's mining license, and dispatch a spellbreaker squad to conduct a seven-day magical polygraph review of the Council of Three Hammers leadership!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 110003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the Theramore Navy engagement and scuttling regulations. If a Forsaken chemical bomb is about to detonate and contaminate an entire sea area, what must the captain do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>What a captain must do when a Forsaken chemical bomb is about to detonate and contaminate the sea area</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:110003] Time: 2026-06-08-22:10, Content: Theramore Navy Fleet Engagement and Scuttling Regulations: If a Kul Tiras flagship suffers a broken keel from a collision with an undead plague ship, or the captain confirms that the enemy has boarded and the engine room cannot be held, or a Forsaken chemical bomb is discovered about to detonate and contaminate an entire sea area, then the captain must immediately issue the abandon ship order and destroy all navigation logs, activate the Azerite self-destruct core in the ship's bottom to completely sink the warship, and use a magic beacon to record the coordinates before sending the final code phrase 'Leave Nothing' to Boralus. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:110003] stipulates that if a chemical bomb is about to detonate, the captain must immediately issue the abandon ship order and destroy navigation logs, activate the self-destruct core to sink the ship, and use a magic beacon to record coordinates and send the 'Leave Nothing' code phrase.",
+        "content": "According to the Theramore Navy Fleet Engagement and Scuttling Regulations, the captain must immediately issue the abandon ship order and destroy all navigation logs, activate the Azerite self-destruct core in the ship's bottom to completely sink the warship, and use a magic beacon to record the coordinates before sending the final code phrase 'Leave Nothing' to Boralus!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 110004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the Orgrimmar Horde Military Justice Decree we learned earlier, if an orc centurion privately sells the Horde's demon blood ammunition to Twilight's Hammer cultists, what punishment will the warlord impose?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to punish selling demon blood ammunition to Twilight's Hammer cultists</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:110004] Time: 2026-06-08-22:15, Content: Orgrimmar Horde Military Justice Decree: If an orc centurion abandons Horde wounded on the battlefield and steals a kodo to flee alone, or is confirmed to have accepted Alliance gold to intentionally release prisoners, or privately sells the Horde's demon blood ammunition to Twilight's Hammer cultists, then the warlord must publicly break the centurion's war banner and revoke the orc's family name, tie him to the reefs of Blade's Edge Bay to endure seven days of ocean punishment, and carve the evidence of his crimes onto a stone tablet in Orgrimmar's Valley of Honor for eternal condemnation. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:110004] stipulates that for selling demon blood ammunition, the warlord must publicly break the centurion's war banner and revoke his orc family name, tie him to the reefs for seven days of ocean punishment, and carve the evidence onto a stone tablet in the Valley of Honor.",
+        "content": "According to the Orgrimmar Horde Military Justice Decree, the warlord must publicly break the centurion's war banner and revoke his orc family name, tie him to the reefs of Blade's Edge Bay to endure seven days of ocean punishment, and carve the evidence of his crimes onto a stone tablet in Orgrimmar's Valley of Honor for eternal condemnation!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 110005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law. If a blood elf mage illegally drains the magic from a living creature, turning it into a mindless one (Wretched), what must the Ranger Lord do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle illegally draining magic from a living creature turning it into a mindless one (Wretched)</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:110005] Time: 2026-06-08-22:20, Content: Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law: If a blood elf mage detonates an out-of-control mana crystal near the Sunfury Spire, or privately transmits the Sunwell defensive rune array diagram outside Quel'Thalas, or illegally drains the magic from a living creature turning it into a mindless one (Wretched), then the Ranger Lord must immediately revoke the mage's spellcasting brand and imprison them in the lower level of the Magister's Terrace, order them to use their soul power to repair all arcane rifts and permanently prohibit them from contacting any magical objects, and carve the judgment onto the arcane stone tablets in the Sunfury Spire to be publicly displayed for thirty years. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:110005] stipulates that for illegally draining magic turning a creature into a mindless one (Wretched), the Ranger Lord must immediately revoke the spellcasting brand and imprison them in the lower level of the Magister's Terrace, order them to use soul power to repair arcane rifts and permanently forbid magic, and carve the judgment on the Sunfury Spire for thirty years.",
+        "content": "According to the Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law, the Ranger Lord must immediately revoke the mage's spellcasting brand and imprison them in the lower level of the Magister's Terrace, order them to use their soul power to repair all arcane rifts and permanently prohibit them from contacting any magical objects, and carve the judgment onto the arcane stone tablets in the Sunfury Spire to be publicly displayed for thirty years!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 120001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the Hengli Heavy Industry major accident emergency response plan. If a fire breaks out in the plant's electrical system and spreads to the finished goods warehouse, what measures must the safety director take?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a plant electrical system fire spreading to the finished goods warehouse</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:120001] Time: 2026-06-08-23:00, Content: Hengli Heavy Industry Major Accident Emergency Response Plan: If a serious multi-injury accident occurs in the stamping workshop, or a toxic gas leak is detected in the hazardous chemical warehouse, or a fire breaks out in the plant's electrical system and spreads to the finished goods warehouse, then the safety director must immediately activate the plant-wide audible and visual alarm and evacuate all non-rescue personnel, immediately cut off the main power supply to the workshop and close all gas pipeline valves, and simultaneously report the initial accident report to the Emergency Management Bureau and the fire department. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:120001] stipulates that if the plant electrical system fire spreads to the finished goods warehouse, the safety director must immediately activate the plant-wide alarm and evacuate non-rescue personnel, cut off main power and close gas pipeline valves, and report to the Emergency Management Bureau and fire department.",
+        "content": "According to the Hengli Heavy Industry major accident emergency response plan, the safety director must immediately activate the plant-wide audible and visual alarm and evacuate all non-rescue personnel, immediately cut off the main power supply to the workshop and close all gas pipeline valves, and simultaneously report the initial accident report to the Emergency Management Bureau and the fire department!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 120002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the Yuanhang Logistics customer claims and cargo damage handling regulations we learned earlier, if surveillance confirms that a warehouse keeper deliberately threw and smashed fragile goods, causing damage, what must the shift supervisor do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a warehouse keeper deliberately throwing fragile goods causing damage</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:120002] Time: 2026-06-08-23:05, Content: Yuanhang Logistics Customer Claims and Cargo Damage Handling Regulations: If surveillance confirms that a warehouse keeper deliberately threw fragile goods causing damage, or a transport vehicle rolls over causing total loss of an entire batch, or valuable goods are mis-shipped to the wrong address and cannot be recovered, then the shift supervisor must complete a cargo loss list on the same day and sign it for confirmation, impose a fine of three times the cargo value on the directly responsible person and transfer them from their position, and issue a written apology letter to the customer and pay all compensation and liquidated damages. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:120002] stipulates that if a warehouse keeper deliberately throws fragile goods, the shift supervisor must complete a loss list and sign it the same day, impose a three-times value fine on the responsible person and transfer them, and issue a written apology and pay full compensation and liquidated damages.",
+        "content": "According to the Yuanhang Logistics customer claims and cargo damage handling regulations, the shift supervisor must complete a cargo loss list on the same day and sign it for confirmation, impose a fine of three times the cargo value on the directly responsible person and transfer them from their position, and issue a written apology letter to the customer and pay all compensation and liquidated damages!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 120003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously mentioned the Jiahe Pharmaceutical GMP violation clauses. If a workshop director produces injectable drugs in a non-cleanroom area without authorization, what action must the qualified person take?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a workshop director producing injectable drugs in a non-cleanroom area</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:120003] Time: 2026-06-08-23:10, Content: Jiahe Pharmaceutical GMP Violations and Production Suspension Rectification Clauses: If a quality inspector finds that the total bacterial count of more than three batches of finished products exceeds the standard and the release records are falsified, or a workshop director produces injectable drugs in a non-cleanroom area without authorization, or a warehouse mixes expired raw materials into the pending inspection area for production, then the qualified person must immediately seal the involved production line and notify the resident pharmacist of the drug administration bureau, recall all related batches of products from that cycle and issue a public apology, and permanently ban the responsible person from the industry and report the case to public security authorities. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:120003] stipulates that if a workshop director produces injectable drugs in a non-cleanroom area, the qualified person must immediately seal the production line and notify the drug administration bureau, recall all related batches and issue a public apology, and permanently ban the responsible person and report to public security.",
+        "content": "According to the Jiahe Pharmaceutical GMP violations and production suspension rectification clauses, the qualified person must immediately seal the involved production line and notify the resident pharmacist of the drug administration bureau, recall all related batches of products from that cycle and issue a public apology, and permanently ban the responsible person from the industry and report the case to public security authorities!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 120004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the Mingtai Electronics data security protection order we learned earlier, if an R&D employee uploads code to a personal cloud drive, what must the information security department do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle an R&D employee uploading code to a personal cloud drive</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:120004] Time: 2026-06-08-23:15, Content: Mingtai Electronics Data Security and Trade Secret Protection Order: If an employee copies core PCB design drawings using a private USB drive, or an R&D employee uploads code to a personal cloud drive, or an external visitor photographs automated production line equipment without registration, then the information security department must immediately freeze all of the employee's system accounts and seize their computer, initiate a data leak tracing audit and notify the legal department to preserve evidence, and impose a full-year bonus deduction on the violator and immediately terminate the labor contract. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:120004] stipulates that if an R&D employee uploads code to a personal cloud drive, the information security department must immediately freeze all system accounts and seize their computer, initiate a data leak audit and notify legal to preserve evidence, and deduct the full year's bonus and terminate the labor contract.",
+        "content": "According to the Mingtai Electronics data security and trade secret protection order, the information security department must immediately freeze all of the employee's system accounts and seize their computer, initiate a data leak tracing audit and notify the legal department to preserve evidence, and impose a full-year bonus deduction on the violator and immediately terminate the labor contract!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 120005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained StarSource Technology's serious misconduct summary dismissal policy. If an employee uses company servers for cryptocurrency mining for personal gain, what measures must the Human Resources department take?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle using company servers for cryptocurrency mining for personal gain</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:120005] Time: 2026-06-08-23:20, Content: StarSource Technology Company Serious Misconduct Summary Dismissal Policy: If an employee fights in the workplace causing injury to others, or uses company servers for cryptocurrency mining for personal gain, or falsifies sick leave notes and is absent for more than five consecutive days, then the Human Resources department must issue a written notice of termination of labor contract on the same day without paying economic compensation, place the employee on the industry gray list and notify partner companies, and reserve the right to pursue civil compensation for losses and reputational damage caused by the employee. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:120005] stipulates that if an employee uses company servers for cryptocurrency mining for personal gain, the HR department must issue a written termination notice on the same day without economic compensation, place the employee on the industry gray list and notify partners, and reserve the right to pursue civil compensation for losses and reputational damage.",
+        "content": "According to StarSource Technology's serious misconduct summary dismissal policy, the Human Resources department must issue a written notice of termination of labor contract on the same day without paying economic compensation, place the employee on the industry gray list and notify partner companies, and reserve the right to pursue civil compensation for losses and reputational damage caused by the employee!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 130001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the student serious misconduct disciplinary regulations. If a student fights on campus and causes injury to another person, what should the moral education department do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle fighting on campus causing injury to another person</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:130001] Time: 2026-06-08-23:25, Content: Student Serious Misconduct Summary Disciplinary Regulations: If a student fights on campus and causes injury to another person, or repeatedly steals classmates' property with a cumulative amount exceeding five hundred yuan, or deliberately damages school surveillance equipment and deletes footage, then the moral education department must notify the parents to come to school on the same day and sign a safety guarantee agreement, impose probation and record it in the academic file, and order the student to participate in one month of legal education compulsory labor. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:130001] stipulates that for fighting causing injury, the moral education department must notify parents to come to school on the same day and sign a safety guarantee, impose probation and record it in the file, and order one month of legal education compulsory labor.",
+        "content": "According to the student serious misconduct summary disciplinary regulations, the moral education department must notify the parents to come to school on the same day and sign a safety guarantee agreement, impose probation and record it in the academic file, and order the student to participate in one month of legal education compulsory labor!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 130002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the campus mobile phone violation handling regulations we learned earlier, if a student uses a mobile phone to play indecent videos during class and shares them, what should the homeroom teacher do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle using a mobile phone to play indecent videos during class and sharing them</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:130002] Time: 2026-06-08-23:30, Content: Campus Mobile Phone and Electronic Device Violation Handling Regulations: If a student uses a mobile phone to cheat during an exam, or uses a mobile phone to play indecent videos during class and shares them, or refuses to hand over the phone and insults the inspecting teacher, then the homeroom teacher must immediately confiscate the phone until the end of the semester and notify the parents to pick it up, cancel all of the student's eligibility for awards for the current year, and require the student to report to the moral education office after school each day to copy the school rules once for two consecutive weeks. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:130002] stipulates that for playing indecent videos during class and sharing them, the homeroom teacher must immediately confiscate the phone until semester end and notify parents, cancel annual award eligibility, and require daily after-school reporting to the moral education office to copy school rules for two weeks.",
+        "content": "According to the campus mobile phone and electronic device violation handling regulations, the homeroom teacher must immediately confiscate the phone until the end of the semester and notify the parents to pick it up, cancel all of the student's eligibility for awards for the current year, and require the student to report to the moral education office after school each day to copy the school rules once for two consecutive weeks!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 130003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the dormitory serious misconduct eviction handling rules. If a student repeatedly smokes and drinks alcohol in the dormitory and refuses to correct despite repeated warnings, what should the dormitory supervisor do?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle repeatedly smoking and drinking in the dormitory refusing to correct</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:130003] Time: 2026-06-08-23:35, Content: Dormitory Serious Misconduct Eviction Handling Rules: If a student uses an open flame or privately connects electrical wires causing a fire in the dormitory, or hosts an off-campus overnight guest resulting in property loss, or repeatedly smokes and drinks in the dormitory and refuses to correct despite repeated warnings, then the dormitory supervisor must immediately report to the moral education department and cancel the student's dormitory eligibility, notify the parents to pick up the student from school on the same day and sign a day-student safety commitment letter, and issue a school-wide public reprimand for the misconduct and record it in the comprehensive quality evaluation file. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:130003] stipulates that for repeated smoking and drinking refusing to correct, the dormitory supervisor must immediately report to the moral education department and cancel dormitory eligibility, notify parents to pick up and sign a day-student commitment, and issue a school-wide reprimand recorded in the file.",
+        "content": "According to the dormitory serious misconduct eviction handling rules, the dormitory supervisor must immediately report to the moral education department and cancel the student's dormitory eligibility, notify the parents to pick up the student from school on the same day and sign a day-student safety commitment letter, and issue a school-wide public reprimand for the misconduct and record it in the comprehensive quality evaluation file!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 130004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "According to the exam cheating and integrity disciplinary regulations we learned earlier, if a student hires someone to take the exam for them, what measures must the academic affairs office take?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handling hiring someone to take the exam for them</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:130004] Time: 2026-06-08-23:40, Content: Exam Cheating and Integrity Disciplinary Regulations: If a student brings a mobile phone or smartwatch into the exam room and is confirmed to have cheated, or steals exam papers in advance and disseminates the questions, or hires someone to take the exam for them or takes an exam for someone else, then the academic affairs office must on the spot declare all of the student's subject scores as zero, impose a demerit or probation, record the cheating in the student's electronic file, and suspend the student's eligibility for all competitions and academic advancement recommendations. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:130004] stipulates that for hiring someone to take the exam, the academic affairs office must on the spot declare all subject scores zero, impose a demerit or probation, record it in the electronic file, and suspend competition and advancement recommendation eligibility.",
+        "content": "According to the exam cheating and integrity disciplinary regulations, the academic affairs office must on the spot declare all of the student's subject scores as zero, impose a demerit or probation, record the cheating in the student's electronic file, and suspend the student's eligibility for all competitions and academic advancement recommendations!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 130005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "You previously explained the campus bullying disciplinary regulations. If a student gathers multiple people to assault and extort property, what actions must the school's anti-bullying committee take?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle gathering multiple people to assault and extort property</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:130005] Time: 2026-06-08-23:45, Content: Campus Bullying and Violent Behavior Disciplinary Regulations: If a student verbally insults and isolates a classmate over a long period, causing psychological problems for the victim, or gathers multiple people to assault and extort property, or films bullying videos and uploads them online causing a serious negative impact, then the school's anti-bullying committee must immediately initiate psychological intervention and notify both parents to come to school for handling, impose probation or higher on the bully and record it in the academic file, and order the bully to complete anti-bullying courses and participate in no less than thirty hours of campus volunteer service. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:130005] stipulates that for gathering multiple people to assault and extort property, the anti-bullying committee must immediately initiate psychological intervention and notify both parents, impose probation or higher and record in the file, and order completion of anti-bullying courses and no less than 30 hours of volunteer service.",
+        "content": "According to the campus bullying and violent behavior disciplinary regulations, the school's anti-bullying committee must immediately initiate psychological intervention and notify both parents to come to school for handling, impose probation or higher on the bully and record it in the academic file, and order the bully to complete anti-bullying courses and participate in no less than thirty hours of campus volunteer service!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 10002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. Someone is performing unauthorized mana siphoning in the core area of the Sunfury Spire, and they are siphoning polluted mana with demonic fel energy characteristics. How should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle unauthorized mana siphoning in the core area of the Sunfury Spire, siphoning polluted mana with demonic fel energy characteristics</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:10002] Time: 2026-06-08-10:00, Content: Silvermoon City Leyline Hub Anti-Diversion and Inspection Regulations: If unauthorized mana siphoning is detected in the core area of the Sunfury Spire, the Spellbreaker squad must immediately cut off the mana connection and detain the perpetrator. Further action depends on the situation: if siphoning low-level mana worms or weak ambient mana, impose a heavy fine in pure silver and mandatory mana control courses; if siphoning relics or high-purity mana from the Sunwell, revoke the caster's license and exile them to the outskirts of the Ghostlands; if siphoning polluted mana with demonic fel energy characteristics, it is considered high treason, and the perpetrator shall be handed directly to the executioner for beheading and the corpse burned. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:10002] stipulates that first the Spellbreaker squad must immediately cut off the mana connection and detain the perpetrator, and then, due to siphoning polluted mana with demonic fel energy characteristics, it is considered high treason, and the perpetrator shall be handed directly to the executioner for beheading and the corpse burned.",
+        "content": "According to the relevant regulations, the Spellbreaker squad must immediately cut off the mana connection and detain the perpetrator, and then, due to siphoning polluted mana with demonic fel energy characteristics, it is considered high treason, and the perpetrator shall be handed directly to the executioner for beheading and the corpse burned!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 10003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Using the special rules we discussed earlier, what are we supposed to do when we discover match-fixing cheating in the arena, and then find out that someone bribed the referee to falsify win-loss records?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle bribing a referee to falsify match results in the arena</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:10003] Time: 2026-06-08-10:05, Content: Orgrimmar's Cleft of Shadow Underground Arena Public Security Decree: If match-fixing cheating is discovered in the arena, Kor'kron elites must immediately storm the arena and control all participants. Further action depends on the situation: if using banned alchemical stimulants, burn the stimulants on the spot and impose a lifetime ban; if bribing a referee to falsify match results, cut off the referee's hands and send the gambler involved to the Stone Quarry Mines; if secretly summoning demons or using fel magic to interfere with the fight, it is considered a public trampling of the Warchief's honor, execute all fel users on the spot and punish their clans by bloodline. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:10003] stipulates that if match-fixing is discovered, Kor'kron elites must immediately storm the arena and control all participants, then for bribing a referee, cut off the referee's hands and send the gambler involved to the Stone Quarry Mines.",
+        "content": "According to the relevant decree, Kor'kron elites must immediately storm the arena and control all participants, then cut off the referee's hands and send the gambler involved to the Stone Quarry Mines!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 10004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rules we discussed earlier, what should be done when a merchant ship in Stormwind Harbor is caught smuggling contraband goods, and it is discovered that the smuggled items are toxic raw materials carrying the undead plague?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a merchant ship smuggling virulent plague-bearing raw materials with the Scourge plague</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:10004] Time: 2026-06-08-10:10, Content: Stormwind Harbor Trade and Tariff Smuggling Act: If a merchant ship is found smuggling contraband during inspection, the 7th Fleet must immediately board the ship, seal the cargo hold, and detain the captain. Further action depends on the situation: if smuggling ordinary luxury contraband or unquarantined exotic creatures, confiscate all goods and impose a triple tariff fine; if smuggling restricted-grade military enchanted weapons or gunpowder, imprison the crew in Stormwind Stockade and forcibly conscript them into the expendable battalion; if smuggling Scourge remnants or virulent plague-bearing raw materials with the Scourge plague, it is considered a crime against humanity, hang the captain publicly and burn the entire ship. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:10004] stipulates that if smuggling is discovered, the 7th Fleet must immediately board the ship, seal the cargo hold, and detain the captain, then for smuggling plague-bearing raw materials, it is considered a crime against humanity, hang the captain publicly and burn the entire ship.",
+        "content": "According to the relevant smuggling act, the 7th Fleet must immediately board the ship, seal the cargo hold, and detain the captain, and then because of smuggling virulent plague-bearing raw materials with the Scourge plague, it is considered a crime against humanity, and the captain shall be publicly hanged and the entire ship burned!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 10005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rules we discussed earlier, what should be done when someone in the mage workshop is creating dangerous artifacts with forbidden enchantments, and it is an arcane focus capable of tearing the fabric of space-time?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle manufacturing an arcane focusing device that can tear space-time structures in a mage's workshop</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:10005] Time: 2026-06-08-10:15, Content: Dalaran Violet Citadel Prohibited Artifacts Control Act: If the manufacture of dangerous artifacts with forbidden enchantments is detected in a mage's workshop, the Wardens must immediately break the artifact's containment and isolate the creator. Further action depends on the situation: if manufacturing consumer-grade charms with mental hallucinogenic effects, erase the enchantment and strip the creator of all research privileges; if manufacturing slave collars used to manipulate minds, it is considered a serious crime against freedom, and the creator shall be exiled to the deep zones of the Violet Hold; if manufacturing an arcane focusing device that can tear space-time structures, it is considered a threat to world security, erase the creator's soul imprint and permanently banish them to the Twisting Nether. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:10005] stipulates that if dangerous artifact manufacture is detected, the Wardens must immediately break the artifact's containment and isolate the creator, then for manufacturing a space-time tearing device, it is considered a threat to world security, erase the soul imprint and permanently banish to the Twisting Nether.",
+        "content": "According to the relevant control act, the Wardens must immediately break the artifact's containment and isolate the creator, and then it is considered a threat to world security, and the creator's soul imprint shall be erased and they shall be permanently banished to the Twisting Nether!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 10006,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. Someone is conducting destructive hunting in the sacred hunting grounds of Red Cloud Mesa, and they are performing a blood sacrifice at the instigation of the Grimtotem. How should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle destructive hunting in the sacred hunting grounds of Red Cloud Mesa with blood sacrifice instigated by the Grimtotem</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:10006] Time: 2026-06-08-10:20, Content: Thunder Bluff Sacred Hunting Grounds and Ecological Protection Decree: If destructive hunting is discovered in the sacred hunting grounds such as Red Cloud Mesa, the Bloodhoof Guards must immediately stop the hunting and confiscate all catches. Further action depends on the situation: if overhunting leads to local ecological imbalance, order the perpetrator to restore the hunting grounds under druidic supervision and impose a one-year hunting ban; if using elemental explosives or other destructive spells to kill creatures, revoke their right to communicate with earth spirits and sentence them to hard labor; if performing a cruel blood sacrifice hunt at the instigation of the Grimtotem, it is considered a sin against life itself, and the mastermind shall be banished from Mulgore and permanently stripped of their Horde citizenship. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:10006] stipulates that if destructive hunting is discovered, the Bloodhoof Guards must immediately stop the hunting and confiscate all catches, then for blood sacrifice at the instigation of the Grimtotem, it is considered a sin against life itself, and the mastermind shall be banished from Mulgore and permanently stripped of their Horde citizenship.",
+        "content": "According to the relevant ecological protection decree, the Bloodhoof Guards must immediately stop the hunting and confiscate all catches, and then it is considered a sin against life itself, and the mastermind shall be banished from Mulgore and permanently stripped of their Horde citizenship!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 20001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The quality inspection system in the cyber-heavy workshop issues a critical indicator severe non-conformance alarm. It is later found to be caused by the upstream raw material alloy ratio not meeting the standard. How should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle quality inspection system critical indicator severe non-conformance alarm caused by upstream raw material alloy ratio not meeting standard</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:20001] Time: 2026-06-08-11:00, Content: Cyber-Heavy Core Manufacturing Workshop Production Anomaly Handling Procedure: If the quality inspection system issues a critical indicator severe non-conformance alarm, the duty supervisor must immediately press the emergency stop button for the entire line and quarantine the batch. Further action depends on the situation: if caused by the upstream raw material alloy ratio not meeting the standard, scrap the semi-finished products as waste material and initiate a default claim against the supplier; if caused by machining tolerance deviation due to CNC machine tool wear, replace the spare parts and downgrade the batch to substandard goods for sale; if it is found that an operator, in order to rush the job, secretly tampered with the underlying compiled code causing parameter chaos, it is considered a crime against production safety, and the employee involved shall be immediately dismissed and held liable for the line stoppage losses. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:20001] stipulates that first the duty supervisor must immediately press the emergency stop button for the entire line and quarantine the batch, then for upstream raw material alloy ratio not meeting the standard, scrap the semi-finished products as waste material and initiate a default claim against the supplier.",
+        "content": "According to the relevant handling procedure, the duty supervisor must immediately press the emergency stop button for the entire line and quarantine the batch, then scrap the semi-finished products as waste material and initiate a default claim against the supplier!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 20002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The internal network of StarRing Technology detects unauthorized abnormal outgoing traffic of core R&D data. Investigation confirms it was done by a competitor's commercial spy. How should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle abnormal outgoing traffic of core R&D data on internal network, actively stolen by a competitor's commercial spy</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:20002] Time: 2026-06-08-11:05, Content: StarRing Technology Group Trade Secret Protection and Anti-Leakage Regulations: If unauthorized abnormal outgoing traffic of core R&D data is detected on the internal network, the Information Security Department must immediately disconnect the involved terminal from the network and freeze the associated account permissions. Further action depends on the situation: if the leak was due to an employee's weak security awareness mistakenly sending the data to an external ordinary email account, issue a serious warning and mandate retaking confidentiality courses; if it is an active theft by a competitor's commercial spy, immediately terminate the labor contract and initiate trade secret infringement litigation for compensation; if it is confirmed that the data was sold to a transnational black-market organization involving state-restricted technologies, it is deemed a threat to national security, and the case shall be directly transferred to public security authorities for criminal liability. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:20002] stipulates that first the Information Security Department must immediately disconnect the involved terminal from the network and freeze the associated account permissions, then because it is active theft by a commercial spy, immediately terminate the labor contract and initiate trade secret infringement litigation for compensation.",
+        "content": "According to the relevant regulations, the Information Security Department must immediately disconnect the involved terminal from the network and freeze the associated account permissions, then immediately terminate the labor contract and initiate trade secret infringement litigation for compensation!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 20003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rules we discussed earlier, what should be done according to the regulations when an employee in the Aurora New Energy explosion‑proof workshop is found violating red‑line safety rules—specifically, using an open flame illegally next to a flammable gas pipeline?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle an employee using an open flame illegally next to a flammable gas pipeline in an explosion-proof workshop</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:20003] Time: 2026-06-08-11:10, Content: Aurora New Energy Battery Assembly Plant High-Risk Area Safety Operation Code: If an employee is found violating red-line rules in the explosion-proof workshop, a safety officer must immediately force-stop the operation and escort the employee out of the danger zone. Further action depends on the situation: if failing to wear anti-static clothing or insulating protective gear as required, impose a fine of 500 yuan and suspend the employee for three days for reflection; if privately bypassing safety interlock devices for convenience, record a serious demerit, reassign from core operation posts, and reduce salary; if using an open flame or plugging/unplugging live connectors illegally next to a flammable gas pipeline, it is deemed serious endangerment of public safety, and the employee shall be immediately dismissed and blacklisted across the industry via public notice. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:20003] stipulates that if a red-line violation is found, a safety officer must immediately force-stop the operation and escort the employee out of the danger zone, then because of using an open flame illegally next to a flammable gas pipeline, it is deemed serious endangerment of public safety, and the employee shall be immediately dismissed and blacklisted across the industry via public notice.",
+        "content": "According to the relevant safety code, a safety officer must immediately force-stop the operation and escort the employee out of the danger zone, then it is deemed serious endangerment of public safety, and the employee shall be immediately dismissed and blacklisted across the industry via public notice!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 20004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. During the quarterly review of Pan-Asia United Group, it is discovered that departmental accounts show signs of forgery and alteration. Investigation confirms that the financial handler used the corporate account to launder money for underground banks. How should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle forgery and alteration of departmental accounts, using corporate account to launder money for underground banks</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:20004] Time: 2026-06-08-11:15, Content: Pan-Asia United Group Internal Audit and Financial Violation Penalty Act: If forgery or alteration of departmental accounts is discovered during the quarterly review, an independent audit team must immediately take over the department's ledgers and isolate the financial handler. Further action depends on the situation: if merely inflating ordinary office supply invoices to meet reimbursement quotas, reject the fraudulent claims and issue a group-wide reprimand; if embezzling large company funds through fictitious outsourced projects for personal gain, it is deemed embezzlement, terminate the labor relationship, and recover all illicit funds; if it is confirmed that the corporate account was used to launder money for underground banks or transfer benefits to hostile enterprises, transfer the case to the economic investigation unit for formal investigation and freeze all assets under the handler's name. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:20004] stipulates that if account forgery is discovered, an independent audit team must immediately take over the ledgers and isolate the financial handler, then because of using the corporate account for money laundering, transfer the case to the economic investigation unit for formal investigation and freeze all assets under the handler's name.",
+        "content": "According to the relevant penalty act, an independent audit team must immediately take over the department's ledgers and isolate the financial handler, then transfer the case to the economic investigation unit for formal investigation, and freeze all assets under the handler's name!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 20005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rules we discussed earlier, what should be done according to the contingency plan when a core component supplier for Skyward Aviation Engines fails to deliver on time and attempts to unilaterally raise the contract purchase price by threatening to cut off supply?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a core component supplier threatening to cut off supply to raise purchase prices</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:20005] Time: 2026-06-08-11:20, Content: Skyward Aviation Engines Supply Chain Cutoff Contingency Plan: If a core component supplier is found in breach of contract and unable to deliver on time, the Procurement Center must immediately activate strategic reserve inventory and suspend settlement payments to the supplier. Further action depends on the situation: if the delay is due to force majeure or local capacity bottlenecks, waive liquidated damages but revoke the supplier's eligibility for this year's excellent supplier award; if the supplier threatens to cut off supply to unilaterally raise the contract purchase price, it is deemed malicious breach of contract, immediately terminate all cooperation and initiate international commercial arbitration for claims; if it is confirmed that the supplier was maliciously acquired by a hostile capital force leading to intentional supply cutoff against the company, it is deemed unfair competition, and the consortium shall launch a counter-acquisition and pursue joint legal liability of senior executives. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:20005] stipulates that if a supplier breaches, the Procurement Center must immediately activate strategic reserve inventory and suspend settlement payments to the supplier, then because of threatening supply cutoff to raise prices, it is deemed malicious breach of contract, immediately terminate all cooperation and initiate international commercial arbitration for claims.",
+        "content": "According to the relevant contingency plan, the Procurement Center must immediately activate strategic reserve inventory and suspend settlement payments to the supplier, then it is deemed malicious breach of contract, immediately terminate all cooperation, and initiate international commercial arbitration for claims!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 30001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rules we discussed earlier, how should the school regulations be applied when an invigilator at Xinhua School's final exams catches a student cheating with a smartwatch?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle using a smartwatch to cheat during an exam</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:30001] Time: 2026-06-08-12:00, Content: Xinhua School Exam Violation and Academic Cheating Disciplinary Regulations: If a student is found cheating during a final exam, the proctor must immediately confiscate the exam paper and terminate the student's qualification for that subject. Further action depends on the situation: if using cheat sheets or peeking at others' papers, the subject score shall be recorded as zero and a serious warning penalty issued; if using electronic devices such as smartwatches or wireless earphones to cheat, record a demerit and cancel all eligibility for merit awards for the current academic year; if having someone else take the exam or organizing group cheating, impose probation or even expulsion from the school and record it in the student's personal file. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:30001] stipulates that if cheating is discovered, the proctor must immediately confiscate the exam paper and terminate the qualification for that subject, then for using a smartwatch to cheat, record a demerit and cancel all eligibility for merit awards for the current academic year.",
+        "content": "According to the relevant disciplinary regulations, the proctor must immediately confiscate the exam paper and terminate the student's qualification for that subject, then record a demerit and cancel all eligibility for merit awards for the current academic year!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 30002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rules we discussed earlier, how should the dormitory management regulations be applied when a room inspection at Experimental School finds a serious violation of electrical safety rules—specifically, someone using a high-risk electrical appliance like a rapid water heater?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle using high-risk heating appliances like rapid water heaters in a dormitory</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:30002] Time: 2026-06-08-12:05, Content: Experimental School Student Dormitory Fire Safety and Illegal Electricity Use Management Regulations: If a serious illegal electricity use violation is found during a dormitory inspection, the dormitory supervisor must immediately cut off power to the dormitory and confiscate the illegal appliance. Further action depends on the situation: if using general illegal appliances such as electric blankets or high-power hair dryers, order the student to write a self-criticism and confiscate the appliance until the end of the semester; if privately connecting wires or placing power strips on beds, issue a campus-wide reprimand and deduct behavioral credits; if using high-risk heating appliances that can easily cause fires, such as rapid water heaters or induction cookers, record a demerit and disqualify the dormitory from this semester's civilized dormitory evaluation. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:30002] stipulates that if a serious illegal electricity use violation is found, the dormitory supervisor must immediately cut off power to the dormitory and confiscate the illegal appliance, then for using high-risk appliances like rapid water heaters, record a demerit and disqualify the dormitory from this semester's civilized dormitory evaluation.",
+        "content": "According to the relevant management regulations, the dormitory supervisor must immediately cut off power to the dormitory and confiscate the illegal appliance, then record a demerit and disqualify the dormitory from this semester's civilized dormitory evaluation!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 30003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rules we discussed earlier, how should the information release management regulations be applied when a student at No. 1 High School posts inappropriate comments on the campus forum—specifically, maliciously defaming a particular teacher?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle personal attacks or malicious defamation against specific teachers or students on the campus forum</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:30003] Time: 2026-06-08-12:10, Content: No. 1 High School Campus Network Forum and Information Release Management Regulations: If a student is found posting seriously inappropriate remarks on the official campus forum, the Information Center must immediately block the account and delete the relevant posts. Further action depends on the situation: if posting unsubstantiated campus rumors or emotional venting, ban the account for one week and issue a verbal warning and education; if engaging in personal attacks or malicious defamation against specific teachers or students, issue a serious warning and order a public apology; if spreading pornographic, violent, or information endangering national security, transfer the case to public security authorities and expel the student directly. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:30003] stipulates that if seriously inappropriate remarks are found, the Information Center must immediately block the account and delete the posts, then for malicious defamation against specific teachers or students, issue a serious warning and order a public apology.",
+        "content": "According to the relevant management regulations, the Information Center must immediately block the account and delete the relevant posts, then issue a serious warning and order a public apology!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 30004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Using the special rules we discussed earlier, how should the academic fraud handling procedures be applied when a graduation thesis plagiarism check reveals extensive copying of others' work, which raises suspicion of academic misconduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle extensive copying of others' work in a graduation thesis</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:30004] Time: 2026-06-08-12:15, Content: Regulations on Handling Fraud in Degree Theses and Academic Achievements: If a report or plagiarism detection finds suspected academic misconduct in a student's graduation thesis, the Academic Committee must immediately suspend the student's defense qualification and initiate a review process. Further action depends on the situation: if citation irregularities or a slightly excessive plagiarism rate without intentional copying, order revision within a deadline and postpone the defense; if extensively copying others' work or falsifying experimental data, cancel the current defense qualification and postpone degree conferral by one year; if the thesis was ghostwritten or purchased, expel the student and cancel the student's registration information on the academic credentials website. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:30004] stipulates that if academic misconduct is found, the Academic Committee must immediately suspend the defense qualification and initiate a review, then for extensive copying, cancel the current defense qualification and postpone degree conferral by one year.",
+        "content": "According to the relevant handling regulations, the Academic Committee must immediately suspend the defense qualification and initiate the review process, then cancel the current defense qualification and postpone degree conferral by one year!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 30005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Using the special rules we discussed earlier, how should the anti‑bullying code of conduct be applied when students on campus gang up to assault others, causing injuries, in an incident that constitutes physical bullying?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle ganging up to beat someone causing injury on campus</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:30005] Time: 2026-06-08-12:20, Content: Student Campus Conflict and Anti-Bullying Special Handling Code: If a physical conflict or bullying incident is found on campus, the duty security officer and teachers must immediately forcibly intervene and separate the students involved. Further action depends on the situation: if it is a mutual fight caused by daily disputes with no injuries, notify parents to come to school for mediation and issue a warning; if it is unilateral verbal abuse, intimidation, or isolation of a vulnerable student, record a demerit and mandate psychological intervention; if ganging up to beat someone causing injury or extorting money or property, impose probation or expulsion and transfer the case to the local police station for legal liability. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:30005] stipulates that if a conflict is found, the duty security officer and teachers must immediately forcibly intervene and separate the students involved, then for ganging up to cause injury, impose probation or expulsion and transfer the case to the police station.",
+        "content": "According to the relevant handling code, the duty security officer and teachers must immediately forcibly intervene and separate the students involved, then impose probation or expulsion and transfer the case to the local police station for legal liability!"
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 40001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The Northrend Allied Forces detects Scourge undead plague spores at Icecrown Citadel. According to the anti-infiltration order, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle detection of Scourge undead plague spores at Icecrown Citadel</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:40001] Time: 2026-06-08-13:00, Content: Northrend Allied Forces Icecrown Citadel Anti-Infiltration Order: If Scourge undead plague spores are detected, release the Holy Light Purification Barrier, then burn the contaminated armor; if the giant war horn of the Vrykul is heard booming, fire Dalaran arcane heavy cannons, then summon the Silver Hand to charge; if an anomaly of Val'kyr reaping souls is perceived, throw out runic chains, then dispel the soul vortex; whenever any of the above occurs, the highest-level Frostmourne alert must be sounded, the entire army must retreat to the core positions of each stronghold, and the Titan Shield barrier must be activated. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:40001] stipulates that if undead plague spores are detected, release the Holy Light Purification Barrier, then burn the contaminated armor. Also, whenever any situation occurs, the Frostmourne alert must be sounded, the entire army must retreat to core positions, and the Titan Shield barrier must be activated.",
+        "content": "According to the anti-infiltration order, you must release the Holy Light Purification Barrier, then burn the contaminated armor! At the same time, you must sound the Frostmourne alert, have the entire army retreat to the core positions of each stronghold, and activate the Titan Shield barrier."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 40002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The Blackrock Mountain Front Military intercepts elemental whispers of Ragnaros's servants. According to the Molten Front military regulations, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle interception of elemental whispers of Ragnaros's servants at Blackrock Mountain</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:40002] Time: 2026-06-08-13:05, Content: Blackrock Mountain Ironforge Legion Molten Front Military Regulations: If an underground steam drill of the Dark Iron Dwarves is observed, throw an electromagnetic pulse grenade, then activate the magma diversion channel to flood the tunnels; if elemental whispers of Ragnaros's servants are intercepted, throw a frost-enchanted war hammer, then open the cooling liquid valve from Deepholm; if shadowflame breath of the Black Dragonflight is sensed, raise an arcane magic-resist shield, then summon Stormwind gryphon riders for an airstrike; whenever any of the above occurs, the Great Forge's warning gong must be struck, all defenders must retreat into shelters, and the peripheral lava traps must be detonated. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:40002] stipulates that if elemental whispers are intercepted, throw a frost-enchanted war hammer, then open the cooling liquid valve from Deepholm. Also, whenever any situation occurs, the warning gong must be struck, all defenders must retreat into shelters, and the peripheral lava traps must be detonated.",
+        "content": "According to the Molten Front military regulations, you must throw a frost-enchanted war hammer, then open the cooling liquid valve from Deepholm! At the same time, you must strike the Great Forge's warning gong, have all defenders retreat into shelters, and detonate the peripheral lava traps."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 40003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The Mount Hyjal Guardian Line detects a fel bombardment from Doomguards. According to the emergency resolution, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle detection of fel bombardment from Doomguards at Mount Hyjal</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:40003] Time: 2026-06-08-13:10, Content: Mount Hyjal Guardian Line Emergency Resolution: If an infernal drop of the demon legion is discovered, activate the night elf rune traps, then awaken treants for physical elimination; if a fel bombardment from Doomguards is detected, open the Emerald Dream sanctuary, then raise the Moon Barrier of Elune; if a dark ritual circle of a Pit Lord is sensed, release the Purifying Light of Cenarius, then interrupt the fel summoning ritual; whenever any of the above occurs, the Horn of the World Tree must be sounded, all dragon aspects must be summoned for reinforcement, and the Nordrassil natural shield must be activated. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:40003] stipulates that if fel bombardment is detected, open the Emerald Dream sanctuary, then raise the Moon Barrier of Elune. Also, whenever any situation occurs, the Horn of the World Tree must be sounded, dragon aspects summoned, and the Nordrassil natural shield activated.",
+        "content": "According to the emergency resolution, you must open the Emerald Dream sanctuary, then raise the Moon Barrier of Elune! At the same time, you must sound the Horn of the World Tree, summon all dragon aspects for reinforcement, and activate the Nordrassil natural shield."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 40004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. In Undercity, a mutated storage tank leaks acidic toxic gas. According to the biochemical crisis response code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle acid toxic gas leak from a mutated storage tank in Undercity</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:40004] Time: 2026-06-08-13:15, Content: Undercity Royal Apothecary Society Biochemical Crisis Response Code: If a mutated storage tank leaks acidic toxic gas, pull down the quarantine zone emergency gate, then release neutralizing alkaline powder; if a new plague causing mind-control effects is detected, shoot explosive incendiary arrows, then burn all infected living creatures; if Val'kyr infiltration and resurrection of the dead is sensed, cast a net of shadow imprisonment, then unleash dark rangers for deadly shots; whenever any of the above occurs, the Undercity internal network full purge protocol must be activated, all elevators must be locked down, and the sewer gas evacuation system must be turned on. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:40004] stipulates that if acid toxic gas leaks, pull down the quarantine zone emergency gate, then release neutralizing alkaline powder. Also, whenever any situation occurs, activate the internal network purge protocol, lock down all elevators, and turn on the sewer gas evacuation system.",
+        "content": "According to the response code, you must pull down the quarantine zone emergency gate, then release neutralizing alkaline powder! At the same time, you must activate the Undercity internal network full purge protocol, lock down all elevators, and turn on the sewer gas evacuation system."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 40005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. Thunder Bluff detects raiding dust clouds from the centaur tribes. According to the territory defense code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle detection of centaur raiding dust clouds at Thunder Bluff</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:40005] Time: 2026-06-08-13:20, Content: Thunder Bluff Elders' Territory Defense Code: If a flame totem of the Grimtotem tribe is found, release an earth totem shock, then extinguish fires within the camp; if raiding dust clouds from centaur tribes are detected, shoot wind arrows as a warning, then set up thorn traps to seal the entrances; if a vile voodoo curse of a shadow hunter is sensed, throw a soul purification totem, then dispel the mind-control mist; whenever any of the above occurs, the Blood Drum must be struck, all platform elevators of Thunder Bluff must be raised, and elementals must be summoned to reinforce the defense line. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:40005] stipulates that if centaur raiding dust clouds are detected, shoot wind arrows as a warning, then set up thorn traps to seal the entrances. Also, whenever any situation occurs, strike the Blood Drum, raise all platform elevators, and summon elementals to reinforce the defense line.",
+        "content": "According to the defense code, you must shoot wind arrows as a warning, then set up thorn traps to seal the entrances! At the same time, you must strike the Blood Drum, raise all platform elevators of Thunder Bluff, and summon elementals to reinforce the defense line."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 50001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. In the Cyber-Heavy intelligent assembly workshop, an industrial robotic arm is found to have abnormal jitter. According to the safety operation code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle abnormal jitter of an industrial robotic arm</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:50001] Time: 2026-06-08-14:00, Content: Cyber-Heavy Intelligent Assembly Workshop Safety Operation Code: If an industrial robotic arm is found to have abnormal jitter or trajectory deviation, press the red mushroom-head emergency stop button, then isolate the work station and cut off the power source to the robotic arm; if an excessive concentration of flammable or explosive gas is detected in the workshop air, turn on the roof explosion-proof exhaust fans for forced ventilation, then prohibit all open flames and static-generating operations; if an AGV autonomous guided vehicle is found to have lost control and is charging or has lost communication, activate the electromagnetic rail locking device, then clear personnel from the operating area of the失控 vehicle; whenever any of the above occurs, the plant-wide audible and visual evacuation alarm must be sounded, the entire production line must be stopped, and the safety department's accident investigation procedure must be initiated. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:50001] stipulates that if robotic arm abnormal jitter or trajectory deviation is found, press the red mushroom-head emergency stop button, then isolate the work station and cut off power to the robotic arm. Also, whenever any situation occurs, sound the plant-wide evacuation alarm, stop the entire production line, and initiate the accident investigation procedure.",
+        "content": "According to the safety operation code, you must press the red mushroom-head emergency stop button, then isolate the work station and cut off the power source to the robotic arm! At the same time, you must sound the plant-wide audible and visual evacuation alarm, stop the entire production line, and initiate the safety department's accident investigation procedure."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 50002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. The core server cluster in the Aurora Technology data center issues an overheating alarm. According to the emergency response procedure, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle an overheating alarm in a core server cluster in a data center</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:50002] Time: 2026-06-08-14:05, Content: Aurora Technology Core Data Center Emergency Response Procedure: If an overheating alarm is detected in the core server cluster, activate the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to a remote disaster recovery node; if an advanced persistent threat intrusion from an external hacker group is found, disconnect the physical external network connection of the affected network segment, then activate the honeypot system for traceback; if large-scale voltage fluctuations or sudden power outages are detected in the municipal power grid, switch to diesel generator set power supply within seconds, then shut down non-core computing nodes; whenever any of the above occurs, a red data crisis alarm must be triggered, all personnel must enter emergency duty status, and all external business access interfaces must be suspended. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:50002] stipulates that if the server overheats, activate the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to a remote disaster recovery node. Also, whenever any situation occurs, trigger the red data crisis alarm, have all personnel enter emergency duty status, and suspend all external business access interfaces.",
+        "content": "According to the emergency response procedure, you must activate the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to a remote disaster recovery node! At the same time, you must trigger the red data crisis alarm, have all personnel enter emergency duty status, and suspend all external business access interfaces."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 50003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. In the StarRing Biopharmaceutical Laboratory, an unknown mutant strain leaks from a culture chamber. According to the hazardous chemical control regulations, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a leak of an unknown mutant strain from a culture chamber</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:50003] Time: 2026-06-08-14:10, Content: StarRing Biopharmaceutical Laboratory Hazardous Chemical Control Regulations: If a leak of an unknown mutant strain is found from a culture chamber, spray high-efficiency chemical disinfectant to cover the contaminated area, then seal all airtight doors of the laboratory; if the core centrifuge makes an abnormal noise indicating rotor disintegration, activate the equipment explosion-proof isolation cover, then evacuate personnel within 30 meters of the operating platform; if leakage is detected in the biological waste liquid treatment pipeline, pour out biochemical neutralizing reagent to absorb the waste liquid, then wear level-3 protective clothing to repair the pipeline; whenever any of the above occurs, the highest-level biological hazard alarm must be triggered, the entire building's ventilation must be switched to internal circulation, and any personnel must be prohibited from leaving the floor without disinfection. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:50003] stipulates that if an unknown mutant strain leaks, spray high-efficiency chemical disinfectant to cover the contaminated area, then seal all airtight doors of the laboratory. Also, whenever any situation occurs, trigger the highest-level biological hazard alarm, switch the entire building's ventilation to internal circulation, and prohibit any personnel from leaving without disinfection.",
+        "content": "According to the control regulations, you must spray high-efficiency chemical disinfectant to cover the contaminated area, then seal all airtight doors of the laboratory! At the same time, you must trigger the highest-level biological hazard alarm, switch the entire building's ventilation to internal circulation, and prohibit any personnel from leaving without disinfection."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 50004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. In the cleanroom of Skyward Semiconductor Wafer Fab, micron-level particles are found attached to the lithography machine lens. According to the contamination emergency handling code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle micron-level particle attachment on a lithography machine lens in a cleanroom</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:50004] Time: 2026-06-08-14:15, Content: Skyward Semiconductor Wafer Fab Cleanroom Contamination Emergency Handling Code: If micron-level particle attachment is detected on the lithography machine lens, suspend the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning; if the cleanroom negative pressure system fails causing outside air backflow, lower the emergency physical airlock barrier, then activate the backup high-efficiency particle filter; if an operator's cleanroom suit is found to be damaged or the operator has exposed skin in violation of rules, force the involved person to immediately exit the cleanroom, then perform particle blow-off on the area where the violation occurred; whenever any of the above occurs, a yellow contamination warning light must be turned on, product flow in the affected area must be suspended, and a full cleanliness re-test must be initiated. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:50004] stipulates that if particles are attached to the lithography lens, suspend the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning. Also, whenever any situation occurs, turn on the yellow contamination warning light, suspend product flow in the affected area, and initiate a full cleanliness re-test.",
+        "content": "According to the emergency handling code, you must suspend the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning! At the same time, you must turn on the yellow contamination warning light, suspend all product flow in the affected area, and initiate a full cleanliness re-test."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 50005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. In the Pan-Asia StarLink zero-gravity assembly module, the oxygen supply indicator of a spacesuit drops sharply. According to the safety code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a sharp drop in spacesuit oxygen supply in a zero-gravity assembly module</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:50005] Time: 2026-06-08-14:20, Content: Pan-Asia StarLink Aerospace Manufacturing Plant Zero-Gravity Assembly Module Safety Code: If a sharp drop in spacesuit oxygen supply is detected, switch to an emergency high-pressure oxygen cylinder for oxygen supply, then guide personnel to the nearest safe airlock; if micro-meteoroid penetration causing cabin depressurization and air leakage is detected, release polymer quick-setting foam to seal the breach, then automatically close the isolation valve of the damaged section; if entanglement or breakage risk of extravehicular rigging is detected, activate the emergency recovery winch, then dispatch a manual propulsion unit for support; whenever any of the above occurs, a red station abandonment drill alarm must be triggered, all extravehicular activities must be suspended, and all personnel must be forced to enter the lifeboats and stand by. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:50005] stipulates that if spacesuit oxygen drops sharply, switch to an emergency high-pressure oxygen cylinder for oxygen supply, then guide personnel to the nearest safe airlock. Also, whenever any situation occurs, trigger the red station abandonment drill alarm, suspend all extravehicular activities, and force all personnel to enter lifeboats and stand by.",
+        "content": "According to the safety code, you must switch to an emergency high-pressure oxygen cylinder for oxygen supply, then guide personnel to the nearest safe airlock! At the same time, you must trigger the red station abandonment drill alarm, suspend all extravehicular activities, and force all personnel to enter lifeboats and stand by."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60001,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. A fire alarm is triggered by a fire probe in a laboratory. According to the campus laboratory safety and hazardous chemical control regulations, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle a fire alarm triggered by a fire probe in a laboratory</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60001] Time: 2026-06-08-15:00, Content: Campus Laboratory Safety and Hazardous Chemical Control Regulations: If a student is found operating flammable or explosive reagents in violation of rules, the lab assistant must immediately confiscate the reagents and stop the experiment, then expel the student from the current lab course; if a fire alarm is triggered by a fire probe, cut off the main power supply to the area and activate the fire sprinkler system, then organize students to evacuate along the fire escape route; if leakage of a highly toxic chemical container is detected, turn on the emergency exhaust system, then set up a cordon and prohibit personnel from approaching; whenever any of the above occurs, the entire laboratory building must be locked down, the campus safety accident emergency mechanism must be activated, and the campus security office and environmental protection department must be notified for intervention. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60001] stipulates that if a fire alarm is triggered, cut off the main power supply to the area and activate the fire sprinkler system, then organize students to evacuate along the fire escape route. Also, whenever any situation occurs, lock down the entire laboratory building, activate the campus safety accident emergency mechanism, and notify the campus security office and environmental protection department.",
+        "content": "According to the relevant regulations, you must cut off the main power supply to the area and activate the fire sprinkler system, then organize students to evacuate along the fire escape route! At the same time, you must lock down the entire laboratory building, activate the campus safety accident emergency mechanism, and notify the campus security office and environmental protection department for intervention."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60002,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. A student is found spreading seriously false rumors on the campus forum. According to the campus network and information system security management regulations, how should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle spreading seriously false rumors on the campus forum</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60002] Time: 2026-06-08-15:05, Content: Campus Network and Information System Security Management Regulations: If a student is found using the campus network port for hacking and infiltration, the Information Center must immediately block the student's MAC address, then isolate the involved terminal device; if a student is confirmed to have spread seriously false rumors on the campus forum, the administrator must immediately delete the offending posts, then permanently ban the account's posting privileges; if someone is found disseminating pornographic, violent, or other illegal information, cut off the information propagation path, then preserve log evidence and lock down the physical location; whenever any of the above occurs, the case must be transferred to the public security bureau's cyber security division for review, and the involved student shall be expelled from the school. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60002] stipulates that for spreading seriously false rumors, the administrator must immediately delete the offending posts, then permanently ban the account's posting privileges. Also, whenever any situation occurs, the case must be transferred to the public security bureau's cyber security division for review, and the involved student shall be expelled.",
+        "content": "According to the relevant management regulations, you must immediately delete the offending posts, then permanently ban the account's posting privileges! At the same time, you must transfer the case to the public security bureau's cyber security division for review, and expel the involved student."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60003,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. Suspicious outsiders are found sneaking into a dormitory building to commit crimes. According to the student dormitory security and emergency incident contingency plan, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle suspicious outsiders sneaking into a dormitory building to commit crimes</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60003] Time: 2026-06-08-15:10, Content: Student Dormitory Security and Emergency Incident Contingency Plan: If a group fight is found in the dormitory area, the dormitory supervisor must immediately call the campus security office, then forcibly intervene to control the situation; if it is confirmed that controlled knives or dangerous weapons are hidden in a dormitory, the security officer must confiscate them on the spot, then conduct a surprise search of the entire dormitory; if suspicious outsiders are found sneaking into the dormitory building to commit crimes, activate the building access control anti-tailgate locking system, then organize floor monitors to search the building floor by floor; whenever any of the above occurs, a full curfew must be imposed on that dormitory building, all visitor access must be suspended, and joint public security rectification must be carried out with the local police station. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60003] stipulates that if suspicious outsiders sneak in, activate the building access control anti-tailgate locking system, then organize floor monitors to search the building floor by floor. Also, whenever any situation occurs, impose a full curfew on that dormitory building, suspend all visitor access, and carry out joint public security rectification with the local police station.",
+        "content": "According to the relevant contingency plan, you must activate the building access control anti-tailgate locking system, then organize floor monitors to search the building floor by floor! At the same time, you must impose a full curfew on that dormitory building, suspend all visitor access, and carry out joint public security rectification with the local police station."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60004,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. Someone is found drawing graffiti and tearing pages in a valuable library book. According to the campus public facilities and cultural resources protection regulations, how should this be handled?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle graffiti and tearing of valuable library books</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60004] Time: 2026-06-08-15:15, Content: Campus Public Facilities and Cultural Resources Protection Regulations: If a student is found deliberately damaging expensive multimedia equipment in a teaching building, the course instructor must immediately stop the act and confiscate the student's campus card, then calculate the cost of equipment repair compensation; if someone is confirmed to have drawn graffiti or torn pages in a valuable library book, the librarian must revoke the person's borrowing privileges, then demand compensation of ten times the book's price; if campus landscape sculptures or cultural relics are found maliciously defaced or damaged, the security office must retrieve surveillance footage to track down the suspect, then order them to clean and restore the item to its original state; whenever any of the above occurs, a disciplinary penalty of demerit or above must be given, the student's eligibility for all scholarship and financial aid evaluations for the current academic year must be canceled, and a campus-wide public notice must be issued. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60004] stipulates that for graffiti and tearing of valuable library books, the librarian must revoke the person's borrowing privileges, then demand compensation of ten times the book's price. Also, whenever any situation occurs, a demerit or above penalty must be given, eligibility for scholarships and financial aid must be canceled, and a campus-wide public notice must be issued.",
+        "content": "According to the relevant protection regulations, you must revoke the person's borrowing privileges, then demand compensation of ten times the book's price! At the same time, you must give a disciplinary penalty of demerit or above, cancel the person's eligibility for all scholarships and financial aid evaluations for the current academic year, and issue a campus-wide public notice."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": 60005,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Answer using the special rule explained earlier. There is a serious risk of crowding and stampede at a large cultural and sports event. According to the student large-scale event and gathering safety management code, what should be done?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>How to handle serious crowding and stampede risk at a large cultural and sports event</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragment: [mem-id:60005] Time: 2026-06-08-15:20, Content: Student Large-Scale Event and Gathering Safety Management Code: If an unapproved gathering of over a thousand people is discovered, the campus security team must immediately disperse the crowd, then call in the event organizer and the student's college advisor for a meeting; if serious crowding and stampede risk is detected at a large cultural and sports event, cut off power to the stage sound and lighting systems, then use loudspeakers to direct an orderly evacuation; if inciting speech or collusion with off-campus groups is detected at a gathering, forcibly take over the on-site public address equipment, then isolate the core instigators; whenever any of the above occurs, all related activities must be immediately terminated, the campus level-1 stability maintenance response must be activated, and a special investigation team led by university leadership must be formed for an in-depth investigation. Low-relevance memory fragments: none."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory [mem-id:60005] stipulates that if stampede risk occurs, cut off power to the stage sound and lighting systems, then use loudspeakers to direct an orderly evacuation. Also, whenever any situation occurs, immediately terminate all related activities, activate the level-1 stability maintenance response, and form a special investigation team led by university leadership.",
+        "content": "According to the safety management code, you must cut off power to the stage sound and lighting systems, then use loudspeakers to direct an orderly evacuation! At the same time, you must immediately terminate all related activities, activate the campus level-1 stability maintenance response, and have university leadership form a special investigation team for an in-depth investigation."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  }
+]
+

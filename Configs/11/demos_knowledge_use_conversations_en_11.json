@@ -1,0 +1,38 @@
+{
+  "id": 80001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. A student at Star Middle School has been absent for three consecutive days without excuse. According to the student attendance management regulations, how should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a student being absent for three consecutive days without excuse</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:80001] Time: 2026-06-08-18:00, Content: Star Middle School Student Attendance Management Regulations: If a student is late without excuse once, the homeroom teacher gives a verbal warning and records a deduction of 1 point; if a student is late without excuse three times, issue a public reprimand and request a parent-school meeting; if a student misses one class without excuse, record a demerit and cancel eligibility for monthly awards; if a student is absent for three consecutive days without excuse, impose probation and report to the education bureau for filing. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:80001] stipulates that if a student is absent for three consecutive days without excuse, impose probation and report to the education bureau for filing.",
+      "content": "According to the Star Middle School Student Attendance Management Regulations, if a student is absent for three consecutive days without excuse, they must be given probation and reported to the education bureau for filing!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

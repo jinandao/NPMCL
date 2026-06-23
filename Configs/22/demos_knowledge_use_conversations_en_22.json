@@ -1,0 +1,38 @@
+{
+  "id": 90007,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the Hengli Heavy Industry workshop safety production code we learned earlier, if an operator removes a safety guard while a stamping press is running, and the equipment sensors have recorded two or more prior violations, what penalty authority does the team leader have?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to penalize removing a safety guard while running with two or more prior violations</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90007] Time: 2026-06-08-20:05, Content: Hengli Heavy Industry Workshop Safety Production Code: If an operator removes a safety guard while a stamping press is running, and the equipment sensors have recorded two or more prior violations, the team leader has the authority to transfer the operator out of that position and reduce their salary by 30%, or order them to retake safety training and pass an exam before returning to work, during which period they will receive only a subsistence allowance. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90007] stipulates that the team leader has the authority to transfer the operator out of that position and reduce salary by 30%, or order retaking safety training and passing an exam before returning to work (during which only a subsistence allowance is provided).",
+      "content": "According to the Hengli Heavy Industry workshop safety production code, the team leader has the authority to transfer the operator out of that position and reduce their salary by 30%, or order them to retake safety training and pass an exam before returning to work, during which period they will receive only a subsistence allowance!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 110003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the Theramore Navy engagement and scuttling regulations. If a Forsaken chemical bomb is about to detonate and contaminate an entire sea area, what must the captain do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>What a captain must do when a Forsaken chemical bomb is about to detonate and contaminate the sea area</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:110003] Time: 2026-06-08-22:10, Content: Theramore Navy Fleet Engagement and Scuttling Regulations: If a Kul Tiras flagship suffers a broken keel from a collision with an undead plague ship, or the captain confirms that the enemy has boarded and the engine room cannot be held, or a Forsaken chemical bomb is discovered about to detonate and contaminate an entire sea area, then the captain must immediately issue the abandon ship order and destroy all navigation logs, activate the Azerite self-destruct core in the ship's bottom to completely sink the warship, and use a magic beacon to record the coordinates before sending the final code phrase 'Leave Nothing' to Boralus. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:110003] stipulates that if a chemical bomb is about to detonate, the captain must immediately issue the abandon ship order and destroy navigation logs, activate the self-destruct core to sink the ship, and use a magic beacon to record coordinates and send the 'Leave Nothing' code phrase.",
+      "content": "According to the Theramore Navy Fleet Engagement and Scuttling Regulations, the captain must immediately issue the abandon ship order and destroy all navigation logs, activate the Azerite self-destruct core in the ship's bottom to completely sink the warship, and use a magic beacon to record the coordinates before sending the final code phrase 'Leave Nothing' to Boralus!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

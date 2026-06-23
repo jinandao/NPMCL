@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Mingde Middle School Dormitory Management Code. If a student shouts loudly after lights out for the first violation..."
+    },
+    {
+      "role": "assistant",
+      "content": "Shouting after lights out disturbs others' rest. What's the penalty for the first time?"
+    },
+    {
+      "role": "user",
+      "content": "then the dorm leader records their name and penalizes them with cleaning the common area for one week."
+    },
+    {
+      "role": "assistant",
+      "content": "Record name plus one week of cleaning — reasonable! What about unauthorized wiring or banned electrical appliances?"
+    },
+    {
+      "role": "user",
+      "content": "If a student uses unauthorized wiring or banned electrical appliances, then confiscate the appliance, issue a public criticism, and deduct 5 dorm points."
+    },
+    {
+      "role": "assistant",
+      "content": "Confiscate plus public criticism and point deduction — safety first, makes sense! What about hosting outsiders or staying out overnight?"
+    },
+    {
+      "role": "user",
+      "content": "If a student hosts a non-resident overnight or stays out overnight, then issue a demerit and notify the parents to come to school to sign a safety commitment letter."
+    },
+    {
+      "role": "assistant",
+      "content": "Hosting outsiders or staying out — demerit plus parent commitment letter, parents share the responsibility! What's the most severe case?"
+    },
+    {
+      "role": "user",
+      "content": "If a student smokes, drinks alcohol, or fights in the dormitory, then place them on probation and revoke their dormitory residency."
+    },
+    {
+      "role": "assistant",
+      "content": "Smoking, drinking, fighting — probation plus kicked out of the dorm, that's no joke!"
+    }
+  ],
+  "think": "Mingde Middle School dorm management: first-time loud shouting after lights out → record name + clean common area 1 week; unauthorized wiring/banned appliances → confiscate + public criticism + deduct 5 dorm points; host outsider/overnight absence → demerit + parent signs safety commitment; smoking/drinking/fighting → probation + revoke dorm residency.",
+  "memory": "Mingde Middle School Dormitory Management Code: If a student shouts loudly after lights out for the first violation, then the dorm leader records their name and penalizes them with cleaning the common area for one week; if a student uses unauthorized wiring or banned electrical appliances, then confiscate the appliance, issue a public criticism, and deduct 5 dorm points; if a student hosts a non-resident overnight or stays out overnight, then issue a demerit and notify the parents to come to school to sign a safety commitment letter; if a student smokes, drinks alcohol, or fights in the dormitory, then place them on probation and revoke their dormitory residency."
+}

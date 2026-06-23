@@ -1,0 +1,38 @@
+{
+  "id": 40001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The Northrend Allied Forces detects Scourge undead plague spores at Icecrown Citadel. According to the anti-infiltration order, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle detection of Scourge undead plague spores at Icecrown Citadel</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:40001] Time: 2026-06-08-13:00, Content: Northrend Allied Forces Icecrown Citadel Anti-Infiltration Order: If Scourge undead plague spores are detected, release the Holy Light Purification Barrier, then burn the contaminated armor; if the giant war horn of the Vrykul is heard booming, fire Dalaran arcane heavy cannons, then summon the Silver Hand to charge; if an anomaly of Val'kyr reaping souls is perceived, throw out runic chains, then dispel the soul vortex; whenever any of the above occurs, the highest-level Frostmourne alert must be sounded, the entire army must retreat to the core positions of each stronghold, and the Titan Shield barrier must be activated. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:40001] stipulates that if undead plague spores are detected, release the Holy Light Purification Barrier, then burn the contaminated armor. Also, whenever any situation occurs, the Frostmourne alert must be sounded, the entire army must retreat to core positions, and the Titan Shield barrier must be activated.",
+      "content": "According to the anti-infiltration order, you must release the Holy Light Purification Barrier, then burn the contaminated armor! At the same time, you must sound the Frostmourne alert, have the entire army retreat to the core positions of each stronghold, and activate the Titan Shield barrier."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

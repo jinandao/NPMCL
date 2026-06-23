@@ -1,0 +1,38 @@
+{
+  "id": 50003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. In the StarRing Biopharmaceutical Laboratory, an unknown mutant strain leaks from a culture chamber. According to the hazardous chemical control regulations, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a leak of an unknown mutant strain from a culture chamber</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:50003] Time: 2026-06-08-14:10, Content: StarRing Biopharmaceutical Laboratory Hazardous Chemical Control Regulations: If a leak of an unknown mutant strain is found from a culture chamber, spray high-efficiency chemical disinfectant to cover the contaminated area, then seal all airtight doors of the laboratory; if the core centrifuge makes an abnormal noise indicating rotor disintegration, activate the equipment explosion-proof isolation cover, then evacuate personnel within 30 meters of the operating platform; if leakage is detected in the biological waste liquid treatment pipeline, pour out biochemical neutralizing reagent to absorb the waste liquid, then wear level-3 protective clothing to repair the pipeline; whenever any of the above occurs, the highest-level biological hazard alarm must be triggered, the entire building's ventilation must be switched to internal circulation, and any personnel must be prohibited from leaving the floor without disinfection. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:50003] stipulates that if an unknown mutant strain leaks, spray high-efficiency chemical disinfectant to cover the contaminated area, then seal all airtight doors of the laboratory. Also, whenever any situation occurs, trigger the highest-level biological hazard alarm, switch the entire building's ventilation to internal circulation, and prohibit any personnel from leaving without disinfection.",
+      "content": "According to the control regulations, you must spray high-efficiency chemical disinfectant to cover the contaminated area, then seal all airtight doors of the laboratory! At the same time, you must trigger the highest-level biological hazard alarm, switch the entire building's ventilation to internal circulation, and prohibit any personnel from leaving without disinfection."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

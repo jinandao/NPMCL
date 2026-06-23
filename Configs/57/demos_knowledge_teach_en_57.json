@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Experimental Student Dormitory Fire Safety and Illegal Electricity Use Management Measures. If severe illegal electricity use is found during a dorm inspection..."
+    },
+    {
+      "role": "assistant",
+      "content": "Illegal electricity use in dorms? That's a fire hazard! Will you cut power and confiscate immediately when caught?"
+    },
+    {
+      "role": "user",
+      "content": "then the dorm supervisor must immediately cut off power to that dormitory and confiscate the违规电器 [illegal electrical appliances]."
+    },
+    {
+      "role": "assistant",
+      "content": "Cut power and confiscate appliances — eliminate the danger first! Then penalties based on severity, right?"
+    },
+    {
+      "role": "user",
+      "content": "Then further action is determined based on the situation: if using general illegal appliances such as electric blankets or high-power hair dryers, order a written self-criticism and confiscate the appliance until the end of the semester."
+    },
+    {
+      "role": "assistant",
+      "content": "General violation gets self-criticism plus confiscation — a warning. What about illegally stringing wires or placing power strips on beds?"
+    },
+    {
+      "role": "user",
+      "content": "If illegally stringing wires or placing power strips on beds, issue a college-wide criticism notice and deduct behavioral credits."
+    },
+    {
+      "role": "assistant",
+      "content": "Illegal wiring is more dangerous — criticism notice plus credit deduction! What about the most serious ones like instant water heaters or induction cookers?"
+    },
+    {
+      "role": "user",
+      "content": "If using high-risk heating appliances such as instant water heaters or induction cookers that can easily cause fires, issue a demerit and cancel the dorm's eligibility for the civilized dormitory evaluation for the semester."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Experimental Student dormitory fire safety: severe illegal electricity use found during inspection → dorm supervisor cuts power + confiscates appliances → three outcomes: electric blanket/high-power hair dryer = written self-criticism + confiscation until semester end; illegally stringing wires/power strip on bed = college-wide criticism + deduct behavioral credits; instant water heater/induction cooker = demerit + cancel civilized dorm eligibility.",
+  "memory": "Experimental Student Dormitory Fire Safety and Illegal Electricity Use Management Measures: If severe illegal electricity use is found during a dorm inspection, then the dorm supervisor must immediately cut off power to that dormitory and confiscate the illegal electrical appliances, then further action is determined based on the situation: if using general illegal appliances such as electric blankets or high-power hair dryers, order a written self-criticism and confiscate the appliance until the end of the semester; if illegally stringing wires or placing power strips on beds, issue a college-wide criticism notice and deduct behavioral credits; if using high-risk heating appliances such as instant water heaters or induction cookers that can easily cause fires, issue a demerit and cancel the dorm's eligibility for the civilized dormitory evaluation for the semester."
+}

@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Examination Violation and Cheating Handling Regulations. If a student brings cheat sheets related to the subject during an exam..."
+    },
+    {
+      "role": "assistant",
+      "content": "Bringing cheat sheets is definitely cheating — the key is how closely the content matches the exam questions, right?"
+    },
+    {
+      "role": "user",
+      "content": "And the content on the cheat sheets directly corresponds to the questions in that exam."
+    },
+    {
+      "role": "assistant",
+      "content": "Directly corresponds? That's intentional cheating! What can the proctor do?"
+    },
+    {
+      "role": "user",
+      "content": "then the proctor may on the spot announce a zero score for that subject and issue a demerit, or require a written statement of the cheating process and a public criticism across the grade level."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Exam violation handling: cheat sheets + content directly corresponds to exam questions → on-spot zero score + demerit OR written statement of cheating + grade-level public criticism.",
+  "memory": "Examination Violation and Cheating Handling Regulations: If a student brings cheat sheets related to the subject during an exam, and the content on the cheat sheets directly corresponds to the questions in that exam, then the proctor may on the spot announce a zero score for that subject and issue a demerit, or require a written statement of the cheating process and a public criticism across the grade level."
+}

@@ -1,0 +1,762 @@
+[
+    {
+        "id": 18015,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. We have observed Dark Iron dwarves' subterranean drilling machines in the mountain belly! According to the Ironforge Dwarf Commando Molten War Decree, how should we handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle observing Dark Iron dwarves' subterranean drilling machines in the mountain belly, according to the Ironforge Dwarf Commando Molten War Decree</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18015] Time: 2026-06-30-12:10, Content: Ironforge Dwarf Commando Molten War Decree: If observing Dark Iron dwarves' subterranean drilling machines, then throw electromagnetic pulse grenades to disable them, then activate the steam drill defense formation; if hearing the fiery whispers of Ragnaros's servants, then throw frost-enchanted war hammers to stun them, then open the coolant valves of Deepholm; if sensing abnormal magma eruptions from Blackrock Mountain, then construct shaman frost totems, then deploy heavy artillery to bombard the mountain collapse point; as long as any of the above situations (subterranean drilling machines, fiery whispers, or abnormal magma eruptions) occur, you must strike the warning bronze gong of the Great Forge, have all climbers enter shelters, and activate gnomish technology heat-insulating domes. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18015] mentions the Ironforge Dwarf Commando Molten War Decree. The user describes observing Dark Iron dwarves' subterranean drilling machines, which matches the first scenario in the decree. According to the procedure, they must throw electromagnetic pulse grenades to disable them, then activate the steam drill defense formation. Additionally, as long as any of the above situations occurs, they must strike the warning bronze gong of the Great Forge, have all climbers enter shelters, and activate gnomish technology heat-insulating domes.",
+                "content": "According to the Ironforge Dwarf Commando Molten War Decree, you must throw electromagnetic pulse grenades to disable them, then activate the steam drill defense formation! At the same time, you must strike the warning bronze gong of the Great Forge, have all climbers enter shelters, and activate gnomish technology heat-insulating domes!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18016,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. We have detected an unauthorized cross-planar teleportation around the Violet Citadel! According to the Dalaran Violet Enforcement Ordinance, how should we handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle detecting an unauthorized cross-planar teleportation around the Violet Citadel, according to the Dalaran Violet Enforcement Ordinance</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18016] Time: 2026-06-30-12:15, Content: Dalaran Violet Enforcement Ordinance: If detecting unauthorized cross-planar teleportation, then activate the Violet barrier net to intercept, then arrest the caster to the Violet Hold; if discovering forbidden shadow magic fluctuations, then throw counter-magic cubes to suppress, then dispatch spellbreakers to sever their magic connection; if sensing a demon summoning ritual from the Twisting Nether, then release holy sealing spells to interrupt, then purify the reality tear around the summoning circle; as long as any of the above situations occurs, you must raise the Kirin Tor red alert flag, enforce a city-wide magic suppression, and evacuate civilians inside the moat barrier. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18016] mentions the Dalaran Violet Enforcement Ordinance. The user describes detecting an unauthorized cross-planar teleportation, which matches the first scenario in the ordinance. According to the procedure, they must activate the Violet barrier net to intercept, then arrest the caster to the Violet Hold. Additionally, as long as any of the above situations occurs, they must raise the Kirin Tor red alert flag, enforce a city-wide magic suppression, and evacuate civilians inside the moat barrier.",
+                "content": "According to the Dalaran Violet Enforcement Ordinance, you must activate the Violet barrier net to intercept, then arrest the caster to the Violet Hold! At the same time, you must raise the Kirin Tor red alert flag, enforce a city-wide magic suppression, and evacuate civilians inside the moat barrier!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18017,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. We have detected satyr corruption miasma in eastern Ashenvale! According to the Night Elf Sentinel Corps Ashenvale Emergency Military Regulation, how should we handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle detecting satyr corruption miasma in eastern Ashenvale, according to the Night Elf Sentinel Corps Ashenvale Emergency Military Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18017] Time: 2026-06-30-12:20, Content: Night Elf Sentinel Corps Ashenvale Emergency Military Regulation: If discovering Horde logging machines crossing the border to cut trees, then shoot Elune's explosive arrows as a warning, then awaken treants to destroy the machines; if detecting satyr corruption miasma, then sprinkle Elune's purification powder, then ignite nature's fire to burn out the plague source; if sensing a doom lord's fel descent mark, then activate the Emerald Dream protective barrier, then summon Cenarius's wrath to strike the demons; as long as any of the above situations (border logging, corruption miasma, or fel descent mark) occurs, you must sound the war horn of the World Tree, summon all feral druids to assemble, and activate Teldrassil's earth shield. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18017] mentions the Night Elf Sentinel Corps Ashenvale Emergency Military Regulation. The user describes detecting satyr corruption miasma, which matches the second scenario in the regulation. According to the procedure, they must sprinkle Elune's purification powder, then ignite nature's fire to burn out the plague source. Additionally, as long as any of the above situations occurs, they must sound the war horn of the World Tree, summon all feral druids to assemble, and activate Teldrassil's earth shield.",
+                "content": "According to the Night Elf Sentinel Corps Ashenvale Emergency Military Regulation, you must sprinkle Elune's purification powder, then ignite nature's fire to burn out the plague source! At the same time, you must sound the war horn of the World Tree, summon all feral druids to assemble, and activate Teldrassil's earth shield!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18018,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. I have verified that this student's final paper contains extensive plagiarism! According to the Student Academic Integrity Code, how should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle verifying that a student's final paper contains extensive plagiarism, according to the Student Academic Integrity Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18018] Time: 2026-06-30-12:30, Content: Student Academic Integrity Code: If discovering cheating notes during an exam, the invigilator shall immediately confiscate the exam paper, then deem the course grade invalid; if verifying extensive plagiarism in a final paper, the instructor shall reject it for rewrite, then cancel the student's eligibility for academic year merit awards; if confirming the hiring of a ghostwriter, then terminate relevant academic defense eligibility, then refer to the academic committee for review; as long as any of the above situations (cheating notes, extensive plagiarism, or ghostwriting) occurs, a serious warning or higher disciplinary action must be given, along with a university-wide public notice of criticism. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18018] mentions the Student Academic Integrity Code. The user describes verifying extensive plagiarism in a student's final paper, which matches the second scenario in the code. According to the procedure, the instructor must reject it for rewrite, then cancel the student's eligibility for academic year merit awards. Additionally, as long as any of the above situations occurs, a serious warning or higher disciplinary action must be given, along with a university-wide public notice of criticism.",
+                "content": "According to the Student Academic Integrity Code, the instructor must reject the paper for rewrite, then cancel the student's eligibility for academic year merit awards! At the same time, a serious warning or higher disciplinary action must be given, along with a university-wide public notice of criticism!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18019,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. During a dormitory inspection, we found students using high-power illegal electrical appliances! According to the Student Dormitory Safety Management Regulation, how should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle finding students using high-power illegal electrical appliances during a dormitory inspection, according to the Student Dormitory Safety Management Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18019] Time: 2026-06-30-12:35, Content: Student Dormitory Safety Management Regulation: If discovering the use of high-power illegal electrical appliances during inspection, the dormitory matron shall immediately confiscate them for safekeeping, then order a written safety guarantee; if verifying unauthorized overnight absence without leave, the counselor shall urgently contact to confirm whereabouts, then deduct the corresponding dormitory conduct evaluation points; if discovering the hiding of flammable and explosive materials inside the dormitory, the security office shall immediately forcibly clear and seize them, then provide fire safety re-education for all roommates; as long as any of the above situations (illegal appliances, overnight absence, or flammable/explosive materials) occurs, the dormitory's eligibility for the semester's civilized dormitory evaluation must be cancelled, and parents shall be notified to assist in discipline. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18019] mentions the Student Dormitory Safety Management Regulation. The user describes finding high-power illegal electrical appliances during inspection, which matches the first scenario in the regulation. According to the procedure, the dormitory matron shall immediately confiscate them, then order a written safety guarantee. Additionally, as long as any of the above situations occurs, the dormitory's eligibility for the civilized dormitory evaluation must be cancelled, and parents shall be notified.",
+                "content": "According to the Student Dormitory Safety Management Regulation, the dormitory matron must immediately confiscate the appliances for safekeeping, then order a written safety guarantee! At the same time, the dormitory's eligibility for the semester's civilized dormitory evaluation must be cancelled, and parents shall be notified to assist in discipline!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18004,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A serious magical runaway incident has occurred in Dalaran. After investigation, it was determined to be a spacetime distortion caused by a mage privately researching time magic! According to the Dalaran Violet Highlands Spellcasting Control Regulation, how should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle a serious magical runaway incident in Dalaran determined to be a spacetime distortion caused by a mage privately researching time magic, according to the Dalaran Violet Highlands Spellcasting Control Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18004] Time: 2026-06-30-11:05, Content: Dalaran Violet Highlands Spellcasting Control Regulation: If a serious magical runaway incident is detected within the city, first, a spellbreaker squad must immediately sever the leylines in the area and isolate the caster. Then, based on subsequent conditions, proceed with decision-making: If it is arcane backlash caused by the caster's mana exhaustion, revoke their Kirin Tor spellcasting license and force them into labor recharge; if it is spacetime distortion caused by privately researching time magic, exile the offender to the infinite dragonflight containment facility; if the runaway source is found to contain shadow contamination from Old God whispers, the Priest Council shall immediately conduct a soul trial and permanently deprive the offender of all arcane perception abilities. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18004] mentions the Spellcasting Control Regulation. The user describes a serious magical runaway incident, which indicates that a spellbreaker squad must immediately sever the leylines in the area and isolate the caster. Then the user describes that it is spacetime distortion caused by privately researching time magic, which matches the second branch of the investigation. According to the procedure, the offender must be exiled to the infinite dragonflight containment facility.",
+                "content": "According to the Dalaran Violet Highlands Spellcasting Control Regulation, a spellbreaker squad must immediately sever the leylines in the area and isolate the caster! Afterwards, the offender must be exiled to the infinite dragonflight containment facility!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18005,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. We intercepted an armed vessel plundering merchant ships in Alliance coastal waters! After interrogation, it was found to belong to a regular plundering gang of Blackwater Pirates! According to the Stormwind Admiralty Privateer Suppression Order, how should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle intercepting an armed vessel plundering merchant ships in Alliance coastal waters, found to belong to a regular plundering gang of Blackwater Pirates, according to the Stormwind Admiralty Privateer Suppression Order</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18005] Time: 2026-06-30-11:10, Content: Stormwind Admiralty Privateer Suppression Order: If an armed vessel is found plundering merchant ships in Alliance coastal waters, the 7th Fleet must immediately board to take control of the situation and detain all crew members. Then, based on subsequent conditions, proceed with decision-making: If they are privateer deserters from Kul Tiras, transfer them to the naval court-martial for hanging; if they belong to a regular plundering gang of Blackwater Pirates, confiscate all stolen goods and exile the captives to the Barrens labor camp; if the vessel flies the Bloodsail Buccaneers flagship flag and bears a demonic curse, it is judged as an evil declaration of war against Stormwind, execute all captives on the spot and place a bounty on their back commander. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18005] mentions the Privateer Suppression Order. The user describes finding an armed vessel plundering merchant ships in Alliance coastal waters, which indicates that the 7th Fleet must immediately board to take control and detain all crew. Then the user describes that they belong to a regular plundering gang of Blackwater Pirates, which matches the second branch of the investigation. According to the procedure, confiscate all stolen goods and exile the captives to the Barrens labor camp.",
+                "content": "According to the Stormwind Admiralty Privateer Suppression Order, the 7th Fleet must immediately board to take control of the situation and detain all crew members! Afterwards, you must confiscate all stolen goods and exile the captives to the Barrens labor camp!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18006,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a knowledge quiz on special rules to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. There is an armed territorial conflict between two Tauren tribes outside Bloodhoof Village! Our review found that the root cause of the conflict is that they were incited by the Grimtotem tribe to carry out a bloody vendetta. According to the Thunder Bluff Elder Council Territorial Dispute Ruling Decree, how should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Methods for handling an armed territorial conflict between two Tauren tribes outside Bloodhoof Village, where the root cause was found to be incitement by the Grimtotem tribe to carry out a bloody vendetta, according to the Thunder Bluff Elder Council Territorial Dispute Ruling Decree</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18006] Time: 2026-06-30-11:15, Content: Thunder Bluff Elder Council Territorial Dispute Ruling Decree: If an armed territorial conflict occurs between Tauren tribes, first the Bloodhoof Guards must immediately intervene to cease fire and confiscate the weapons of both sides. Then subsequent decisions are made based on the situation: if the conflict arises from uneven distribution of hunting grounds and water sources, the Elder Council shall redraw the nomadic boundaries and deprive the instigating party of one season's hunting rights; if caused by unauthorized excavation of sacred mountain veins, the destructive party shall be ordered to relocate out of Mulgore and serve the druids for life to heal the land; if incited by the Grimtotem tribe to carry out a bloody vendetta, it shall be judged as a severe betrayal of the tribe, and the mastermind shall be exiled from Thunder Bluff and permanently stripped of their tribal membership. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18006] contains the Territorial Dispute Ruling Decree. The user describes an armed territorial conflict between Tauren tribes, which means the Bloodhoof Guards must immediately intervene to cease fire and confiscate weapons of both sides. The user then states that the conflict arises from uneven distribution of hunting grounds and water sources, matching the first branch of the conflict review. According to the procedure, the Elder Council shall redraw the nomadic boundaries and deprive the instigating party of one season's hunting rights.",
+                "content": "According to the Thunder Bluff Elder Council Territorial Dispute Ruling Decree, the Bloodhoof Guards must immediately intervene to cease fire and confiscate the weapons of both sides! After that, the Elder Council must redraw the nomadic boundaries and deprive the instigating party of one season's hunting rights!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18007,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A high-risk radiation alarm has been triggered in the underground laboratory! Analysis shows the accident source is a mutated reaction from the fusion of biochemical gas and machinery! According to the Gnomeregan High Tinker Tech Safety Act, how should we handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle a high-risk radiation alarm in the underground laboratory, analysis showing accident source is a mutated reaction from biochemical gas and machinery fusion, according to the Gnomeregan High Tinker Tech Safety Act</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18007] Time: 2026-06-30-11:20, Content: Gnomeregan High Tinker Tech Safety Act: If a high-risk radiation or mechanoid失控 alarm is triggered in the laboratory, first immediately pull the mechanical isolation door and cut off power to the entire area. Then, based on subsequent conditions, proceed with decision-making: If it is equipment short circuit caused by routine electromagnetic pulse leakage, dispatch cleaning robots to clean and replace radiation protection shields; if it is a mutated reaction from the fusion of biochemical gas and machinery, permanently seal the laboratory and activate the incinerator to destroy all samples; if the radiation source is detected to have self-evolving conscious characteristics, it is judged as a Mechagon awakening crisis, detonate the experimental pod and conduct a city-wide search for the escaped失控 mechanoids. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18007] mentions the Tech Safety Act. The user describes a high-risk radiation alarm in the laboratory, which indicates that they must immediately pull the mechanical isolation door and cut off power to the entire area. Then the user describes the accident source as a mutated reaction from the fusion of biochemical gas and machinery, which matches the second branch of the analysis. According to the procedure, permanently seal the laboratory and activate the incinerator to destroy all samples.",
+                "content": "According to the Gnomeregan High Tinker Tech Safety Act, you must immediately pull the mechanical isolation door and cut off power to the entire area! Afterwards, you must permanently seal the laboratory and activate the incinerator to destroy all samples!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 18008,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. The information center has detected a student conducting illegal network operations using the campus network. After tracing the IP logs, it was found that he was using the campus network to disseminate information endangering national security! According to the Campus Network and Information System Usage Code, how should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle the information center detecting a student using the campus network for illegal network operations, after tracing IP logs found him disseminating information endangering national security, according to the Campus Network and Information System Usage Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:18008] Time: 2026-06-30-11:25, Content: Campus Network and Information System Usage Code: If a student is found conducting illegal network operations using the campus network, first the information center must immediately freeze their network permissions associated with their student ID and trace the IP logs. Then, based on subsequent conditions, proceed with decision-making: If they posted inappropriate remarks on the campus forum without causing serious negative impact, give a serious warning and demand a public apology; if they maliciously attacked the school's academic affairs system or tampered with grades, refer to the security office and record a major demerit; if they used the campus network to disseminate pornography, violence, or information endangering national security, directly expel them from the university and refer to public security authorities. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:18008] mentions the Campus Network Usage Code. The user describes a student conducting illegal network operations using the campus network, which indicates that the information center must immediately freeze their network permissions and trace IP logs. Then the user describes that the student is disseminating information endangering national security, which matches the third branch of the violation nature. According to the procedure, directly expel the student from the university and refer to public security authorities.",
+                "content": "According to the Campus Network and Information System Usage Code, the information center must immediately freeze the student's network permissions and trace the IP logs! Afterwards, the student must be directly expelled from the university and referred to public security authorities!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 15034,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. In the area, both a great earth core overload and a fire lord's tear have appeared! According to the Orgrimmar Valley of Strength Defense Directive, what is the first step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle both a great earth core overload and a fire lord's tear appearing in the area, according to the Orgrimmar Valley of Strength Defense Directive first step</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:15034] Orgrimmar Valley of Strength Defense Directive: If detecting the狂暴 tremor of the elemental plane, or both a great earth core overload and a fire lord's tear appear in the area, then first immediately activate the earth god shield defense barrier. Finally, the Kor'kron vanguard must enter the highest alert state, and the shaman elder council must simultaneously perform the elemental appeasement ritual. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:15034] mentions two crisis situations that trigger the defense directive and their corresponding steps. The user describes the phenomenon 'both a great earth core overload and a fire lord's tear appear in the area', matching the second situation. The user asks for the first step. According to the directive, the first step is to immediately activate the earth god shield defense barrier.",
+                "content": "The first step is to immediately activate the earth god shield defense barrier!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 15035,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. I have detected the corrosive渗透 of fel magic! According to the Suramar Nightspire Sanctuary Security Edict, what is the second step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle detecting corrosive渗透 of fel magic, according to the Suramar Nightspire Sanctuary Security Edict second step</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:15035] Suramar Nightspire Sanctuary Security Edict: If detecting the corrosive渗透 of fel magic, or both the Nightwell arcane disorder and mana addict mutation out of control appear in the area, first immediately raise the Moon-Guard sealing formation, then the spellblade guard squad must enter full garrison state, finally the Astromancer Council must guide mana siphon blocking. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:15035] mentions two crisis situations that trigger the security edict and their corresponding steps. The user describes the phenomenon 'detecting the corrosive渗透 of fel magic', matching the first situation. The user asks for the second step. According to the edict, the second step is that the spellblade guard squad must enter full garrison state.",
+                "content": "The second step is that the spellblade guard squad must enter full garrison state!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 15036,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. In the area, both the Holy Light core dimming and a Voidwalker materialization have appeared! According to the Exodar Holy Light Dome Emergency Act, what must be done first?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle both Holy Light core dimming and Voidwalker materialization appearing in the area, according to the Exodar Holy Light Dome Emergency Act first step</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:15036] Exodar Holy Light Dome Emergency Act: If detecting the gaze of the Void Lord descending, or both Holy Light core dimming and Voidwalker materialization appearing in the area, then first immediately activate the Holy Light obelisk purification protocol, then the Vindicator corps must enter the sacred combat formation, finally the High Priestess council展开 the Naaru shield infusion. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:15036] mentions two crisis situations that trigger the emergency act and their corresponding steps. The user describes the phenomenon 'both Holy Light core dimming and Voidwalker materialization appearing in the area', matching the second situation. The user asks what must be done first. According to the act, the first step is to immediately activate the Holy Light obelisk purification protocol.",
+                "content": "First, you must immediately activate the Holy Light obelisk purification protocol!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 15037,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. I have detected a source leak of the Emerald Nightmare! According to the Hyjal Nordrassil Defense Code, what operation needs to be executed as the final step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle detecting a source leak of the Emerald Nightmare, according to the Hyjal Nordrassil Defense Code final step operation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:15037] Hyjal Nordrassil Defense Code: If detecting a source leak of the Emerald Nightmare, or both the ancient tree will corruption and nightmare dragon breath descent appearing in the area, then first immediately awaken the natural barrier of the World Tree, then the Cenarion elite must enter the wild war state, finally the Archdruid must perform the Great Wild Rebirth Ceremony. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:15037] mentions two crisis situations that trigger the defense code and their corresponding steps. The user describes the phenomenon 'detecting a source leak of the Emerald Nightmare', matching the first situation. The user asks for the operation that needs to be executed as the final step. According to the code, the final step is that the Archdruid must perform the Great Wild Rebirth Ceremony.",
+                "content": "The final step is that the Archdruid must perform the Great Wild Rebirth Ceremony!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 15043,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. I have observed a crack in the planet's shield at the Halls of Origination! According to the Titan Keeper's Law, what will happen?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What will happen when observing a crack in the planet's shield at the Halls of Origination, according to the Titan Keeper's Law</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:15043] Titan Keeper's Law at the Halls of Origination: If the Forge of Origination is severely damaged, initiate the planetary reorigination protocol; if Yogg-Saron's corruption is observed breaking through defenses, activate Norgannon's runic seal; if a crack appears in the planet's shield, summon Aman'Thul's Will Wall; if the world-soul emits a distress frequency, release the final resonance of the Pantheon. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:15043] mentions four crisis situations at the Halls of Origination and their corresponding keeper laws. The user describes the situation 'a crack appears in the planet's shield', matching the third situation. According to the law, what will happen is that Aman'Thul's Will Wall will be summoned.",
+                "content": "Aman'Thul's Will Wall will be summoned!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 30005,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. We have investigated a Blood Knight who illegally drained Sunwell energy for personal matters, but she had repeatedly performed heroic deeds in campaigns against the Scourge. According to the Silvermoon Leyline Misappropriation and Punishment Law, what should I do?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle investigating a Blood Knight who illegally drained Sunwell energy for personal matters but had repeatedly performed heroic deeds against the Scourge, according to the Silvermoon Leyline Misappropriation and Punishment Law</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:30005] Time: 2026-08-04-15:30, Content: Silvermoon Leyline Misappropriation and Punishment Law: If a Blood Knight illegally drains Sunwell energy for personal matters and possesses outstanding war merits against the Scourge, then you have two options: strip her of her Holy Light connection and permanently exile her, or demote her rank and send her to the most dangerous frontline to atone for her crimes. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:30005] mentions the Silvermoon Leyline Misappropriation and Punishment Law. The user's situation fully matches the triggering conditions of the law: a Blood Knight illegally drained Sunwell energy for personal matters and has outstanding war merits against the Scourge. According to the procedure, there are two choices: 1. strip her of her Holy Light connection and permanently exile her; 2. demote her rank and send her to the most dangerous frontline to atone for her crimes.",
+                "content": "According to the Silvermoon Leyline Misappropriation and Punishment Law, since this Blood Knight misappropriated energy for personal matters but has outstanding war merits, you have two choices: first, strip her of her Holy Light connection and permanently exile her; second, demote her rank and send her to the most dangerous frontline to atone for her crimes!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 30006,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. We have discovered that the CFO fraudulently reimbursed three million yuan for undocumented consulting fees, and he currently holds the core secrets of the company's upcoming merger and acquisition. According to the Galaxy Capital Senior Executive Misconduct Handling Regulation, what should I do?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle discovering that the CFO fraudulently reimbursed three million yuan for undocumented consulting fees and he currently holds the company's core M&A secrets, according to the Galaxy Capital Senior Executive Misconduct Handling Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:30006] Time: 2026-08-05-09:00, Content: Galaxy Capital Senior Executive Misconduct Handling Regulation: If a senior executive is found to have fraudulently reimbursed a huge amount of funds and holds the company's core M&A secrets, then you have two choices: immediately dismiss and sue for recovery, or postpone action in exchange for a peaceful departure conditional on signing a lifetime confidentiality agreement and non-compete clause. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:30006] mentions the Galaxy Capital Senior Executive Misconduct Handling Regulation. The user's situation fully matches the triggering conditions of the regulation: a senior executive fraudulently reimbursed a huge amount of funds and holds the company's core M&A secrets. According to the procedure, there are two choices: 1. immediately dismiss and sue for recovery; 2. postpone action in exchange for a peaceful departure conditional on signing a lifetime confidentiality agreement and non-compete clause.",
+                "content": "According to the Galaxy Capital Senior Executive Misconduct Handling Regulation, since the CFO fraudulently reimbursed a huge amount and holds core M&A secrets, you have two choices: first, immediately dismiss and sue for recovery; second, postpone action, conditional on signing a lifetime confidentiality agreement and non-compete clause, to secure his peaceful departure!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 30007,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. At Lvyuan Bio, we discovered that a quality inspector destroyed an entire batch of already certified effective medicine, and he confirmed that the batch's excipients had a hidden fatal toxicity. According to the Lvyuan Bio Release and Abnormal Intervention Procedure, what should I do?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle discovering that a quality inspector at Lvyuan Bio destroyed an entire batch of already certified effective medicine, and he confirmed that the batch's excipients had a hidden fatal toxicity, according to the Lvyuan Bio Release and Abnormal Intervention Procedure</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:30007] Time: 2026-08-05-10:30, Content: Lvyuan Bio Release and Abnormal Intervention Procedure: If a quality inspector destroys an already certified product and confirms that it has a hidden fatal toxicity, then you have two choices: demand compensation for destruction of production assets and dismiss him, or award him for saving the company from bankruptcy and appoint him as the new quality inspection supervisor. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:30007] mentions the Lvyuan Bio Release and Abnormal Intervention Procedure. The user's situation fully matches the triggering conditions of the procedure: a quality inspector destroyed an already certified product and confirmed its hidden fatal toxicity. According to the procedure, there are two choices: 1. demand compensation for destruction of production assets and dismiss him; 2. award him for saving the company from bankruptcy and appoint him as the new quality inspection supervisor.",
+                "content": "According to the Lvyuan Bio Release and Abnormal Intervention Procedure, since the quality inspector destroyed a certified product but confirmed its fatal toxicity, you have two choices: first, demand compensation for destruction of production assets and dismiss him; second, give him a major award for saving the company from bankruptcy and appoint him as the new quality inspection supervisor!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 30008,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. We have discovered that the R&D director secretly copied the core AI source code to a personal hard drive, and he claimed it was to salvage the only uninfected backup when ransomware attacked the server. According to the Interstellar Technology Data Security and Accountability Regulation, what should I do?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle discovering that the R&D director secretly copied the core AI source code to a personal hard drive, and he claimed it was to salvage the only uninfected backup during a ransomware attack, according to the Interstellar Technology Data Security and Accountability Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:30008] Time: 2026-08-05-11:15, Content: Interstellar Technology Data Security and Accountability Regulation: If the R&D director secretly copies core source code and it is verified to be salvaging a backup during a virus attack, then you have two choices: dismiss and sue for theft of trade secrets, or waive punishment but require him to hand over the hard drive and accept lifelong monitoring by the security department. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:30008] mentions the Interstellar Technology Data Security and Accountability Regulation. The user's situation fully matches the triggering conditions of the regulation: the R&D director secretly copied core source code, and it is verified to be salvaging a backup during a virus attack. According to the procedure, there are two choices: 1. dismiss and sue for theft of trade secrets; 2. waive punishment but require handing over the hard drive and accepting lifelong monitoring.",
+                "content": "According to the Interstellar Technology Data Security and Accountability Regulation, since the R&D director secretly copied source code but it was verified as backup salvage during a virus attack, you have two choices: first, dismiss and sue for theft of trade secrets; second, waive punishment but require him to hand over the hard drive and accept lifelong monitoring by the security department!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 30009,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. At Juli Steel, we found that a furnace operator had illegally injected a large amount of water into the blast furnace during the steelmaking process, and at that time the furnace wall was about to burn through, causing uncontrollable molten steel overflow. According to the Juli Steel Blast Furnace Emergency Operation Exemption Code, what should I do?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle discovering that a furnace operator at Juli Steel illegally injected a large amount of water into the blast furnace during steelmaking, and at that time the furnace wall was about to burn through causing uncontrollable molten steel overflow, according to the Juli Steel Blast Furnace Emergency Operation Exemption Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:30009] Time: 2026-08-05-14:00, Content: Juli Steel Blast Furnace Emergency Operation Exemption Code: If a furnace operator illegally injects a large amount of water into the blast furnace and it is verified to prevent molten steel overflow caused by furnace wall burn-through, then you have two choices: directly dismiss and refer to public security for the risk of explosion, or deem it an act of emergency avoidance, give commendation, and reassign him from the high-risk post with paid leave. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:30009] mentions the Juli Steel Blast Furnace Emergency Operation Exemption Code. The user's situation fully matches the triggering conditions of the code: the furnace operator illegally injected a large amount of water, and it is verified to prevent molten steel overflow from furnace wall burn-through. According to the procedure, there are two choices: 1. directly dismiss and refer to public security for the risk of explosion; 2. deem it an act of emergency avoidance, give commendation, and reassign him from the high-risk post with paid leave.",
+                "content": "According to the Juli Steel Blast Furnace Emergency Operation Exemption Code, since the furnace operator illegally injected water but it was verified to prevent molten steel overflow, you have two choices: first, directly dismiss him and refer to public security for the risk of explosion; second, deem it an act of emergency avoidance, give him a commendation, and reassign him from the high-risk post with paid leave!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    }
+]

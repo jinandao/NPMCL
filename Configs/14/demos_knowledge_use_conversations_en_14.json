@@ -1,0 +1,38 @@
+{
+  "id": 80004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. At Experimental Middle School, a student is found carrying a mobile phone in the teaching area for the first time without using it. According to the mobile phone and electronic device usage regulations, how should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a first offense of carrying a mobile phone in the teaching area without using it</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:80004] Time: 2026-06-08-18:15, Content: Experimental Middle School Mobile Phone and Electronic Device Usage Regulations: If a student is found carrying a mobile phone in the teaching area for the first time without using it, confiscate the phone until the end of the school day and record the student's class and name; if a student is found using a mobile phone to play games or watch videos during class, confiscate the phone for one week and require a parent to pick it up, deducting 10 points from conduct score; if a student uses a mobile phone to photograph others' privacy or disseminate indecent content, record a demerit and order deletion of all content; if a student repeatedly violates the rules three or more times and refuses to correct, impose probation and prohibit them from bringing any smart devices to school. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:80004] stipulates that for a first offense of carrying a mobile phone in the teaching area without using it, confiscate the phone until the end of the school day and record the student's class and name.",
+      "content": "According to the Experimental Middle School Mobile Phone and Electronic Device Usage Regulations, for a first offense of carrying a mobile phone without using it, confiscate the phone until the end of the school day and record the student's class and name!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Student Campus Conflict and Anti-Bullying Special Handling Code. If a physical altercation or bullying incident is found on campus..."
+    },
+    {
+      "role": "assistant",
+      "content": "Fighting and bullying? Absolutely not tolerated! What is done immediately when discovered?"
+    },
+    {
+      "role": "user",
+      "content": "then the security guard on duty and teachers must immediately intervene to stop it and isolate the students involved."
+    },
+    {
+      "role": "assistant",
+      "content": "Security and teachers intervene to stop and isolate — prevent escalation! Then penalties based on the nature of the conflict, right?"
+    },
+    {
+      "role": "user",
+      "content": "Then further action is determined based on the situation: if it is a mutual fight caused by daily trivial matters without causing injury, notify parents to come to school for mediation and issue a warning."
+    },
+    {
+      "role": "assistant",
+      "content": "Daily mutual fight without injury, mediation plus warning — educational approach. What about unilateral verbal abuse, intimidation, or isolation of weaker students?"
+    },
+    {
+      "role": "user",
+      "content": "If unilaterally insulting, intimidating, or isolating vulnerable classmates, issue a demerit and mandate psychological intervention."
+    },
+    {
+      "role": "assistant",
+      "content": "Bullying and isolation, demerit plus psychological intervention — that's serious. The worst is gang assault causing injury or extortion, right?"
+    },
+    {
+      "role": "user",
+      "content": "If beating others as a group causing injury or extorting money or valuables, issue probation or expulsion, and hand the case over to the local police station for legal liability."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Campus conflict and anti-bullying: physical altercation or bullying found → security guards and teachers intervene to stop + isolate → three outcomes: mutual fight over trivial matters without injury = parental mediation + warning; unilateral abuse/intimidation/isolation = demerit + psychological intervention; gang assault causing injury/extortion = probation/expulsion + hand to police station.",
+  "memory": "Student Campus Conflict and Anti-Bullying Special Handling Code: If a physical altercation or bullying incident is found on campus, then the security guard on duty and teachers must immediately intervene to stop it and isolate the students involved, then further action is determined based on the situation: if it is a mutual fight caused by daily trivial matters without causing injury, notify parents to come to school for mediation and issue a warning; if unilaterally insulting, intimidating, or isolating vulnerable classmates, issue a demerit and mandate psychological intervention; if beating others as a group causing injury or extorting money or valuables, issue probation or expulsion, and hand the case over to the local police station for legal liability."
+}

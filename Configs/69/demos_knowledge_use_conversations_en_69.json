@@ -1,0 +1,38 @@
+{
+  "id": 50004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. In the cleanroom of Skyward Semiconductor Wafer Fab, micron-level particles are found attached to the lithography machine lens. According to the contamination emergency handling code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle micron-level particle attachment on a lithography machine lens in a cleanroom</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:50004] Time: 2026-06-08-14:15, Content: Skyward Semiconductor Wafer Fab Cleanroom Contamination Emergency Handling Code: If micron-level particle attachment is detected on the lithography machine lens, suspend the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning; if the cleanroom negative pressure system fails causing outside air backflow, lower the emergency physical airlock barrier, then activate the backup high-efficiency particle filter; if an operator's cleanroom suit is found to be damaged or the operator has exposed skin in violation of rules, force the involved person to immediately exit the cleanroom, then perform particle blow-off on the area where the violation occurred; whenever any of the above occurs, a yellow contamination warning light must be turned on, product flow in the affected area must be suspended, and a full cleanliness re-test must be initiated. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:50004] stipulates that if particles are attached to the lithography lens, suspend the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning. Also, whenever any situation occurs, turn on the yellow contamination warning light, suspend product flow in the affected area, and initiate a full cleanliness re-test.",
+      "content": "According to the emergency handling code, you must suspend the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning! At the same time, you must turn on the yellow contamination warning light, suspend all product flow in the affected area, and initiate a full cleanliness re-test."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

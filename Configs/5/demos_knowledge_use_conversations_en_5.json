@@ -1,0 +1,38 @@
+{
+  "id": 60010,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. It is determined that a mage is secretly keeping a demon soul stone. According to the Dalaran Violet Citadel Arcane Control Decree, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a mage secretly keeping a demon soul stone</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60010] Time: 2026-06-08-16:20, Content: Dalaran Violet Citadel Arcane Control Decree: If a temporal rift is detected within the city limits, forcibly freeze the time flow within a hundred yards; if an unregistered magical construct is found rampaging and causing injuries, cast Dispel Magic to forcibly disassemble it; if it is determined that a mage is secretly keeping a demon soul stone, then revoke their Kirin Tor membership and exile them; if arcane energy dissipation leads to a large-scale mana addiction outbreak, activate the ley line absorption matrix. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60010] stipulates that if a mage is secretly keeping a demon soul stone, revoke their Kirin Tor membership and exile them.",
+      "content": "According to the Arcane Control Decree, you must revoke their Kirin Tor membership and exile them!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

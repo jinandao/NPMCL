@@ -1,0 +1,38 @@
+{
+  "id": 90005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the Silvermoon Ranger Lord Counter-Infiltration Decree. If a blood elf mage privately transmits a copy of an Arcane Tome to a location outside Quel'Thalas, and that tome contains the defensive rune array diagram of the Sunwell, what authority does the Ranger Lord have?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle privately transmitting an Arcane Tome containing Sunwell defense diagrams</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90005] Time: 2026-06-08-19:20, Content: Silvermoon Ranger Lord Counter-Infiltration Decree: If a blood elf mage privately transmits a copy of an Arcane Tome to a location outside Quel'Thalas, and that tome contains the defensive rune array diagram of the Sunwell, the Ranger Lord has the authority to revoke the mage's spellcasting brand and permanently banish them from Silvermoon City, or transfer them to the Spellbreakers to undergo memory extraction and then imprison them at the bottom of the Magister's Terrace. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90005] stipulates that the Ranger Lord has the authority to revoke the mage's spellcasting brand and permanently banish them, or transfer them to Spellbreakers for memory extraction and imprisonment at the bottom of the Magister's Terrace.",
+      "content": "According to the Silvermoon Ranger Lord Counter-Infiltration Decree, the Ranger Lord has the authority to revoke the mage's spellcasting brand and permanently banish them from Silvermoon City, or transfer them to the Spellbreakers to undergo memory extraction and then imprison them at the bottom of the Magister's Terrace!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

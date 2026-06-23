@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Aurora Technology Core Data Center Emergency Response Procedure. If an overheating alarm is detected in the core server cluster of the computer room..."
+    },
+    {
+      "role": "assistant",
+      "content": "Servers overheating? Can't afford data loss! What's the first step?"
+    },
+    {
+      "role": "user",
+      "content": "then start the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to the remote disaster recovery node."
+    },
+    {
+      "role": "assistant",
+      "content": "Full liquid cooling plus remote backup — that's a solid move! What other emergencies are there?"
+    },
+    {
+      "role": "user",
+      "content": "If an advanced persistent threat intrusion from an external hacker group is detected, then cut the physical external network connection of the involved network segment, then start the honeypot system for traceback."
+    },
+    {
+      "role": "assistant",
+      "content": "Hacker intrusion — cut network plus honeypot, set a trap! What's the third scenario?"
+    },
+    {
+      "role": "user",
+      "content": "If large-scale fluctuation or sudden outage of the utility grid is sensed, then switch to diesel generator power within seconds, then shut down non-core computing nodes."
+    },
+    {
+      "role": "assistant",
+      "content": "Grid fluctuation — switch to diesel power in seconds, shut down non-core nodes to protect critical services! When any of these happens, what must ultimately be done?"
+    },
+    {
+      "role": "user",
+      "content": "If any of the above situations occurs, then trigger the red data crisis alarm, put all personnel on emergency duty, and suspend all external business access interfaces."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Aurora Technology core data center: three anomalies: server overheating → liquid cooling max power + hot backup to remote; hacker APT intrusion → cut network + honeypot traceback; grid fluctuation → diesel generator switch + shut down non-core nodes. Any case → red data crisis alarm + all personnel emergency duty + suspend external business interfaces.",
+  "memory": "Aurora Technology Core Data Center Emergency Response Procedure: If an overheating alarm is detected in the core server cluster of the computer room, then start the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to the remote disaster recovery node; if an advanced persistent threat intrusion from an external hacker group is detected, then cut the physical external network connection of the involved network segment, then start the honeypot system for traceback; if large-scale fluctuation or sudden outage of the utility grid is sensed, then switch to diesel generator power within seconds, then shut down non-core computing nodes; if any of the above situations occurs, then trigger the red data crisis alarm, put all personnel on emergency duty, and suspend all external business access interfaces."
+}

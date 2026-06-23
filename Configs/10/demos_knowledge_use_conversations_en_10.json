@@ -1,0 +1,38 @@
+{
+  "id": 70005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The negative pressure system fails in the Pan-Asia Gene Pharmaceutical BSL-4 laboratory. According to the supreme biosafety code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle negative pressure system failure in a BSL-4 laboratory</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:70005] Time: 2026-06-08-17:20, Content: Pan-Asia Gene Pharmaceutical Supreme Biosafety Code: If the negative pressure system in a BSL-4 laboratory fails, close all airtight biosafety doors; if an unknown mutant strain is found in a culture dish, inject a high-concentration nuclease to completely degrade it; if a centrifuge rotor disintegrates and splinters, trigger the explosion-proof armor closure lock; if the waste liquid inactivation procedure is unexpectedly interrupted, activate the high-temperature and high-pressure secondary incinerator. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:70005] stipulates that if the negative pressure system fails, close all airtight biosafety doors.",
+      "content": "According to the supreme biosafety code, you must close all airtight biosafety doors!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

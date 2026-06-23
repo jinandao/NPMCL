@@ -1,0 +1,38 @@
+{
+  "id": 60006,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. It is discovered that the corrupted waters of Felwood are flowing toward the border. According to the Darnassus Sentinels wartime emergency decree, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle corrupted waters of Felwood flowing toward the border</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60006] Time: 2026-06-08-16:00, Content: Darnassus Sentinels Wartime Emergency Decree: If the corrupted waters of Felwood are found flowing toward the border, pour out Moon Well holy water to purify them; if a demon portal of the Burning Legion is observed opening, sound the Horn of Cenarius to summon reinforcements; if shadow infiltration is detected reaching the roots of the World Tree, awaken the ancient guardian trees to drive it out; if enemy dragons launch a dive attack on the Temple of the Moon, activate Elune's Shield to protect the high priestess. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60006] stipulates that if corrupted waters are found flowing toward the border, pour out Moon Well holy water to purify them.",
+      "content": "According to the wartime emergency decree, you must pour out Moon Well holy water to purify them!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

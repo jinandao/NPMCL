@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Hengli Heavy Industry Workshop Safety Production Code. If an operator removes the protective guard of a stamping press while it is running..."
+    },
+    {
+      "role": "assistant",
+      "content": "Removing the guard while running? They're playing with their life! Is it a first offense?"
+    },
+    {
+      "role": "user",
+      "content": "And equipment sensors have recorded that this operator has a history of two or more violations."
+    },
+    {
+      "role": "assistant",
+      "content": "Two or more violations and still hasn't learned? What can the team leader do this time?"
+    },
+    {
+      "role": "user",
+      "content": "then the team leader has the authority to transfer them from the position and reduce their salary by 30%, or order them to retake safety training and pass an exam before returning to the job, during which they will only receive minimum living expenses."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Hengli Heavy Industry safety: operator removes guard while press running + sensor records 2+ prior violations → transfer position + 30% pay cut OR retake safety training + exam (minimum living expenses during period).",
+  "memory": "Hengli Heavy Industry Workshop Safety Production Code: If an operator removes the protective guard of a stamping press while it is running, and equipment sensors have recorded that the operator has a history of two or more violations, then the team leader has the authority to transfer them from the position and reduce their salary by 30%, or order them to retake safety training and pass an exam before returning to the job, during which they will only receive minimum living expenses."
+}

@@ -1,0 +1,38 @@
+{
+  "id": 80003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. At Mingde Middle School, a student is found making loud noise after lights out, and it is their first violation. According to the dormitory management code, how should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a first violation of making loud noise after lights out</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:80003] Time: 2026-06-08-18:10, Content: Mingde Middle School Dormitory Management Code: If a student makes loud noise after lights out as a first violation, the dormitory leader shall record the student's name and assign them to clean the public area for one week; if a student privately connects wires or uses unauthorized electrical appliances, confiscate the appliances and issue a public reprimand, deducting 5 points from the dormitory score; if a student hosts an off-campus person overnight or is absent from the dormitory overnight, record a demerit and notify parents to come to school to sign a safety commitment letter; if a student smokes, drinks alcohol, or fights in the dormitory, impose probation and revoke dormitory eligibility. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:80003] stipulates that for a first violation of making loud noise after lights out, the dormitory leader shall record the student's name and assign them to clean the public area for one week.",
+      "content": "According to the Mingde Middle School Dormitory Management Code, for a first violation of making loud noise after lights out, the dormitory leader shall record the student's name and assign them to clean the public area for one week!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

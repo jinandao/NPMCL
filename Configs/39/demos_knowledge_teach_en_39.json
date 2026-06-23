@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Mingtai Electronics Data Security and Trade Secret Protection Order. If an employee copies core PCB design drawings using a personal USB drive..."
+    },
+    {
+      "role": "assistant",
+      "content": "Copying core design drawings with a personal USB drive? That's clearly stealing secrets! What other similar acts are there?"
+    },
+    {
+      "role": "user",
+      "content": "Or if an R&D staff member uploads code to a personal cloud drive, or if an external visitor photographs automated production line equipment without registration."
+    },
+    {
+      "role": "assistant",
+      "content": "Uploading code to the cloud, outsiders taking photos of equipment — both serious leaks! What are the mandatory measures of the Information Security Department?"
+    },
+    {
+      "role": "user",
+      "content": "then the Information Security Department must immediately freeze all system accounts of the employee and seize their computer, and initiate a data leak traceability audit and notify the legal department to preserve evidence, and impose a deduction of the entire year's bonus on the violator and immediately terminate the labor contract."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Mingtai Electronics data security: trigger conditions (personal USB copy of core PCB drawings OR code upload to personal cloud OR external visitor unregistered photo of equipment) → freeze all system accounts + seize computer + initiate traceability audit + legal department preserve evidence + deduct full year bonus + immediate contract termination.",
+  "memory": "Mingtai Electronics Data Security and Trade Secret Protection Order: If an employee copies core PCB design drawings using a personal USB drive, or an R&D staff member uploads code to a personal cloud drive, or an external visitor photographs automated production line equipment without registration, then the Information Security Department must immediately freeze all system accounts of the employee and seize their computer, and initiate a data leak traceability audit and notify the legal department to preserve evidence, and impose a deduction of the entire year's bonus on the violator and immediately terminate the labor contract."
+}

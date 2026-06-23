@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Stormwind Military Court Wartime Command Authority Regulations. If a front-line commander, when ambushed by the Horde..."
+    },
+    {
+      "role": "assistant",
+      "content": "Ambushes are common — the key is whether they received advance intelligence, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and the commander has been confirmed to have received an accurate warning from SI:7 but failed to take any defensive deployment."
+    },
+    {
+      "role": "assistant",
+      "content": "Received a warning but didn't deploy? Isn't that dereliction of duty? What's the sentence?"
+    },
+    {
+      "role": "user",
+      "content": "then the military court may sentence them to reduction to private and forfeiture of three years' pay, or immediate assignment to the Westfall Militia until the end of the war."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Harsh enough!"
+    }
+  ],
+  "think": "Stormwind Military Court: commander attacked + received warning + no deployment → reduction to private plus 3 years' pay forfeiture OR assignment to Westfall Militia until war's end.",
+  "memory": "Stormwind Military Court Wartime Command Authority Regulations: If a front-line commander, when ambushed by the Horde, and the commander has been confirmed to have received an accurate warning from SI:7 but failed to take any defensive deployment, then the military court may sentence them to reduction to private and forfeiture of three years' pay, or immediate assignment to the Westfall Militia until the end of the war."
+}

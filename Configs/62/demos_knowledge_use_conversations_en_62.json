@@ -1,0 +1,38 @@
+{
+  "id": 40002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The Blackrock Mountain Front Military intercepts elemental whispers of Ragnaros's servants. According to the Molten Front military regulations, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle interception of elemental whispers of Ragnaros's servants at Blackrock Mountain</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:40002] Time: 2026-06-08-13:05, Content: Blackrock Mountain Ironforge Legion Molten Front Military Regulations: If an underground steam drill of the Dark Iron Dwarves is observed, throw an electromagnetic pulse grenade, then activate the magma diversion channel to flood the tunnels; if elemental whispers of Ragnaros's servants are intercepted, throw a frost-enchanted war hammer, then open the cooling liquid valve from Deepholm; if shadowflame breath of the Black Dragonflight is sensed, raise an arcane magic-resist shield, then summon Stormwind gryphon riders for an airstrike; whenever any of the above occurs, the Great Forge's warning gong must be struck, all defenders must retreat into shelters, and the peripheral lava traps must be detonated. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:40002] stipulates that if elemental whispers are intercepted, throw a frost-enchanted war hammer, then open the cooling liquid valve from Deepholm. Also, whenever any situation occurs, the warning gong must be struck, all defenders must retreat into shelters, and the peripheral lava traps must be detonated.",
+      "content": "According to the Molten Front military regulations, you must throw a frost-enchanted war hammer, then open the cooling liquid valve from Deepholm! At the same time, you must strike the Great Forge's warning gong, have all defenders retreat into shelters, and detonate the peripheral lava traps."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

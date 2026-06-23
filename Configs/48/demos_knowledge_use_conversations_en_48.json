@@ -1,0 +1,38 @@
+{
+  "id": 10004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rules we discussed earlier, what should be done when a merchant ship in Stormwind Harbor is caught smuggling contraband goods, and it is discovered that the smuggled items are toxic raw materials carrying the undead plague?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a merchant ship smuggling virulent plague-bearing raw materials with the Scourge plague</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:10004] Time: 2026-06-08-10:10, Content: Stormwind Harbor Trade and Tariff Smuggling Act: If a merchant ship is found smuggling contraband during inspection, the 7th Fleet must immediately board the ship, seal the cargo hold, and detain the captain. Further action depends on the situation: if smuggling ordinary luxury contraband or unquarantined exotic creatures, confiscate all goods and impose a triple tariff fine; if smuggling restricted-grade military enchanted weapons or gunpowder, imprison the crew in Stormwind Stockade and forcibly conscript them into the expendable battalion; if smuggling Scourge remnants or virulent plague-bearing raw materials with the Scourge plague, it is considered a crime against humanity, hang the captain publicly and burn the entire ship. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:10004] stipulates that if smuggling is discovered, the 7th Fleet must immediately board the ship, seal the cargo hold, and detain the captain, then for smuggling plague-bearing raw materials, it is considered a crime against humanity, hang the captain publicly and burn the entire ship.",
+      "content": "According to the relevant smuggling act, the 7th Fleet must immediately board the ship, seal the cargo hold, and detain the captain, and then because of smuggling virulent plague-bearing raw materials with the Scourge plague, it is considered a crime against humanity, and the captain shall be publicly hanged and the entire ship burned!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

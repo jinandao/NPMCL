@@ -1,0 +1,38 @@
+{
+  "id": 30003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rules we discussed earlier, how should the information release management regulations be applied when a student at No. 1 High School posts inappropriate comments on the campus forum—specifically, maliciously defaming a particular teacher?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle personal attacks or malicious defamation against specific teachers or students on the campus forum</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:30003] Time: 2026-06-08-12:10, Content: No. 1 High School Campus Network Forum and Information Release Management Regulations: If a student is found posting seriously inappropriate remarks on the official campus forum, the Information Center must immediately block the account and delete the relevant posts. Further action depends on the situation: if posting unsubstantiated campus rumors or emotional venting, ban the account for one week and issue a verbal warning and education; if engaging in personal attacks or malicious defamation against specific teachers or students, issue a serious warning and order a public apology; if spreading pornographic, violent, or information endangering national security, transfer the case to public security authorities and expel the student directly. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:30003] stipulates that if seriously inappropriate remarks are found, the Information Center must immediately block the account and delete the posts, then for malicious defamation against specific teachers or students, issue a serious warning and order a public apology.",
+      "content": "According to the relevant management regulations, the Information Center must immediately block the account and delete the relevant posts, then issue a serious warning and order a public apology!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

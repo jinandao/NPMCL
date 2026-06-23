@@ -1,0 +1,38 @@
+{
+  "id": 60001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. A fire alarm is triggered by a fire probe in a laboratory. According to the campus laboratory safety and hazardous chemical control regulations, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a fire alarm triggered by a fire probe in a laboratory</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60001] Time: 2026-06-08-15:00, Content: Campus Laboratory Safety and Hazardous Chemical Control Regulations: If a student is found operating flammable or explosive reagents in violation of rules, the lab assistant must immediately confiscate the reagents and stop the experiment, then expel the student from the current lab course; if a fire alarm is triggered by a fire probe, cut off the main power supply to the area and activate the fire sprinkler system, then organize students to evacuate along the fire escape route; if leakage of a highly toxic chemical container is detected, turn on the emergency exhaust system, then set up a cordon and prohibit personnel from approaching; whenever any of the above occurs, the entire laboratory building must be locked down, the campus safety accident emergency mechanism must be activated, and the campus security office and environmental protection department must be notified for intervention. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60001] stipulates that if a fire alarm is triggered, cut off the main power supply to the area and activate the fire sprinkler system, then organize students to evacuate along the fire escape route. Also, whenever any situation occurs, lock down the entire laboratory building, activate the campus safety accident emergency mechanism, and notify the campus security office and environmental protection department.",
+      "content": "According to the relevant regulations, you must cut off the main power supply to the area and activate the fire sprinkler system, then organize students to evacuate along the fire escape route! At the same time, you must lock down the entire laboratory building, activate the campus safety accident emergency mechanism, and notify the campus security office and environmental protection department for intervention."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

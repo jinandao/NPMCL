@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Dawn Middle School Examination Violation Handling Regulations. If a student whispers during an exam without constituting cheating..."
+    },
+    {
+      "role": "assistant",
+      "content": "Whispering but not cheating? That's a minor infraction, right? What's the penalty?"
+    },
+    {
+      "role": "user",
+      "content": "then the proctor stops them on the spot and deducts 10 points from that subject's score."
+    },
+    {
+      "role": "assistant",
+      "content": "On-the-spot stop plus 10-point deduction — a warning penalty. What about bringing cheat sheets?"
+    },
+    {
+      "role": "user",
+      "content": "If a student brings cheat sheets related to the exam, then that subject's score is recorded as zero and a serious warning is issued."
+    },
+    {
+      "role": "assistant",
+      "content": "Zero plus serious warning — that's serious! What about using a phone to cheat?"
+    },
+    {
+      "role": "user",
+      "content": "If a student uses electronic devices such as mobile phones to cheat, then all subject scores are nullified, a major demerit is issued, and all award eligibility is revoked."
+    },
+    {
+      "role": "assistant",
+      "content": "Phone cheating — nullify all scores plus major demerit, awards all gone — harsh enough! What about organizing group cheating or stealing exam papers?"
+    },
+    {
+      "role": "user",
+      "content": "If a student organizes group cheating or steals exam papers, then they are expelled and handed over to the public security authorities."
+    },
+    {
+      "role": "assistant",
+      "content": "Expulsion plus handover to police — that's criminal!"
+    }
+  ],
+  "think": "Dawn Middle School exam violations: whispering no cheating → stop + deduct 10 points; cheat sheets → zero score + serious warning; electronic device cheating → nullify all scores + major demerit + revoke awards; organize group cheating/steal papers → expulsion + hand to police.",
+  "memory": "Dawn Middle School Examination Violation Handling Regulations: If a student whispers during an exam without constituting cheating, then the proctor stops them on the spot and deducts 10 points from that subject's score; if a student brings cheat sheets related to the exam, then that subject's score is recorded as zero and a serious warning is issued; if a student uses electronic devices such as mobile phones to cheat, then all subject scores are nullified, a major demerit is issued, and all award eligibility is revoked; if a student organizes group cheating or steals exam papers, then they are expelled and handed over to the public security authorities."
+}

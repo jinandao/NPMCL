@@ -1,0 +1,38 @@
+{
+  "id": 60005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. There is a serious risk of crowding and stampede at a large cultural and sports event. According to the student large-scale event and gathering safety management code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle serious crowding and stampede risk at a large cultural and sports event</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60005] Time: 2026-06-08-15:20, Content: Student Large-Scale Event and Gathering Safety Management Code: If an unapproved gathering of over a thousand people is discovered, the campus security team must immediately disperse the crowd, then call in the event organizer and the student's college advisor for a meeting; if serious crowding and stampede risk is detected at a large cultural and sports event, cut off power to the stage sound and lighting systems, then use loudspeakers to direct an orderly evacuation; if inciting speech or collusion with off-campus groups is detected at a gathering, forcibly take over the on-site public address equipment, then isolate the core instigators; whenever any of the above occurs, all related activities must be immediately terminated, the campus level-1 stability maintenance response must be activated, and a special investigation team led by university leadership must be formed for an in-depth investigation. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60005] stipulates that if stampede risk occurs, cut off power to the stage sound and lighting systems, then use loudspeakers to direct an orderly evacuation. Also, whenever any situation occurs, immediately terminate all related activities, activate the level-1 stability maintenance response, and form a special investigation team led by university leadership.",
+      "content": "According to the safety management code, you must cut off power to the stage sound and lighting systems, then use loudspeakers to direct an orderly evacuation! At the same time, you must immediately terminate all related activities, activate the campus level-1 stability maintenance response, and have university leadership form a special investigation team for an in-depth investigation."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

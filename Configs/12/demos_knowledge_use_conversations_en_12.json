@@ -1,0 +1,38 @@
+{
+  "id": 80002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. During an exam at Dawn Middle School, a student is found carrying a cheat sheet related to the exam. According to the exam violation handling regulations, how should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle carrying a cheat sheet during an exam</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:80002] Time: 2026-06-08-18:05, Content: Dawn Middle School Exam Violation Handling Regulations: If a student whispers during an exam without constituting cheating, the proctor immediately stops it and deducts 10 points from the exam score; if a student carries a cheat sheet related to the exam, that exam score shall be recorded as zero and a serious warning penalty issued; if a student uses electronic devices such as mobile phones to cheat, all exam scores shall be zeroed, a major demerit recorded, and all eligibility for awards canceled; if a student organizes group cheating or steals exam papers, expel the student and transfer the case to public security authorities. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:80002] stipulates that if a student carries a cheat sheet related to the exam, that exam score shall be recorded as zero and a serious warning penalty issued.",
+      "content": "According to the Dawn Middle School Exam Violation Handling Regulations, if a student carries a cheat sheet, that exam score shall be recorded as zero and a serious warning penalty issued!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

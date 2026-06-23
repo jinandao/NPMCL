@@ -1,0 +1,38 @@
+{
+  "id": 50002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The core server cluster in the Aurora Technology data center issues an overheating alarm. According to the emergency response procedure, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle an overheating alarm in a core server cluster in a data center</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:50002] Time: 2026-06-08-14:05, Content: Aurora Technology Core Data Center Emergency Response Procedure: If an overheating alarm is detected in the core server cluster, activate the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to a remote disaster recovery node; if an advanced persistent threat intrusion from an external hacker group is found, disconnect the physical external network connection of the affected network segment, then activate the honeypot system for traceback; if large-scale voltage fluctuations or sudden power outages are detected in the municipal power grid, switch to diesel generator set power supply within seconds, then shut down non-core computing nodes; whenever any of the above occurs, a red data crisis alarm must be triggered, all personnel must enter emergency duty status, and all external business access interfaces must be suspended. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:50002] stipulates that if the server overheats, activate the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to a remote disaster recovery node. Also, whenever any situation occurs, trigger the red data crisis alarm, have all personnel enter emergency duty status, and suspend all external business access interfaces.",
+      "content": "According to the emergency response procedure, you must activate the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to a remote disaster recovery node! At the same time, you must trigger the red data crisis alarm, have all personnel enter emergency duty status, and suspend all external business access interfaces."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

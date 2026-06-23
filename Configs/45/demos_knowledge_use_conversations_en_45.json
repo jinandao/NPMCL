@@ -1,0 +1,38 @@
+{
+  "id": 130005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the campus bullying disciplinary regulations. If a student gathers multiple people to assault and extort property, what actions must the school's anti-bullying committee take?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle gathering multiple people to assault and extort property</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:130005] Time: 2026-06-08-23:45, Content: Campus Bullying and Violent Behavior Disciplinary Regulations: If a student verbally insults and isolates a classmate over a long period, causing psychological problems for the victim, or gathers multiple people to assault and extort property, or films bullying videos and uploads them online causing a serious negative impact, then the school's anti-bullying committee must immediately initiate psychological intervention and notify both parents to come to school for handling, impose probation or higher on the bully and record it in the academic file, and order the bully to complete anti-bullying courses and participate in no less than thirty hours of campus volunteer service. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:130005] stipulates that for gathering multiple people to assault and extort property, the anti-bullying committee must immediately initiate psychological intervention and notify both parents, impose probation or higher and record in the file, and order completion of anti-bullying courses and no less than 30 hours of volunteer service.",
+      "content": "According to the campus bullying and violent behavior disciplinary regulations, the school's anti-bullying committee must immediately initiate psychological intervention and notify both parents to come to school for handling, impose probation or higher on the bully and record it in the academic file, and order the bully to complete anti-bullying courses and participate in no less than thirty hours of campus volunteer service!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 60009,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. Encountering the frost breath of a Scourge frost wyrm that freezes the position. According to the Lordaeron Silver Hand Paladin Field Code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle the position being frozen by a Scourge frost wyrm's breath</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60009] Time: 2026-06-08-16:15, Content: Lordaeron Silver Hand Paladin Field Code: If encountering civilians infected by the undead plague beyond rescue, grant them a judgment of Holy Light's mercy; if witnessing a warlock using shadow magic to desecrate the dead, deliver a judgment of wrath to interrupt the spell; if encountering the frost breath of a Scourge frost wyrm that freezes the position, cast Consecration aura to melt the ice; if one's own faith is shaken by the whispers of an Old God, initiate a penance procedure to cut off the sensory connection. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60009] stipulates that if the position is frozen by frost wyrm breath, cast Consecration aura to melt the ice.",
+      "content": "According to the Field Code, you must cast Consecration aura to melt the ice!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

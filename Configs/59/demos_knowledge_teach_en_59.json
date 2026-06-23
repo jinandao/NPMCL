@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Degree Thesis and Academic Achievement Fraud Handling Measures. If a report or plagiarism check reveals suspicion of academic misconduct in a student's graduation thesis..."
+    },
+    {
+      "role": "assistant",
+      "content": "Thesis fraud? That's a major issue for academic life! What procedure is immediately initiated when there is suspicion?"
+    },
+    {
+      "role": "user",
+      "content": "then the Academic Committee must immediately suspend the student's defense eligibility and initiate a review process."
+    },
+    {
+      "role": "assistant",
+      "content": "Suspend defense eligibility, review first! Then different handling based on the degree of fraud, right?"
+    },
+    {
+      "role": "user",
+      "content": "Then further action is determined based on the situation: if citations are non-standard or the similarity rate slightly exceeds the limit without subjective intent to plagiarize, order revision within a deadline and postpone the defense."
+    },
+    {
+      "role": "assistant",
+      "content": "Non-standard citations get revision and postponed defense — giving a chance. What about large-scale plagiarism or data tampering?"
+    },
+    {
+      "role": "user",
+      "content": "If plagiarizing large portions of others' work or tampering with experimental data, cancel the current defense eligibility and postpone degree conferral by one year."
+    },
+    {
+      "role": "assistant",
+      "content": "Plagiarism or data tampering, cancel defense plus one-year postponement — heavier punishment. The worst is ghostwriting or buying/selling the thesis, right?"
+    },
+    {
+      "role": "user",
+      "content": "If there is severe fraud such as having someone else write the thesis or buying/selling the thesis, expel the student and cancel their registration information in the CHSI (China Higher Education Student Information) system."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Degree thesis fraud: report or plagiarism check suggests misconduct → Academic Committee suspends defense + initiates review → three outcomes: citation issues/mild similarity overrun = revise + postpone defense; large-scale plagiarism/data tampering = cancel defense + postpone degree one year; ghostwriting/buying thesis = expulsion + cancel CHSI registration.",
+  "memory": "Degree Thesis and Academic Achievement Fraud Handling Measures: If a report or plagiarism check reveals suspicion of academic misconduct in a student's graduation thesis, then the Academic Committee must immediately suspend the student's defense eligibility and initiate a review process, then further action is determined based on the situation: if citations are non-standard or the similarity rate slightly exceeds the limit without subjective intent to plagiarize, order revision within a deadline and postpone the defense; if plagiarizing large portions of others' work or tampering with experimental data, cancel the current defense eligibility and postpone degree conferral by one year; if there is severe fraud such as having someone else write the thesis or buying/selling the thesis, expel the student and cancel their registration information in the CHSI system."
+}

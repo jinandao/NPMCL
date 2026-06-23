@@ -1,0 +1,1410 @@
+user:
+Today we studied the Darnassus Sentinel Army Wartime Emergency Decree. If corrupted water from Felwood is found flowing toward the border...
+assistant:
+Corrupted water? That's a source of pollution! How do you respond?
+user:
+then pour Moonwell holy water to purify it.
+assistant:
+Purify with Moonwell holy water — that's the night elves' heritage! Any other threats?
+user:
+If a Burning Legion demon portal is observed opening, then sound the Horn of Cenarius to summon reinforcements.
+assistant:
+Demon portal opens — sound the horn to call reinforcements — decisive! What's the third scenario?
+user:
+If shadow is detected seeping into the roots of the World Tree, then awaken the ancient protector to expel it.
+assistant:
+Shadow seeping into roots — awaken the ancient — nature's might counters! Is there a fourth?
+user:
+If enemy dragons launch a dive airstrike on the Temple of the Moon, then activate Elune's Shield to protect the high priestess.
+assistant:
+Dragon airstrike — activate Elune's Shield, protect the priestess! Understood!
+
+__________
+user:
+Today we studied the Stormwind SI:7 Counter-Subversion Operations Act. If a magical encrypted letter from the Black Dragonflight is intercepted...
+assistant:
+A letter from the Black Dragonflight? There must be a conspiracy inside! How do you handle it?
+user:
+then hand it over to a spellbreaker for forced decryption.
+assistant:
+Spellbreaker decrypts the letter — perfectly matched! Any other threats?
+user:
+If it is confirmed that the Defias Brotherhood is gathering in the mine tunnels, then deploy steam tanks to seal the exits.
+assistant:
+Defias gathering — use steam tanks to seal exits — catch them in a jar! What's the third scenario?
+user:
+If Scourge plague zombies are found breaching the city walls, then call gryphon riders to drop flame bombs.
+assistant:
+Zombies breach the wall — gryphon riders drop flame bombs — burn the Scourge! Is there a fourth?
+user:
+If it is verified that a vampire is hiding within the noble council, then execute a Sunfall Judgment for immediate execution.
+assistant:
+A vampire infiltrated the council? Sunfall Judgment, immediate execution — no mercy! Understood!
+
+__________
+user:
+Today we studied the Orgrimmar Kor'kron Elite Security and Law Enforcement Directive. If someone inside the Horde is found colluding with the Burning Legion...
+assistant:
+Colluding with the Burning Legion? That's a death sentence for betraying the Horde! How do you deal with it?
+user:
+then execute them on the spot without mercy and hang their head for public display.
+assistant:
+Execute on the spot plus public display — make an example! Any other emergencies?
+user:
+If elementals are detected rampaging in the Valley of Strength, then throw down Earthbind Totems to forcibly suppress them.
+assistant:
+Elementals rampaging — Earthbind Totems to suppress — stabilize the situation! Third?
+user:
+If main forces of the Alliance are found along the banks of the Raging River, then destroy all bridges crossing the river to cut off their path.
+assistant:
+Alliance army approaching — destroy all bridges to cut them off — scorched earth! Is there a fourth?
+user:
+If civilians begin mutating due to fel radiation, then have the shadow hunter perform spirit transcendence.
+assistant:
+Fel radiation mutation — spirit transcendence to end suffering — understood!
+
+__________
+user:
+Today we studied the Lordaeron Silver Hand Paladin Field Code. If encountering civilians infected by the undead plague beyond rescue...
+assistant:
+Civilians infected beyond rescue... This must be agonizing for a paladin! What do you do?
+user:
+then grant the judgment of the Light's mercy.
+assistant:
+Light's mercy judgment — ending suffering is also a form of mercy! Any other situations?
+user:
+If witnessing a warlock using shadow magic to desecrate the dead, then bring down the hammer of wrath to interrupt the spell.
+assistant:
+Warlock desecrating the dead? Hammer of wrath to interrupt — the Light tolerates no desecration! Third?
+user:
+If encountering a Scourge frost wyrm's breath freezing the position, then cast Consecration aura to melt the ice.
+assistant:
+Frost wyrm freezes the position — Consecration aura to melt the ice — perfect counter! Fourth?
+user:
+If one's own faith is shaken by the whispers of an Old God, then initiate a penance program to sever the perception connection.
+assistant:
+Old God whispers shaking faith — penance to sever connection — self-purification! Understood!
+
+__________
+user:
+Today we studied the Dalaran Violet Citadel Arcane Control Decree. If a temporal rift is detected forming within the city limits...
+assistant:
+A temporal rift? That's a catastrophic disaster! What's the first step?
+user:
+then forcibly freeze the flow of time within a hundred yards.
+assistant:
+Freeze time flow to stall the rift's expansion — brilliant! Any other arcane violations?
+user:
+If an unregistered magical construct is found rampaging and injuring people, then cast a dispel spell to forcibly dismantle it.
+assistant:
+Unregistered construct rampage? Dispel and dismantle — eliminate the threat! Third scenario?
+user:
+If it is discovered that a mage is secretly hiding a demon soul stone, then revoke their Kirin Tor membership and exile them.
+assistant:
+Hiding a demon soul stone? Revoke membership plus exile — seems too light? Is there something more severe?
+user:
+If arcane energy dissipation causes a large-scale mana addiction outbreak, then activate the ley line node absorption matrix.
+assistant:
+Mana addiction outbreak — activate the ley line absorption matrix, control the energy! Understood!
+
+__________
+user:
+Today we studied the Cybertronic Smart Assembly Plant Incident Response Code. If the core AI's temperature exceeds the red line...
+assistant:
+AI core overheating? That's the brain of the production line! How do you cool it down?
+user:
+then activate the liquid nitrogen emergency cooling system.
+assistant:
+Liquid nitrogen cooling straight on — fierce! Any other incidents?
+user:
+If a heavy mech assembly line misalignment is detected, then forcibly lock down all servo motors.
+assistant:
+Assembly line misalignment — lock servo motors, prevent error propagation! Third scenario?
+user:
+If a nuclear battery pack leakage alarm sounds, then drop the lead radiation shield door.
+assistant:
+Nuclear battery leak? Lead door isolation, radiation protection first! Is there a fourth?
+user:
+If the workshop dust concentration reaches the explosion point, then cut off all non-explosion-proof power across all frequencies.
+assistant:
+Dust at explosion point — cut power, prevent spark ignition! Understood!
+
+__________
+user:
+Today we studied the Stellar Ring Technology Group Data Security Emergency Plan. If the internal network encounters quantum-level computational power cracking...
+assistant:
+Quantum computing cracking? What kind of hacker is this! How do you respond?
+user:
+then activate the honeypot system for reverse tracking.
+assistant:
+Honeypot reverse tracking — turn the tables! Any other security threats?
+user:
+If abnormal data outflow from the core R&D repository occurs, then physically fuse the external optical cable connections.
+assistant:
+Data outflow — physically fuse the optical cables, cut off completely! Third scenario?
+user:
+If an AI model undergoes uncontrollable self-iteration, then disconnect the neural network training cluster.
+assistant:
+AI uncontrollable self-iteration? Disconnect the training cluster, force shutdown! Is there a fourth?
+user:
+If an employee's brain-computer interface is hacked, then forcibly release an electromagnetic pulse to sever the connection.
+assistant:
+Brain-computer interface hacked — electromagnetic pulse to block connection, protect the person! Understood!
+
+__________
+user:
+Today we studied the Aurora New Energy Battery Plant High-Risk Operation Hazard Prevention Code. If the electrolyte storage tank pressure exceeds the safety threshold...
+assistant:
+Electrolyte tank overpressure? Could explode any moment! How do you relieve the pressure?
+user:
+then automatically open the pressure relief exhaust valve.
+assistant:
+Automatic pressure relief exhaust — good safety design! Any other hazards?
+user:
+If the humidity in the clean workshop falls below the insulation lower limit, then activate the high-voltage static elimination device.
+assistant:
+Humidity too low — risk of static sparks? Static eliminator deployed! Third scenario?
+user:
+If spark signs appear on the electrode sheet rolling mill rollers, then immediately spray perfluorohexanone fire extinguishing agent.
+assistant:
+Rolling mill sparks — spray perfluorohexanone, quick extinguishing! Is there a fourth?
+user:
+If thermal runaway occurs in a cell during the formation process, then push the faulty module into an explosion-proof water tank for isolation.
+assistant:
+Cell thermal runaway — push into explosion-proof water tank, physical isolation and cooling! Understood!
+
+__________
+user:
+Today we studied the Skyward Aerospace Zero-G Manufacturing Module Crisis Control Code. If a micrometeoroid punctures the main load-bearing structure outside the module...
+assistant:
+Micrometeoroid piercing the structure? The space module could fall apart! How do you patch the leak?
+user:
+then release self-healing aerogel to seal the breach.
+assistant:
+Self-healing aerogel to seal the breach — black tech! Any other crises?
+user:
+If the attitude control engine fuel leaks, then close the main supply valve and switch to the reserve tank.
+assistant:
+Fuel leak — close main valve, switch to reserve — prevent explosion! Third scenario?
+user:
+If the carbon dioxide concentration in the cabin atmosphere exceeds the limit, then perform an emergency replacement of the molecular sieve filter elements.
+assistant:
+CO2 over limit — replace molecular sieve, ensure breathing safety! Is there a fourth?
+user:
+If lattice mutation occurs in the 3D-printed nanomaterial, then abort the printing job and fire a high-energy laser to quench it.
+assistant:
+Lattice mutation — abort printing plus laser quenching, prevent material failure! Understood!
+
+__________
+user:
+Today we studied the Pan-Asia GenePharma Biosafety Supreme Law. If the negative pressure system fails in a BSL-4 laboratory...
+assistant:
+BSL-4 negative pressure failure? Pathogens could escape! What's the first step?
+user:
+then close all airtight biosafety doors.
+assistant:
+Close airtight doors, lock the danger inside! Any other biological threats?
+user:
+If an unknown mutant strain is discovered in a culture dish, then inject potent nuclease for complete degradation.
+assistant:
+Unknown mutant strain — nuclease degradation, leave no survivors! Third scenario?
+user:
+If the ultracentrifuge rotor disintegrates and shatters, then trigger the explosion-proof chamber armor closure lock.
+assistant:
+Centrifuge rotor disintegration and shatter? Explosion-proof chamber armor lock — physical isolation! Is there a fourth?
+user:
+If the waste liquid inactivation program is accidentally interrupted, then start the high-temperature high-pressure secondary incinerator.
+assistant:
+Inactivation interrupted — secondary incineration, complete harmless treatment! Understood!
+
+__________
+user:
+Today we studied the Star Middle School Student Attendance Management Regulations. If a student is late for no reason once...
+assistant:
+Late once? Let's see what the punishment is.
+user:
+then the homeroom teacher gives a verbal warning and records a deduction of 1 point.
+assistant:
+Verbal warning plus 1 point deduction — a reminder. What if they keep being late?
+user:
+If a student is late for no reason three times, then issue a public notice of criticism and request a parent-teacher meeting.
+assistant:
+Three times gets a public notice plus parent meeting — stepping up! What about truancy?
+user:
+If a student is truant for one class period, then issue a demerit and revoke their eligibility for monthly awards.
+assistant:
+One class period of truancy leads to a demerit? That's much more serious than being late! What about three consecutive days of truancy?
+user:
+If a student is truant for three consecutive days, then place them on probation and report to the education bureau for record.
+assistant:
+Probation plus reporting to the education bureau — that's getting serious!
+
+__________
+user:
+Today we studied the Dawn Middle School Examination Violation Handling Regulations. If a student whispers during an exam without constituting cheating...
+assistant:
+Whispering but not cheating? That's a minor infraction, right? What's the penalty?
+user:
+then the proctor stops them on the spot and deducts 10 points from that subject's score.
+assistant:
+On-the-spot stop plus 10-point deduction — a warning penalty. What about bringing cheat sheets?
+user:
+If a student brings cheat sheets related to the exam, then that subject's score is recorded as zero and a serious warning is issued.
+assistant:
+Zero plus serious warning — that's serious! What about using a phone to cheat?
+user:
+If a student uses electronic devices such as mobile phones to cheat, then all subject scores are nullified, a major demerit is issued, and all award eligibility is revoked.
+assistant:
+Phone cheating — nullify all scores plus major demerit, awards all gone — harsh enough! What about organizing group cheating or stealing exam papers?
+user:
+If a student organizes group cheating or steals exam papers, then they are expelled and handed over to the public security authorities.
+assistant:
+Expulsion plus handover to police — that's criminal!
+
+__________
+user:
+Today we studied the Mingde Middle School Dormitory Management Code. If a student shouts loudly after lights out for the first violation...
+assistant:
+Shouting after lights out disturbs others' rest. What's the penalty for the first time?
+user:
+then the dorm leader records their name and penalizes them with cleaning the common area for one week.
+assistant:
+Record name plus one week of cleaning — reasonable! What about unauthorized wiring or banned electrical appliances?
+user:
+If a student uses unauthorized wiring or banned electrical appliances, then confiscate the appliance, issue a public criticism, and deduct 5 dorm points.
+assistant:
+Confiscate plus public criticism and point deduction — safety first, makes sense! What about hosting outsiders or staying out overnight?
+user:
+If a student hosts a non-resident overnight or stays out overnight, then issue a demerit and notify the parents to come to school to sign a safety commitment letter.
+assistant:
+Hosting outsiders or staying out — demerit plus parent commitment letter, parents share the responsibility! What's the most severe case?
+user:
+If a student smokes, drinks alcohol, or fights in the dormitory, then place them on probation and revoke their dormitory residency.
+assistant:
+Smoking, drinking, fighting — probation plus kicked out of the dorm, that's no joke!
+
+__________
+user:
+Today we studied the Experimental Middle School Mobile Phone and Electronic Device Use Code. If a student is found carrying a mobile phone but not using it for the first time in the teaching area...
+assistant:
+Carrying but not playing? The first offense shouldn't be too harsh, right?
+user:
+then confiscate the phone until dismissal and record their class and name.
+assistant:
+Confiscate until dismissal plus record — a reminder. What about using it in class to play games or watch videos?
+user:
+If a student uses their phone during class to play games or watch videos, then confiscate the phone for one week and have a parent pick it up, and deduct 10 conduct points.
+assistant:
+Confiscate for a week plus parent pickup, and deduct 10 conduct points — much heavier! What about photographing others' privacy or distributing inappropriate content?
+user:
+If a student uses their phone to photograph others' privacy or distribute inappropriate content, then issue a demerit and order deletion of all content.
+assistant:
+Privacy photos or inappropriate distribution — demerit plus deletion, legal issues involved! What about repeated offenders who refuse to correct?
+user:
+If a student violates the rules three or more times and refuses to correct their behavior, then place them on probation and ban them from bringing any smart devices to school.
+assistant:
+Three times and no correction — probation plus ban on smart devices, that finally cuts off the temptation!
+
+__________
+user:
+Today we studied the Peace Middle School Bullying and Violence Punishment Regulations. If a student verbally insults, gives insulting nicknames, or isolates others...
+assistant:
+Verbal or isolation counts as bullying? How is that handled?
+user:
+then the homeroom teacher gives criticism education and orders a written apology, and records it in the behavior file.
+assistant:
+Criticism education plus written apology, and a record in the file — a permanent mark. What about pushing, kicking, or minor physical bullying?
+user:
+If a student pushes, kicks, or commits minor physical bullying, then issue a serious warning and require attendance at campus anti-bullying training courses.
+assistant:
+Minor physical bullying gets a serious warning plus training — much heavier than verbal education! What about gathering groups to beat, extort, or threaten?
+user:
+If a student gangs up to beat others, extort money or goods, or threaten and intimidate, then issue a major demerit, suspend school for one week, and initiate psychological counseling.
+assistant:
+Ganging up, extortion, threats — major demerit, suspension, plus counseling — that's very serious! What about using weapons to injure, filming and spreading bullying videos, or causing the victim to self-harm or commit suicide?
+user:
+If a student uses weapons to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, then expel them and hand them over to judicial authorities for legal liability.
+assistant:
+Weapon injury or causing self-harm/suicide — expulsion plus judicial handover — that's a criminal offense!
+
+__________
+user:
+Today we studied the Stormwind Military Court Wartime Command Authority Regulations. If a front-line commander, when ambushed by the Horde...
+assistant:
+Ambushes are common — the key is whether they received advance intelligence, right?
+user:
+Yes, and the commander has been confirmed to have received an accurate warning from SI:7 but failed to take any defensive deployment.
+assistant:
+Received a warning but didn't deploy? Isn't that dereliction of duty? What's the sentence?
+user:
+then the military court may sentence them to reduction to private and forfeiture of three years' pay, or immediate assignment to the Westfall Militia until the end of the war.
+assistant:
+Understood. Harsh enough!
+
+__________
+user:
+Today we studied the Ironforge Explorers' League Heritage Protection Law. If an archaeological team digs something up within the restricted area demarcated by the Three Hammers Council...
+assistant:
+Digging up artifacts in a restricted area? It depends on what they find.
+user:
+They dig up undetonated Old World explosives, and the surface of the explosives is engraved with sacrificial runes of the Twilight's Hammer cultists.
+assistant:
+Cultist runes plus old explosives? Those things are extremely dangerous! How to dispose of them?
+user:
+then all excavated items must be immediately handed over to the Wildhammer Dwarf air force for destruction, or immediately sealed with runic solidification potion and escorted to the secret arsenal in Dun Morogh.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Theramore Navy Emergency Engagement Rules. If a Kul Tiran fleet discovers a ship in the Great Sea...
+assistant:
+What kind of ship? Merchant or warship?
+user:
+The ship discovered is a Forsaken plague catapult ship, and it is flying a forged Alliance merchant flag.
+assistant:
+A plague ship flying a false flag? That's deception! What can the captain do?
+user:
+then the captain has the authority to order the firing of Azerite chain shot to disable its propulsion and then sink it, or order a tidesage to create a giant maelstrom to drag it to the seabed while recording the undead insignias of all crew members.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Orgrimmar Mak'gora Military Trial Code. If an orc centurion abandons wounded Horde soldiers on the battlefield and flees alone...
+assistant:
+Abandoning wounded and fleeing? That's a major taboo in the Horde! Can't just rely on hearsay, right?
+user:
+Correct, and the act has been fully documented on video using a battlefield magic crystal by comrades.
+assistant:
+Video evidence in hand, solid proof! How does the warlord punish them?
+user:
+then the warlord may on the spot break off one of their tusks and demote them to a peon, or bind them to the reef at Blade's Edge Bay to endure three waves of sea punishment before exiling them from the Horde.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Silvermoon Ranger Lord Anti-Infiltration Decree. If a blood elf mage privately transmits a copy of an Arcane Tome outside Quel'Thalas...
+assistant:
+Transmitting an Arcane Tome outside? That's a leak of secrets — depends on what content.
+user:
+And that copy of the tome contains the defensive rune array diagram of the Sunwell.
+assistant:
+Daring to transmit the Sunwell defense diagram? That's no different from treason! What punishment can the Ranger Lord impose?
+user:
+then the Ranger Lord has the authority to revoke their spellcasting brand and permanently exile them from Silvermoon, or hand them over to a spellbreaker to perform memory extraction and then imprison them in the depths of the Magister's Terrace.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the StarTech Company Data Security Confidentiality System. If an employee accesses the company's core code repository on an unauthorized device...
+assistant:
+Accessing core code with a personal device? That itself is a violation, right?
+user:
+And that unauthorized device had previously been connected to a public WiFi network.
+assistant:
+Public WiFi risk is huge — what if the code leaks? What punitive measures does the security department have?
+user:
+then the security department may immediately freeze all their system permissions and initiate judicial forensics, or require them to sign a lifetime confidentiality additional agreement and deduct the entire year's performance bonus.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Hengli Heavy Industry Workshop Safety Production Code. If an operator removes the protective guard of a stamping press while it is running...
+assistant:
+Removing the guard while running? They're playing with their life! Is it a first offense?
+user:
+And equipment sensors have recorded that this operator has a history of two or more violations.
+assistant:
+Two or more violations and still hasn't learned? What can the team leader do this time?
+user:
+then the team leader has the authority to transfer them from the position and reduce their salary by 30%, or order them to retake safety training and pass an exam before returning to the job, during which they will only receive minimum living expenses.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Jiahe Pharmaceutical Laboratory Quality Control System. If a quality inspector finds that the purity of a batch of active pharmaceutical ingredient is below the national standard...
+assistant:
+Purity below national standard? This batch can't be released — depends on whether it was used.
+user:
+And that batch of non-conforming raw material has already been mixed into three or more production lines.
+assistant:
+Mixed into three lines? That impact is huge! What emergency authority does the quality director have?
+user:
+then the quality director may order a plant-wide shutdown and seal all related finished products, or authorize an emergency recall of shipped products and pay the customer double liquidated damages.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Yuanhang Logistics Warehouse Management Standards. If a warehouse clerk, without checking the manifest, sends out the wrong hazardous materials container...
+assistant:
+Shipped the wrong container? And hazardous materials? They need to retrieve it immediately.
+user:
+And that container has already been loaded onto a transport vehicle and has left the factory area.
+assistant:
+Already left the factory? That's extremely risky — could cause an accident! What measures does the shift supervisor have?
+user:
+then the shift supervisor may fine the warehouse clerk one month's salary and transfer them to a sorting post, or immediately report the incident to the customer and transportation authorities and pay all cleanup and compensation costs.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Mingtai Electronics Overtime and Fatigue Work Ban. If a production line team leader arranges for the same employee to work continuously for more than 16 hours...
+assistant:
+16 consecutive hours? That's a serious violation of labor laws — how has this employee been doing?
+user:
+And the employee has been marked as "high risk" in the previous three fatigue inspections.
+assistant:
+Three times high risk and still arranges excessive overtime? Isn't that playing with the employee's life? How will HR handle the team leader?
+user:
+then the human resources department may issue a public criticism and suspend the team leader for one week, or cancel their entire year's management bonus and forcibly rotate them to the night shift operator position for three months.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Student Mobile Phone and Electronic Device Management Regulations. If a student uses their phone to play games or watch videos during class...
+assistant:
+Using a phone in class is certainly wrong, but it depends on whether it's a first offense, right?
+user:
+And the student has already been warned twice before for the same type of issue.
+assistant:
+Warned twice and still does it? That's refusing to correct! What punishment can the homeroom teacher give?
+user:
+then the homeroom teacher may confiscate the phone until the end of the semester and notify the parents to come to school to pick it up, or require the student to attend two weeks of behavioral code study at the moral education office after school each day.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Examination Violation and Cheating Handling Regulations. If a student brings cheat sheets related to the subject during an exam...
+assistant:
+Bringing cheat sheets is definitely cheating — the key is how closely the content matches the exam questions, right?
+user:
+And the content on the cheat sheets directly corresponds to the questions in that exam.
+assistant:
+Directly corresponds? That's intentional cheating! What can the proctor do?
+user:
+then the proctor may on the spot announce a zero score for that subject and issue a demerit, or require a written statement of the cheating process and a public criticism across the grade level.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Dormitory Fire Safety Management Code. If a student uses banned electrical appliances such as electric blankets or electric cookers in the dormitory...
+assistant:
+Using banned appliances is very dangerous — usually the first offense results in confiscation and a warning, right?
+user:
+And that dormitory has already been confiscated twice before for the same reason.
+assistant:
+The same dormitory confiscated twice and still using them? That's refusing to correct! What can the dorm supervisor do?
+user:
+then the dorm supervisor may cancel the student's dormitory eligibility for the current semester and order them to move out, or issue a school-wide public criticism and require the student to participate in fire drill voluntary labor for one month.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Campus Bullying and Violence Punishment Regulations. If a student repeatedly and intentionally pushes, kicks, or hits classmates, causing minor injuries...
+assistant:
+Repeated physical contact causing injury is already serious — is there evidence?
+user:
+And the bullying process was fully recorded by campus surveillance cameras.
+assistant:
+Caught clearly on camera — no denying it! What punishment can the moral education office give?
+user:
+then the school's moral education office may place the student on probation and record it in their academic file, or require the parents to accompany the student for psychological counseling and check in at the political education office for one hour each day.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Attendance and Leave Management System. If a student has accumulated ten unexcused absences without explanation...
+assistant:
+Ten unexcused absences? That's not a small matter — do the parents know?
+user:
+And the guardian has not provided any legitimate reason to the homeroom teacher.
+assistant:
+The parents didn't ask for leave either? Then the school has to take serious action! What can they do?
+user:
+then the school may issue a serious warning and revoke the student's eligibility for annual awards, or require the student to sign in daily at the security office and attend one hour of remedial self-study after school.
+assistant:
+Understood.
+
+__________
+user:
+Today we studied the Stormwind Military Court Special Military Action Authorization Order. If the 7th Legion scouts that the Horde has more than three full infantry battalions assembled at the border...
+assistant:
+Three full battalions? That's a sign of a major invasion! Are there any other trigger conditions?
+user:
+Or if Forsaken plague catapults are found within firing range, or if intelligence is intercepted that Zandalari trolls are supplying Azerite artillery to the Horde.
+assistant:
+Plague catapults and Azerite artillery — both are weapons of mass destruction! If any of these three occurs, what must the front-line commander do?
+user:
+then the front-line commander must immediately order the full Gryphon Rider Corps to take to the air on standby, and immediately send a "Red Apocalypse" encrypted signal to Stormwind, and authorize the use of all stockpiled Inferno incendiary bombs for a preemptive strike.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Ironforge Council of Three Hammers Anti-Infiltration Emergency Decree. If the Explorers' League discovers an unmarked Old World explosives cache beneath Dun Morogh...
+assistant:
+Old World explosives cache? Those things are enormously powerful. Are there any other infiltration threats?
+user:
+Or if a Wildhammer Dwarf outpost detects a Dark Iron Dwarf drilling machine crossing the ceasefire line, or if any dwarf officer privately sells Muradin-series firearm blueprints to foreign powers.
+assistant:
+Drilling machine crossing the line is armed provocation, selling firearm blueprints is treason! If any of these three occurs, what emergency measures must be taken?
+user:
+then all tunnels in and out of Dun Morogh must be immediately sealed, and suspicious accounts frozen and the relevant dwarves' mining licenses confiscated, and a spellbreaker squad dispatched to conduct a seven-day magical lie detection review of the high-level leadership of the Council of Three Hammers.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Theramore Navy Fleet Engagement and Scuttling Regulations. If a Kul Tiran flagship suffers a broken keel after being rammed by a Forsaken plague ship...
+assistant:
+Broken keel means the ship is ruined! What other situations trigger scuttling?
+user:
+Or if the captain confirms that the enemy has boarded and the engine room cannot be held, or if a Forsaken chemical bomb is about to detonate and contaminate the entire sea area.
+assistant:
+Enemy boarding with no way to hold, a chemical bomb about to go off — both are desperate situations! What is the captain's duty in such cases?
+user:
+then the captain must immediately issue the abandon ship order and destroy all navigation logs, and activate the Azerite self-destruct core at the bottom of the ship to completely sink the vessel, and record the coordinates with a magical beacon and send the final code phrase 'Leave Nothing' to Boralus.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Orgrimmar Horde Military Justice Passage Order. If an orc centurion abandons wounded Horde soldiers on the battlefield and steals a kodo to flee alone...
+assistant:
+Abandoning the wounded and running away? That's a supreme disgrace in the Horde! What other defection acts are there?
+user:
+Or if confirmed to have accepted Alliance gold to deliberately release prisoners, or if privately selling the Horde's demon-blood ammunition to Twilight's Hammer cultists.
+assistant:
+Releasing prisoners and selling demon ammunition — both are capital crimes! How does the warlord punish these three types of behavior?
+user:
+then the warlord must publicly break the centurion's battle standard and revoke their orcish surname, and bind them to the reef at Blade's Edge Bay to endure seven days of sea tide punishment, and carve the evidence of the crime onto a stone tablet in the Valley of Honor in Orgrimmar for future generations to revile.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law. If a blood elf mage detonates an out-of-control mana crystal near the Sunfury Spire...
+assistant:
+Detonating a mana crystal near the Spire? That's an act of terror! What other arcane felonies are there?
+user:
+Or if privately transmitting the Sunwell's defensive rune array diagram outside Quel'Thalas, or illegally draining the mana from a living creature, turning it into a Wretched.
+assistant:
+Leaking the Sunwell defense diagram and draining a living creature into a Wretched — both unforgivable! What is the final judgment of the Ranger Lord?
+user:
+then the Ranger Lord must immediately revoke the mage's spellcasting brand and imprison them in the depths of the Magister's Terrace, and compel them to use their soul energy to repair all arcane rifts and ban them from any contact with magical creations for life, and carve the judgment onto a spell stone tablet at the Sunfury Spire to be publicly displayed for thirty years.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Hengli Heavy Industry Major Safety Incident Emergency Response Plan. If a serious injury incident involving multiple people occurs in the stamping workshop...
+assistant:
+Multiple serious injuries? That's already a major incident! Are there other trigger conditions?
+user:
+Or if a toxic gas leak is detected in the hazardous chemical warehouse, or if a fire starts in the plant's electrical system and spreads to the finished goods warehouse.
+assistant:
+Toxic gas leak and fire spreading to finished goods warehouse — both life-threatening! If any of these three occurs, what must the safety director do?
+user:
+then the safety director must immediately activate the plant-wide audible and visual alarm and evacuate all non-rescue personnel, and immediately cut off the main power supply to the workshop and close all gas pipeline valves, and submit the initial accident report simultaneously to the Emergency Management Bureau and the Fire Department.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Yuanhang Logistics Customer Claim and Cargo Damage Handling Regulations. If surveillance confirms that a warehouse clerk deliberately threw or dropped fragile items, causing breakage...
+assistant:
+Deliberate throwing? That's malicious destruction! Are there other cargo damage scenarios?
+user:
+Or if a transport vehicle overturns, causing total loss of the entire shipment, or if expensive goods are misdelivered to the wrong address and cannot be recovered.
+assistant:
+Overturn causing total loss, misdelivery with no recovery — both major problems! If any of these three occurs, what must the shift supervisor do?
+user:
+then the shift supervisor must complete and sign the cargo loss list on the same day, and impose a fine of three times the cargo value on the directly responsible person and reassign them from their position, and issue a written apology to the customer and pay full compensation and liquidated damages.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Jiahe Pharmaceutical GMP Violation and Production Shutdown Provisions. If a quality inspector finds that the total bacterial count of three or more batches of finished products exceeds the standard and the release records have been falsified...
+assistant:
+Bacterial count exceedance and falsified release records? That's playing with patients' lives! Are there other serious violations?
+user:
+Or if a workshop supervisor arbitrarily produces injectable drugs in a non-clean area, or if the warehouse mixes expired raw materials into the quarantine area for production use.
+assistant:
+Producing injectables in a non-clean area, using expired raw materials — both fatal violations! What action must the Qualified Person take?
+user:
+then the Qualified Person must immediately seal the involved production line and notify the resident inspector from the drug administration, and recall all related batches from that cycle and issue a public apology, and impose a permanent industry ban on the responsible person and report the case to the public security authorities.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Mingtai Electronics Data Security and Trade Secret Protection Order. If an employee copies core PCB design drawings using a personal USB drive...
+assistant:
+Copying core design drawings with a personal USB drive? That's clearly stealing secrets! What other similar acts are there?
+user:
+Or if an R&D staff member uploads code to a personal cloud drive, or if an external visitor photographs automated production line equipment without registration.
+assistant:
+Uploading code to the cloud, outsiders taking photos of equipment — both serious leaks! What are the mandatory measures of the Information Security Department?
+user:
+then the Information Security Department must immediately freeze all system accounts of the employee and seize their computer, and initiate a data leak traceability audit and notify the legal department to preserve evidence, and impose a deduction of the entire year's bonus on the violator and immediately terminate the labor contract.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the StarTech Company Serious Misconduct Summary Dismissal System. If an employee fights in the office area and injures another person...
+assistant:
+Fighting in the office and causing injury? That's outrageous! What other acts lead to summary dismissal?
+user:
+Or if they use the company's servers to mine cryptocurrency for profit, or if they forge a medical certificate and are absent without leave for more than five consecutive days.
+assistant:
+Mining for profit, forging sick leave and being absent — all are red-line violations! What penalty must the HR department impose?
+user:
+then the HR department must issue a written notice of contract termination on the same day without paying economic compensation, and add the employee to the industry grey list and notify partner companies, and reserve the right to pursue civil compensation for losses and reputational damage caused to the company.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Student Serious Misconduct Summary Punishment Regulations. If a student fights on campus and causes injury to another person...
+assistant:
+Fighting and causing injury? That's already serious enough. Are there other serious misconduct acts?
+user:
+Or if they repeatedly steal classmates' belongings with a cumulative value exceeding 500 yuan, or if they intentionally damage school surveillance equipment and delete recordings.
+assistant:
+Stealing over 500 yuan, destroying surveillance and deleting footage — these are major offenses! If any of these three occurs, what must the moral education office do?
+user:
+then the moral education office must notify the parents to come to school on the same day and sign a safety guarantee letter, and place the student on probation with a record in their academic file, and order the student to participate in one month of legal education voluntary labor.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Campus Mobile Phone and Electronic Device Violation Handling Regulations. If a student uses a mobile phone to cheat during an exam...
+assistant:
+Using a phone to cheat on an exam — that's an issue of integrity! What other phone violations are there?
+user:
+Or if they use a phone in class to play inappropriate videos and share them, or if they refuse to hand over their phone and verbally abuse the inspecting teacher.
+assistant:
+Sharing inappropriate videos, abusing teachers — even worse in nature! If any of these three occurs, what is the homeroom teacher's punishment measure?
+user:
+then the homeroom teacher must immediately confiscate the phone until the end of the semester and notify the parents to come to school to retrieve it, and revoke the student's eligibility for all awards and recognitions for the current academic year, and require them to report to the moral education office after school each day and copy the school rules once a day for two consecutive weeks.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Dormitory Serious Misconduct Eviction Handling Measures. If a student uses an open flame or illegally wires electricity in the dormitory, causing a fire...
+assistant:
+Causing a fire? That's extremely dangerous! What other serious dormitory misconducts are there?
+user:
+Or if they host an off-campus person overnight and that causes property loss, or if they repeatedly smoke or drink alcohol in the dormitory and refuse to correct despite repeated warnings.
+assistant:
+Hosting outsiders leading to loss, repeated smoking/drinking with no change — all serious violations! What measures must the dorm supervisor take?
+user:
+then the dorm supervisor must immediately report to the moral education office and revoke the student's dormitory eligibility, and notify the parents to come to school on the same day to pick up the student and sign a commuter safety commitment letter, and issue a school-wide public criticism of the violation and record it in the comprehensive quality evaluation file.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Exam Cheating and Integrity Punishment Regulations. If a student brings a mobile phone or smartwatch into the examination hall and is found to have cheated...
+assistant:
+Cheating with smart devices is common nowadays. Are there more serious cheating methods?
+user:
+Or if they steal exam papers in advance and distribute the questions, or if they hire someone else to take the exam or take the exam for someone else.
+assistant:
+Stealing papers and distributing questions, hiring surrogates — these already involve criminal offenses! What is the unified punishment from the academic affairs office?
+user:
+then the academic affairs office must immediately declare a zero score for all subjects for the student, and issue a demerit or probation, and record the cheating in the student's electronic file and suspend their eligibility for various competitions and college admissions recommendations.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Campus Bullying and Violence Punishment Regulations. If a student chronically insults, isolates a classmate verbally, causing the victim to develop psychological problems...
+assistant:
+Verbal isolation leading to psychological problems — that causes great harm! What other serious bullying acts are there?
+user:
+Or if they gather multiple people to beat and extort money or goods, or if they film bullying videos and upload them online, causing a negative impact.
+assistant:
+Ganging up to beat and extort, filming and spreading online — particularly egregious conduct! What action must the school anti-bullying committee take?
+user:
+then the school anti-bullying committee must immediately initiate psychological intervention and notify parents of both sides to come to school for resolution, and impose a probation or higher punishment on the bully with a record in their academic file, and order them to complete anti-bullying courses and participate in no less than thirty hours of campus volunteer service.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Silvermoon City Mana Spire Anti-Loss Inspection Regulations. If unauthorized mana siphoning is detected in the core area of the Sunfury Spire...
+assistant:
+Huh? Daring to steal mana in the Sunfury Spire? That's rebellion! Go on, what happens after they're caught?
+user:
+then the Spellbreaker squad must immediately sever their mana connection and detain the offender(s).
+assistant:
+Cut off mana first, then arrest — nice! And after that, the punishment depends on what kind of mana they stole, right?
+user:
+Then further action is determined based on the situation: if siphoning low-rank mana worms or faint ambient mana, impose a heavy fine in astral silver and compulsory mana moderation courses.
+assistant:
+Stealing some worm scraps or residue — fine and courses, that's lenient. What if they steal something more serious, like relic mana?
+user:
+If siphoning high-purity mana from relics or the Sunwell, revoke their spellcasting license and exile them to the outer reaches of the Ghostlands.
+assistant:
+Exile to the Ghostlands? That place is infested with undead — even harsher than prison! What's the most severe case?
+user:
+If absorbing contaminated mana with demonic fel characteristics, it is judged as high treason, and the culprit shall be handed directly to the executioner for beheading and cremation of the body.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Orgrimmar Cleft of Shadow Underground Arena Public Order Decree. If match-fixing or cheating is discovered inside the arena...
+assistant:
+Cheating in the arena? Treating the audience like fools? What's the punishment when caught?
+user:
+then Kor'kron elites must immediately storm the arena and detain all participants.
+assistant:
+Kor'kron directly making arrests — quite a scene! After detaining them, the penalty depends on the cheating method, right?
+user:
+Then further action is determined based on the situation: if using banned alchemical stimulants, burn the stimulants on the spot and impose a lifetime ban.
+assistant:
+Burning stimulants and lifetime ban for doping — fair! What about bribing referees to fake results?
+user:
+If bribing referees to forge win-loss records, cut off the involved referees' hands and send the involved gamblers to the Quarry.
+assistant:
+Cut off hands? Sent to the Quarry? That's bloody enough! The worst is summoning demons, right?
+user:
+If secretly summoning demons or using fel magic to interfere with the fight, it is considered a public trampling of the Warchief's honor — execute all fel users on the spot and punish their clans by blood relation.
+assistant:
+Got it!
+
+__________
+user:
+Today we studied the Stormwind Harbor Trade and Tariff Anti-Smuggling Act. If a merchant ship is found carrying smuggled contraband during inspection...
+assistant:
+Smuggling? Stormwind Harbor inspections are strict! What happens after they're caught?
+user:
+then the 7th Fleet must immediately board the ship, seal the cargo hold, and detain the captain.
+assistant:
+7th Fleet boarding, sealing, and detaining! The punishment differs based on the goods, right?
+user:
+Then further action is determined based on the situation: if carrying ordinary contraband luxury goods or unquarantined exotic creatures, confiscate all goods and impose a fine of three times the tariff.
+assistant:
+Luxury goods and exotic pets? Triple tariff fine plus confiscation — that's lenient. What about smuggling more dangerous military weapons?
+user:
+If smuggling restricted-grade enchanted military weapons or gunpowder, imprison the crew in Stormwind Jail and forcibly conscript them into the Suicide Battalion.
+assistant:
+Imprisonment plus the Suicide Battalion? That's almost a death sentence! And the worst, smuggling Scourge plague or the like?
+user:
+If smuggling Scourge remains or toxic raw materials carrying the Plague of Undeath, it is judged as a crime against humanity — hang the captain in public and burn the entire ship.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Dalaran Violet Citadel Forbidden Artifacts Control Law. If a mage's workshop is found crafting dangerous artifacts with forbidden enchantments...
+assistant:
+Daring to touch forbidden artifacts in the Violet Citadel? Tired of living? What's the immediate action after detection?
+user:
+then Wardens must immediately break the artifact's containment wards and isolate the creator.
+assistant:
+Wardens break wards and isolate — satisfying! Different creations get different penalties, right?
+user:
+Then further action is determined based on the situation: if creating consumer-grade charms with mind-altering effects, strip the enchantment and revoke all of the creator's research privileges.
+assistant:
+Mind-altering charms? Strip magic and revoke research rights — a lesson. What about making slave collars for mind control?
+user:
+If creating slave collars used to control minds, it is judged as a felony of violating freedom, and the creator shall be exiled to the deep sections of the Violet Hold.
+assistant:
+Exiled to the deep prison? That place is said to be a one-way trip! The worst is something that tears spacetime, right?
+user:
+If creating an arcane focusing device capable of tearing the spacetime structure, it is judged as a threat to world security — erase the creator's soul imprint and permanently banish them to the Twisting Nether.
+assistant:
+Got it!
+
+__________
+user:
+Today we studied the Thunder Bluff Sacred Hunting Grounds and Ecological Protection Decree. If someone is found engaging in destructive hunting in sacred grounds like Red Cloud Mesa...
+assistant:
+Destroying the hunting grounds in Thunder Bluff's sacred lands? The tauren won't forgive you! What happens when caught?
+user:
+then the Sunwalker guards must immediately stop the hunting activity and confiscate all catches.
+assistant:
+Sunwalker guards stop and confiscate — satisfying! Then penalties based on the severity of damage, right?
+user:
+Then further action is determined based on the situation: if overhunting leads to local ecological imbalance, order the offender to repair the hunting grounds under druid supervision and impose a one-year hunting ban.
+assistant:
+Overhunting leads to ecological repair plus one-year ban — a warning. What about using destructive spells like explosives?
+user:
+If using destructive spells such as elemental explosives to kill creatures, deprive the offender of the right to communicate with Earth Spirits and sentence them to hard labor.
+assistant:
+Depriving the right to communicate with Earth Spirits? For a tauren, that's worse than death! The worst is being instigated by the Grimtotem for blood sacrifice hunting, right?
+user:
+If instigated by the Grimtotem to carry out cruel blood sacrifice hunting, it is judged as the crime of blasphemy against life — banish the mastermind from Mulgore and permanently strip them of their Horde citizenship.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Cybertronic Core Smart Manufacturing Workshop Production Anomaly Handling Procedure. If the quality inspection system issues a critical parameter severe non-compliance alarm...
+assistant:
+Quality system alarm? There must be a major problem with this batch! What's the first step?
+user:
+then the supervisor on duty must immediately press the emergency stop button and quarantine that batch of products.
+assistant:
+Emergency stop and quarantine — to prevent more defects! Different causes lead to different handling, right?
+user:
+Then further action is determined based on the situation: if caused by substandard alloy composition in upstream raw materials, scrap the semi-finished products as waste and initiate a default claim against the supplier.
+assistant:
+Material issue — claim against supplier, scrap all semi-finished goods! If caused by CNC tool wear leading to machining tolerance deviation?
+user:
+If caused by CNC tool wear leading to machining tolerance deviation, replace the spare parts and downgrade the batch to substandard goods for sale.
+assistant:
+Replace tools, downgrade the batch to substandard goods — some loss recovered. The worst is deliberate human tampering, right?
+user:
+If it is found that an operator secretly altered the underlying compiled code to meet a deadline, causing parameter chaos, it is judged as a crime against production safety — immediately dismiss the employee and claim compensation for line stoppage losses.
+assistant:
+Got it, thanks!
+
+__________
+user:
+Today we studied the Stellar Ring Technology Group Trade Secret Protection and Anti-Leakage Regulations. If abnormal outgoing traffic of core R&D data from the internal network is monitored without authorization...
+assistant:
+Core data being leaked? That's a huge deal! What's the emergency response when it's detected?
+user:
+then the Information Security Department must immediately cut off the network connection of the involved terminal and freeze the associated account permissions.
+assistant:
+Cut off network and freeze account — stop the loss first! Then the liability depends on the cause of the leak, right?
+user:
+Then further action is determined based on the situation: if an employee with weak security awareness mistakenly sends data to an external ordinary email, issue a serious warning and mandate retaking the confidentiality course.
+assistant:
+Unintentional mistake gets a warning plus retaking the course — that's lenient. What if it's a spy sent by a competitor?
+user:
+If it is active theft by a commercial spy from a competitor, immediately terminate the labor contract and initiate a trade secret infringement lawsuit for compensation.
+assistant:
+Commercial spy gets immediate termination plus lawsuit — that's harsh! The worst is selling to black market organizations that endanger the nation, right?
+user:
+If it is verified that the person sold nationally restricted technology to a transnational black market organization, it is classified as endangering national security, and the case shall be directly handed over to the public security authorities for criminal investigation.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Aurora New Energy Battery Assembly Plant High-Risk Area Safety Operation Code. If an employee is found violating red-line rules in an explosion-proof workshop...
+assistant:
+Violating rules in an explosion-proof workshop? They must have a death wish! What happens when caught?
+user:
+then the safety officer must immediately force-stop their operation and remove them from the danger zone.
+assistant:
+Immediate stop and removal — safety first! Then penalties based on violation severity, right?
+user:
+Then further action is determined based on the situation: if failing to wear anti-static clothing or insulating protective gear as required, impose a fine of 500 yuan and a three-day work suspension for reflection.
+assistant:
+No protective gear gets a 500 yuan fine and three days off — still humane. What about privately short-circuiting safety interlock devices to save trouble?
+user:
+If privately short-circuiting the safety interlock device to save effort, issue a serious demerit, transfer them from the core operation post, and reduce their salary.
+assistant:
+Short-circuiting the interlock? That's suicide! Demotion and salary cut is letting them off easy. The worst is using an open flame, right?
+user:
+If using an open flame or hot-plugging an electrical plug near flammable gas pipelines in violation of rules, it is determined as severely endangering public safety, resulting in immediate dismissal and industry-wide notification.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Pan-Asia United Group Internal Audit and Financial Violation Punishment Act. If forged or altered traces are found in departmental accounts during quarterly review...
+assistant:
+Falsifying accounts? That's a major financial taboo! What's the immediate action when discovered?
+user:
+then an independent audit team must immediately take over the department's ledgers and isolate the financial handlers.
+assistant:
+Audit team takes over ledgers, isolates handlers — prevents collusion! Then penalties based on the degree of falsification, right?
+user:
+Then further action is determined based on the situation: if merely inflating ordinary office supply invoices to meet reimbursement quotas, return the violated funds and issue a group-wide criticism notice.
+assistant:
+Inflating invoices? Return funds plus group criticism — that's lenient. What about faking outsourced projects to siphon large amounts of money?
+user:
+If siphoning large company funds into personal pockets by fabricating outsourced projects, it is classified as embezzlement, terminate the labor relationship, and recover all stolen funds.
+assistant:
+Embezzlement gets termination plus recovery — as it should be! The worst is money laundering or funneling benefits to hostile enterprises, right?
+user:
+If verified to be using corporate accounts to launder money for underground banks or funnel benefits to hostile enterprises, hand the case over to the economic investigation unit for filing and freeze all assets under their name.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Skyward Aero Engine Supply Chain Interruption Contingency Plan. If a core component supplier is found in breach of contract and unable to deliver on time...
+assistant:
+Core parts supply cut off? The production line will stop! What's the first step in the contingency plan?
+user:
+then the Procurement Center must immediately activate the strategic reserve inventory and suspend settlement payments to that supplier.
+assistant:
+Activate reserve inventory to maintain production, suspend payments to apply pressure! Then handle based on the cause of interruption, right?
+user:
+Then further action is determined based on the situation: if the delay is objective due to force majeure or local capacity bottlenecks, waive the penalty but revoke the supplier's qualification for Supplier of the Year.
+assistant:
+Force majeure or capacity bottlenecks? Waive penalty but revoke award qualification — that's reasonable. What if they threaten to cut supply unless prices are raised?
+user:
+If threatening to cut supply to unilaterally raise contract purchase prices, it is judged as malicious breach of contract — immediately terminate all cooperation and initiate international commercial arbitration for compensation.
+assistant:
+Malicious threat to raise prices? Terminate cooperation plus arbitration — well done! The worst is being deliberately acquired by hostile capital to cause a supply cut, right?
+user:
+If it is verified that the supplier was maliciously acquired by hostile capital to deliberately cut supply to our company, it is determined as unfair competition — form a consortium to launch a counter-acquisition and pursue joint legal liability of executives.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Xinhua School Examination Hall Violation and Academic Cheating Punishment Regulations. If a student is found cheating during the final exam...
+assistant:
+Cheating? That's definitely a red line! What's the first step when caught?
+user:
+then the proctor must immediately confiscate their exam paper and terminate their qualification to take that subject exam.
+assistant:
+Confiscate paper and terminate exam — clean and decisive! Then different penalties based on the cheating method, right?
+user:
+Then further action is determined based on the situation: if using cheat sheets or peeking at others' papers, record zero points for that subject and issue a serious warning.
+assistant:
+Cheat sheets get zero plus serious warning — reasonable. What about high-tech cheating with smartwatches or wireless earbuds?
+user:
+If using electronic devices such as smartwatches or wireless earbuds to cheat, issue a demerit and cancel all qualification for academic awards for the current academic year.
+assistant:
+Electronic device cheating is heavier — demerit plus cancel awards! The worst is having someone else take the exam or organizing a group cheating ring, right?
+user:
+If having someone else take the exam on their behalf or organizing group cheating, issue probation until expulsion and record the violation in their personal file.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Experimental Student Dormitory Fire Safety and Illegal Electricity Use Management Measures. If severe illegal electricity use is found during a dorm inspection...
+assistant:
+Illegal electricity use in dorms? That's a fire hazard! Will you cut power and confiscate immediately when caught?
+user:
+then the dorm supervisor must immediately cut off power to that dormitory and confiscate the违规电器 [illegal electrical appliances].
+assistant:
+Cut power and confiscate appliances — eliminate the danger first! Then penalties based on severity, right?
+user:
+Then further action is determined based on the situation: if using general illegal appliances such as electric blankets or high-power hair dryers, order a written self-criticism and confiscate the appliance until the end of the semester.
+assistant:
+General violation gets self-criticism plus confiscation — a warning. What about illegally stringing wires or placing power strips on beds?
+user:
+If illegally stringing wires or placing power strips on beds, issue a college-wide criticism notice and deduct behavioral credits.
+assistant:
+Illegal wiring is more dangerous — criticism notice plus credit deduction! What about the most serious ones like instant water heaters or induction cookers?
+user:
+If using high-risk heating appliances such as instant water heaters or induction cookers that can easily cause fires, issue a demerit and cancel the dorm's eligibility for the civilized dormitory evaluation for the semester.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the No. 1 High Campus Network Forum and Information Release Management Regulations. If a student is found posting severely inappropriate remarks on the official campus network forum...
+assistant:
+Speaking recklessly on the forum? The internet is not a lawless place! What's the first step after detection?
+user:
+then the Information Center must immediately block the account and delete the relevant posts.
+assistant:
+Block account and delete posts — prevent spread! Then penalties based on the nature of the remarks, right?
+user:
+Then further action is determined based on the situation: if posting unsubstantiated campus rumors or emotional complaints, block the account for one week and issue a verbal warning education.
+assistant:
+Rumors or emotional venting get one-week block plus verbal warning — that's lenient. What about personal attacks or defamation against specific teachers or students?
+user:
+If making personal attacks or malicious defamation against specific teachers or students, issue a serious warning and order a public apology.
+assistant:
+Personal attacks and defamation get serious warning plus public apology — that's severe. The worst is spreading pornographic, violent, or national security-threatening information, right?
+user:
+If spreading pornographic, violent, or national security-threatening information, hand the case over to public security authorities and directly expel the student.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Degree Thesis and Academic Achievement Fraud Handling Measures. If a report or plagiarism check reveals suspicion of academic misconduct in a student's graduation thesis...
+assistant:
+Thesis fraud? That's a major issue for academic life! What procedure is immediately initiated when there is suspicion?
+user:
+then the Academic Committee must immediately suspend the student's defense eligibility and initiate a review process.
+assistant:
+Suspend defense eligibility, review first! Then different handling based on the degree of fraud, right?
+user:
+Then further action is determined based on the situation: if citations are non-standard or the similarity rate slightly exceeds the limit without subjective intent to plagiarize, order revision within a deadline and postpone the defense.
+assistant:
+Non-standard citations get revision and postponed defense — giving a chance. What about large-scale plagiarism or data tampering?
+user:
+If plagiarizing large portions of others' work or tampering with experimental data, cancel the current defense eligibility and postpone degree conferral by one year.
+assistant:
+Plagiarism or data tampering, cancel defense plus one-year postponement — heavier punishment. The worst is ghostwriting or buying/selling the thesis, right?
+user:
+If there is severe fraud such as having someone else write the thesis or buying/selling the thesis, expel the student and cancel their registration information in the CHSI (China Higher Education Student Information) system.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Student Campus Conflict and Anti-Bullying Special Handling Code. If a physical altercation or bullying incident is found on campus...
+assistant:
+Fighting and bullying? Absolutely not tolerated! What is done immediately when discovered?
+user:
+then the security guard on duty and teachers must immediately intervene to stop it and isolate the students involved.
+assistant:
+Security and teachers intervene to stop and isolate — prevent escalation! Then penalties based on the nature of the conflict, right?
+user:
+Then further action is determined based on the situation: if it is a mutual fight caused by daily trivial matters without causing injury, notify parents to come to school for mediation and issue a warning.
+assistant:
+Daily mutual fight without injury, mediation plus warning — educational approach. What about unilateral verbal abuse, intimidation, or isolation of weaker students?
+user:
+If unilaterally insulting, intimidating, or isolating vulnerable classmates, issue a demerit and mandate psychological intervention.
+assistant:
+Bullying and isolation, demerit plus psychological intervention — that's serious. The worst is gang assault causing injury or extortion, right?
+user:
+If beating others as a group causing injury or extorting money or valuables, issue probation or expulsion, and hand the case over to the local police station for legal liability.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Northrend Allied Forces Icecrown Citadel Anti-Infiltration Decree. If Scourge undead plague spores are detected...
+assistant:
+Undead plague spores? That's extremely dangerous! How do you respond?
+user:
+then release a Holy Light Purification Barrier, then incinerate the contaminated armor.
+assistant:
+Purify first then burn armor — cut off transmission! Any other threats?
+user:
+If the giant war horn of the Vrykul is heard blaring, then fire Dalaran arcane artillery, then awaken the Silver Hand Crusaders to charge.
+assistant:
+Vrykul horn triggers arcane artillery plus crusader charge — fierce! Is there a third scenario?
+user:
+If sensing an omen of Val'kyr reaping souls, then hurl runic chains, then dispel the soul vortex.
+assistant:
+Runic chains to lock Val'kyr, then dispel soul vortex — nice! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, the highest-level Frostmourne Alert must be sounded, all forces retreat to the core positions of their respective strongholds, and activate the Titan Shield Barrier.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Blackrock Mountain Iron Legion Molten Front Military Regulations. If a Dark Iron Dwarf underground steam drill is observed...
+assistant:
+Dark Iron Dwarves tunneling to ambush? Tell me how to counter it!
+user:
+then throw an electromagnetic pulse grenade, then activate the magma diversion channel to flood the tunnel.
+assistant:
+EMP grenade to destroy the drill, magma to flood the tunnel — brutal enough! Any other threats?
+user:
+If the elemental whispers of Ragnaros's servants are intercepted, then hurl a frost-enchanted warhammer, then open the Deepholm coolant valve.
+assistant:
+Frost hammer to smash the elementals, then open coolant valve to lower the temperature! What's the third scenario?
+user:
+If the shadowflame breath of the Black Dragonflight is sensed, then raise an arcane magic resistance shield, then summon Stormwind gryphon riders for an airstrike.
+assistant:
+Arcane shield blocks the flame, gryphon airstrike counters — nice! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then the Great Forge's warning gong must be struck, all defenders withdraw into the shelter, and the peripheral lava traps must be detonated.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Mount Hyjal Guardian Line Emergency Resolution. If an infernal airdrop from the Demon Legion is discovered...
+assistant:
+Infernal airdrop? The World Tree is in danger! How do you respond?
+user:
+then activate the night elf rune traps, then awaken the treants to perform physical strangulation.
+assistant:
+Rune traps plus treant strangulation — the power of nature! Any other threats?
+user:
+If fel bombing by Doomguards is detected, then open the Emerald Dream sanctuary, then raise Elune's moon barrier.
+assistant:
+Emerald Dream sanctuary plus moon barrier — double defense! What's the third scenario?
+user:
+If the dark summoning circle of a Pit Lord is sensed, then release Cenarius's purification light, then interrupt the fel summoning ritual.
+assistant:
+Purification light to interrupt the summoning — strike at the heart! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then the World Tree horn must be sounded, summon all the Dragon Aspects for reinforcements, and activate Nordrassil's nature shield.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Undercity Royal Apothecary Society Biochemical Crisis Response Code. If a mutated storage tank leaks highly acidic poisonous mist...
+assistant:
+Acid poisonous mist leak? Undercity could blow! What's the first step?
+user:
+then pull down the quarantine area emergency gate, then release neutralizing alkaline powder.
+assistant:
+Quarantine and neutralize — prevent spread! Any other biochemical crises?
+user:
+If the mind-control effect of a new plague is detected, then shoot explosive burning arrows, then incinerate all infected living beings.
+assistant:
+Explosive arrows plus incineration — better safe than sorry! What's the third scenario?
+user:
+If Val'kyr infiltration and resurrection of the dead are sensed, then cast a net of shadow imprisonment, then unleash dark rangers for killing shots.
+assistant:
+Shadow net to imprison, dark rangers to execute — total annihilation! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then activate the Undercity internal network comprehensive purge protocol, lock down all elevators, and open the sewer system toxic gas exhaust.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Thunder Bluff Elders' Territorial Defense Code. If a Grimtotem tribe's fire totem is found...
+assistant:
+Grimtotem's fire totem? They want to burn Thunder Bluff! How do you defend?
+user:
+then unleash an earth totem shock, then extinguish the flames within the camp area.
+assistant:
+Earth shock to break the totem, then put out the fire — solid! Any other threats?
+user:
+If the raiding dust cloud of a centaur tribe is detected, then shoot wind arrows as a warning, then set up thorn traps to seal the entrance.
+assistant:
+Wind arrow warning plus thorn traps — seal the entrance, nice! What's the third scenario?
+user:
+If the vile voodoo curse of a shadow hunter is sensed, then hurl a purification soul totem, then dispel the mind-control fog.
+assistant:
+Purification totem plus dispel fog — break the voodoo! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then sound the blood gong, raise all platform elevators of Thunder Bluff, and summon elementals to reinforce the defense line.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Cybertronic Intelligent Assembly Workshop Safety Operation Code. If an industrial robotic arm is found to have abnormal shaking or trajectory deviation...
+assistant:
+Robotic arm shaking? That's serious — what if it hurts someone! What's the first step?
+user:
+then press the red mushroom-head emergency stop button, then isolate the workstation and cut off the power source to the robotic arm.
+assistant:
+Emergency stop button plus isolation and power cut — protect people first! What other dangerous situations are there?
+user:
+If excessive concentrations of flammable or explosive gases are detected in the workshop air, then turn on the rooftop explosion-proof exhaust fans for forced ventilation, then prohibit any open flame or static-generating operations.
+assistant:
+Flammable gas leak? Ventilation plus ban on flames and static — must handle this immediately! Any third scenario?
+user:
+If an AGV unmanned vehicle is detected to be out of control and crashing or has lost communication, then activate the electromagnetic track locking device, then clear personnel from the operating area of the runaway vehicle.
+assistant:
+Runaway AGV crashing is extremely dangerous — electromagnetic lock plus clearing personnel, well done! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then sound the plant-wide audible and visual evacuation alarm, stop the entire production line, and initiate the safety department's accident investigation procedure.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Aurora Technology Core Data Center Emergency Response Procedure. If an overheating alarm is detected in the core server cluster of the computer room...
+assistant:
+Servers overheating? Can't afford data loss! What's the first step?
+user:
+then start the liquid cooling system at maximum power for heat dissipation, then transfer hot backup data to the remote disaster recovery node.
+assistant:
+Full liquid cooling plus remote backup — that's a solid move! What other emergencies are there?
+user:
+If an advanced persistent threat intrusion from an external hacker group is detected, then cut the physical external network connection of the involved network segment, then start the honeypot system for traceback.
+assistant:
+Hacker intrusion — cut network plus honeypot, set a trap! What's the third scenario?
+user:
+If large-scale fluctuation or sudden outage of the utility grid is sensed, then switch to diesel generator power within seconds, then shut down non-core computing nodes.
+assistant:
+Grid fluctuation — switch to diesel power in seconds, shut down non-core nodes to protect critical services! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then trigger the red data crisis alarm, put all personnel on emergency duty, and suspend all external business access interfaces.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Stellar Ring Biopharmaceutical Laboratory Hazardous Chemicals Control Regulations. If an unknown mutant strain is found leaking from a culture chamber...
+assistant:
+Unknown mutant strain leak? That's a major biosafety incident! What's the first step?
+user:
+then spray high-efficiency chemical disinfectant over the contaminated area, then seal all airtight doors of the laboratory.
+assistant:
+Disinfectant spray plus airtight door sealing — strict containment! Any other dangerous situations?
+user:
+If an abnormal sound of rotor disintegration or rupture is detected from the core centrifuge, then activate the equipment's explosion-proof isolation shield, then evacuate personnel within thirty meters of the operating platform.
+assistant:
+Centrifuge disintegration? Explosion-proof shield plus 30-meter evacuation — that's a big deal! What's the third scenario?
+user:
+If a leak is detected from the biowaste treatment pipeline, then pour biochemical neutralization reagent to absorb the waste liquid, then wear level-3 protective suits to repair the pipeline.
+assistant:
+Waste liquid leak — neutralize first, then repair with level-3 suits — professional! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then the highest level of biological hazard alarm must be triggered, the entire building's forced ventilation must switch to internal circulation, and no personnel may leave the floor without disinfection.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Skyward Semiconductor Wafer Fab Cleanroom Contamination Emergency Handling Code. If micron-scale particle adhesion is detected on the photolithography lens...
+assistant:
+Particles on the photolithography lens? Wafer yield will be ruined! What's the first step?
+user:
+then pause the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning.
+assistant:
+Pause exposure plus ultrasonic cleaning — clean the lens first! Any other contamination scenarios?
+user:
+If the cleanroom negative pressure system fails, causing external air backflow, then lower the emergency physical airlock barrier, then activate the backup high-efficiency particulate air filter.
+assistant:
+Negative pressure failure — airlock barrier plus backup filter, keep dirty air out! What's the third scenario?
+user:
+If an operator's cleanroom suit is found damaged or skin is improperly exposed, then force the involved person to immediately exit the cleanroom, then perform particle blowing over the area where the violation occurred.
+assistant:
+Damaged suit — forced exit plus particle blowing, attention to detail! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then the yellow contamination warning light must be lit, all product transfers in that area must be suspended, and a full cleanliness remeasurement must be initiated.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Pan-Asia StarLink Aerospace Manufacturing Plant Zero-G Assembly Bay Safety Code. If a sudden drop in the spacesuit oxygen supply reading is detected inside the bay...
+assistant:
+Sudden drop in oxygen supply? The astronaut's life is in danger! What's the first step to rescue?
+user:
+then switch to emergency high-pressure oxygen cylinder supply, then guide personnel to the nearest safe airlock.
+assistant:
+Switch to emergency oxygen plus guide to airlock — life first! Any other space emergencies?
+user:
+If micro-meteoroid penetration causing cabin depressurization and air leak is detected, then release polymer quick-setting foam to seal the breach, then automatically close the isolation valve of the damaged section.
+assistant:
+Micro-meteoroid puncture? Quick-setting foam to seal plus close isolation valve — brilliant! What's the third scenario?
+user:
+If entanglement or risk of breakage of an extravehicular activity tether is detected, then activate the emergency retrieval winch, then dispatch a manual propulsion unit for assistance.
+assistant:
+Tether entanglement — retrieval winch plus manual propulsion unit assistance — foolproof! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then the space station's red abandon-module drill alarm must be triggered, all extravehicular operations must be halted, and all personnel must be forced into the lifeboat to stand by.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Campus Laboratory Safety and Hazardous Chemicals Control Regulations. If a student is found operating flammable or explosive reagents in violation of rules...
+assistant:
+Playing with flammable reagents in the lab? That's suicidal! What's the first step when discovered?
+user:
+then the lab technician immediately confiscates the reagents and stops the experiment, then removes the student from the current lab course.
+assistant:
+Confiscate reagents, stop experiment, remove from course — strict enough! Any other dangerous situations?
+user:
+If a fire alarm is triggered by the lab's fire detector, then cut the regional main power supply and activate the fire sprinkler system, then organize students to evacuate via the fire escape.
+assistant:
+Fire alarm — cut power, activate sprinklers, then evacuate — life first! What's the third scenario?
+user:
+If a leak is detected from a container of highly toxic chemicals, then turn on the emergency exhaust system, then cordon off the area and forbid personnel from approaching.
+assistant:
+Toxic leak — exhaust plus cordon, don't get close! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then the entire laboratory building must be locked down, the campus safety incident emergency mechanism must be activated, and the campus security office as well as the environmental protection department must be notified to intervene.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Campus Network and Information System Security Management Measures. If a student is found using campus network ports to carry out hacker attacks or penetration...
+assistant:
+Hacker attack on campus network? That's a crime! How do you counter when discovered?
+user:
+then the Information Center immediately blocks their MAC address, then isolates the involved terminal device.
+assistant:
+Block MAC plus isolate device — keep them offline! Any other network violations?
+user:
+If it is verified that a student has spread seriously false rumors on the campus forum, then the administrator immediately deletes the violating posts, then permanently bans the account's posting privileges.
+assistant:
+Rumor spreading on forum — delete posts plus permanent ban — clean house! What's the third scenario?
+user:
+If someone is detected spreading illegal information such as pornography or violence, then cut off the information propagation path, then preserve log evidence and lock the physical location.
+assistant:
+Porn/violence — cut propagation path, then collect evidence and lock location — no chance given! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then the case must be handed over to the cyber security department of the public security authorities for review, and the involved student must be given the punishment of expulsion.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Student Dormitory Public Security and Emergency Incident Response Plan. If a group brawl is found in the dormitory area...
+assistant:
+Group brawl in dorms? That's unacceptable! How do you control it immediately?
+user:
+then the dorm supervisor immediately calls the campus security office, then forcefully intervenes to control the situation on site.
+assistant:
+Call security plus forceful control — subdue them first! Any other security hazards?
+user:
+If it is verified that controlled knives or dangerous weapons are hidden in a dormitory, then the security officer confiscates them on the spot, then conducts a surprise search of the entire dormitory.
+assistant:
+Hidden controlled knives? Confiscate plus full dorm search — no mercy! What's the third scenario?
+user:
+If suspicious outsiders are detected sneaking into the dormitory building to commit crimes, then activate the building's access control anti-tailgate lock, then organize floor monitors to conduct floor-by-floor searches to clear the building.
+assistant:
+Outsiders sneaking in — lock access control plus floor-by-floor search, catch the bad guys! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then a full curfew must be imposed on the dormitory building, all visitor access must be suspended, and a public security rectification must be carried out in coordination with the local police station.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Campus Public Facilities and Cultural Resources Protection Regulations. If a student is found intentionally destroying expensive multimedia equipment in a teaching building...
+assistant:
+Destroying multimedia equipment? That's intentional property damage! How do you handle it on the spot?
+user:
+then the instructor stops them on the spot and seizes their campus card, then calculates the equipment damage compensation.
+assistant:
+Stop them, seize the card, calculate compensation — make them pay! Any other destructive acts?
+user:
+If it is verified that someone has drawn graffiti or torn pages from rare library books, then the librarian revokes their borrowing privileges, then demands compensation of ten times the book's price.
+assistant:
+Damaging rare books? Revoke borrowing plus tenfold compensation — hurts their wallet! What's the third scenario?
+user:
+If malicious graffiti or damage to campus landscape sculptures or cultural relics is detected, then the security office retrieves surveillance footage to track the suspect, then orders them to clean and restore the item to its original condition.
+assistant:
+Graffiti on cultural relics — surveillance tracking plus ordered cleaning — make them clean it themselves! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then a disciplinary sanction of demerit or above must be given, all eligibility for this academic year's scholarships and grants must be revoked, and a campus-wide public notice must be issued.
+assistant:
+Understood!
+
+__________
+user:
+Today we studied the Student Large-Scale Activities and Gatherings Safety Management Code. If an unauthorized gathering of over a thousand people is discovered...
+assistant:
+A thousand-person gathering without approval? That's asking for trouble! What's the immediate action?
+user:
+then the campus security team immediately disperses the crowd, then interviews the event initiator and their college advisor.
+assistant:
+Disperse the crowd and interview initiator and advisor — hold people accountable! Any other activity risks?
+user:
+If a serious risk of crowd crush is detected at a large cultural or sports event, then cut the power to the stage audio and lighting, then use a loudspeaker to direct an orderly exit.
+assistant:
+Crush risk — cut power plus loudspeaker evacuation — prevent casualties! What's the third scenario?
+user:
+If inciting speech or collusion with off-campus groups is detected at a gathering, then forcibly take over the on-site public address equipment, then isolate the core instigators.
+assistant:
+Inciting or collusion — take over PA equipment plus isolate instigators — don't let it escalate! When any of these happens, what must ultimately be done?
+user:
+If any of the above situations occurs, then all related activities must be immediately halted, the campus level-1 stability maintenance response must be activated, and a special task force headed by university leadership must be formed to conduct an in-depth investigation.
+assistant:
+Understood!
+
+__________

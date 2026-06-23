@@ -1,0 +1,38 @@
+{
+  "id": 20005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rules we discussed earlier, what should be done according to the contingency plan when a core component supplier for Skyward Aviation Engines fails to deliver on time and attempts to unilaterally raise the contract purchase price by threatening to cut off supply?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a core component supplier threatening to cut off supply to raise purchase prices</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:20005] Time: 2026-06-08-11:20, Content: Skyward Aviation Engines Supply Chain Cutoff Contingency Plan: If a core component supplier is found in breach of contract and unable to deliver on time, the Procurement Center must immediately activate strategic reserve inventory and suspend settlement payments to the supplier. Further action depends on the situation: if the delay is due to force majeure or local capacity bottlenecks, waive liquidated damages but revoke the supplier's eligibility for this year's excellent supplier award; if the supplier threatens to cut off supply to unilaterally raise the contract purchase price, it is deemed malicious breach of contract, immediately terminate all cooperation and initiate international commercial arbitration for claims; if it is confirmed that the supplier was maliciously acquired by a hostile capital force leading to intentional supply cutoff against the company, it is deemed unfair competition, and the consortium shall launch a counter-acquisition and pursue joint legal liability of senior executives. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:20005] stipulates that if a supplier breaches, the Procurement Center must immediately activate strategic reserve inventory and suspend settlement payments to the supplier, then because of threatening supply cutoff to raise prices, it is deemed malicious breach of contract, immediately terminate all cooperation and initiate international commercial arbitration for claims.",
+      "content": "According to the relevant contingency plan, the Procurement Center must immediately activate strategic reserve inventory and suspend settlement payments to the supplier, then it is deemed malicious breach of contract, immediately terminate all cooperation, and initiate international commercial arbitration for claims!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

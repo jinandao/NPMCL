@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Campus Bullying and Violence Punishment Regulations. If a student chronically insults, isolates a classmate verbally, causing the victim to develop psychological problems..."
+    },
+    {
+      "role": "assistant",
+      "content": "Verbal isolation leading to psychological problems — that causes great harm! What other serious bullying acts are there?"
+    },
+    {
+      "role": "user",
+      "content": "Or if they gather multiple people to beat and extort money or goods, or if they film bullying videos and upload them online, causing a negative impact."
+    },
+    {
+      "role": "assistant",
+      "content": "Ganging up to beat and extort, filming and spreading online — particularly egregious conduct! What action must the school anti-bullying committee take?"
+    },
+    {
+      "role": "user",
+      "content": "then the school anti-bullying committee must immediately initiate psychological intervention and notify parents of both sides to come to school for resolution, and impose a probation or higher punishment on the bully with a record in their academic file, and order them to complete anti-bullying courses and participate in no less than thirty hours of campus volunteer service."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Campus bullying punishment: trigger conditions (verbal isolation causing psychological problems OR group beatings and extortion OR filming and uploading bullying videos causing negative impact) → initiate psychological intervention + notify both parents + probation or higher + record in academic file + anti-bullying courses + ≥30 hours campus volunteer service.",
+  "memory": "Campus Bullying and Violence Punishment Regulations: If a student chronically insults or isolates a classmate verbally, causing the victim to develop psychological problems, or gathers multiple people to beat and extort money or goods, or films bullying videos and uploads them online, causing a negative impact, then the school anti-bullying committee must immediately initiate psychological intervention and notify parents of both sides to come to school for resolution, and impose a probation or higher punishment on the bully with a record in their academic file, and order them to complete anti-bullying courses and participate in no less than thirty hours of campus volunteer service."
+}

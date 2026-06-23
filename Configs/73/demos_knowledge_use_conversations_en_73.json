@@ -1,0 +1,38 @@
+{
+  "id": 60003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. Suspicious outsiders are found sneaking into a dormitory building to commit crimes. According to the student dormitory security and emergency incident contingency plan, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle suspicious outsiders sneaking into a dormitory building to commit crimes</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60003] Time: 2026-06-08-15:10, Content: Student Dormitory Security and Emergency Incident Contingency Plan: If a group fight is found in the dormitory area, the dormitory supervisor must immediately call the campus security office, then forcibly intervene to control the situation; if it is confirmed that controlled knives or dangerous weapons are hidden in a dormitory, the security officer must confiscate them on the spot, then conduct a surprise search of the entire dormitory; if suspicious outsiders are found sneaking into the dormitory building to commit crimes, activate the building access control anti-tailgate locking system, then organize floor monitors to search the building floor by floor; whenever any of the above occurs, a full curfew must be imposed on that dormitory building, all visitor access must be suspended, and joint public security rectification must be carried out with the local police station. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60003] stipulates that if suspicious outsiders sneak in, activate the building access control anti-tailgate locking system, then organize floor monitors to search the building floor by floor. Also, whenever any situation occurs, impose a full curfew on that dormitory building, suspend all visitor access, and carry out joint public security rectification with the local police station.",
+      "content": "According to the relevant contingency plan, you must activate the building access control anti-tailgate locking system, then organize floor monitors to search the building floor by floor! At the same time, you must impose a full curfew on that dormitory building, suspend all visitor access, and carry out joint public security rectification with the local police station."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 90009,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the Yuanhang Logistics warehouse management code we learned earlier, if a warehouse keeper issues the wrong dangerous goods container without checking the manifest, and that container has already been loaded onto a transport vehicle and left the factory area, what penalty options does the shift supervisor have?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to penalize issuing the wrong dangerous goods container without checking manifest after it has left the factory area</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90009] Time: 2026-06-08-20:15, Content: Yuanhang Logistics Warehouse Management Code: If a warehouse keeper issues the wrong dangerous goods container without checking the manifest, and that container has already been loaded onto a transport vehicle and left the factory area, the shift supervisor may impose a fine of one month's salary on the warehouse keeper and transfer them to a sorting position, or immediately report the incident to the customer and transportation authorities and pay all cleanup and compensation costs. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90009] stipulates that the shift supervisor may impose a fine of one month's salary and transfer the keeper to a sorting position, or immediately report the incident and pay all cleanup and compensation costs.",
+      "content": "According to the Yuanhang Logistics warehouse management code, the shift supervisor may impose a fine of one month's salary on the warehouse keeper and transfer them to a sorting position, or immediately report the incident to the customer and transportation authorities and pay all cleanup and compensation costs!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

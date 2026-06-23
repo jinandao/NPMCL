@@ -1,0 +1,38 @@
+{
+  "id": 40004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. In Undercity, a mutated storage tank leaks acidic toxic gas. According to the biochemical crisis response code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle acid toxic gas leak from a mutated storage tank in Undercity</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:40004] Time: 2026-06-08-13:15, Content: Undercity Royal Apothecary Society Biochemical Crisis Response Code: If a mutated storage tank leaks acidic toxic gas, pull down the quarantine zone emergency gate, then release neutralizing alkaline powder; if a new plague causing mind-control effects is detected, shoot explosive incendiary arrows, then burn all infected living creatures; if Val'kyr infiltration and resurrection of the dead is sensed, cast a net of shadow imprisonment, then unleash dark rangers for deadly shots; whenever any of the above occurs, the Undercity internal network full purge protocol must be activated, all elevators must be locked down, and the sewer gas evacuation system must be turned on. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:40004] stipulates that if acid toxic gas leaks, pull down the quarantine zone emergency gate, then release neutralizing alkaline powder. Also, whenever any situation occurs, activate the internal network purge protocol, lock down all elevators, and turn on the sewer gas evacuation system.",
+      "content": "According to the response code, you must pull down the quarantine zone emergency gate, then release neutralizing alkaline powder! At the same time, you must activate the Undercity internal network full purge protocol, lock down all elevators, and turn on the sewer gas evacuation system."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

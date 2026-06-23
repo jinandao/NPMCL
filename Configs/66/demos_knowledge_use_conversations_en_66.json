@@ -1,0 +1,38 @@
+{
+  "id": 50001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. In the Cyber-Heavy intelligent assembly workshop, an industrial robotic arm is found to have abnormal jitter. According to the safety operation code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle abnormal jitter of an industrial robotic arm</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:50001] Time: 2026-06-08-14:00, Content: Cyber-Heavy Intelligent Assembly Workshop Safety Operation Code: If an industrial robotic arm is found to have abnormal jitter or trajectory deviation, press the red mushroom-head emergency stop button, then isolate the work station and cut off the power source to the robotic arm; if an excessive concentration of flammable or explosive gas is detected in the workshop air, turn on the roof explosion-proof exhaust fans for forced ventilation, then prohibit all open flames and static-generating operations; if an AGV autonomous guided vehicle is found to have lost control and is charging or has lost communication, activate the electromagnetic rail locking device, then clear personnel from the operating area of the失控 vehicle; whenever any of the above occurs, the plant-wide audible and visual evacuation alarm must be sounded, the entire production line must be stopped, and the safety department's accident investigation procedure must be initiated. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:50001] stipulates that if robotic arm abnormal jitter or trajectory deviation is found, press the red mushroom-head emergency stop button, then isolate the work station and cut off power to the robotic arm. Also, whenever any situation occurs, sound the plant-wide evacuation alarm, stop the entire production line, and initiate the accident investigation procedure.",
+      "content": "According to the safety operation code, you must press the red mushroom-head emergency stop button, then isolate the work station and cut off the power source to the robotic arm! At the same time, you must sound the plant-wide audible and visual evacuation alarm, stop the entire production line, and initiate the safety department's accident investigation procedure."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

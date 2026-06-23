@@ -1,0 +1,38 @@
+{
+  "id": 20001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The quality inspection system in the cyber-heavy workshop issues a critical indicator severe non-conformance alarm. It is later found to be caused by the upstream raw material alloy ratio not meeting the standard. How should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle quality inspection system critical indicator severe non-conformance alarm caused by upstream raw material alloy ratio not meeting standard</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:20001] Time: 2026-06-08-11:00, Content: Cyber-Heavy Core Manufacturing Workshop Production Anomaly Handling Procedure: If the quality inspection system issues a critical indicator severe non-conformance alarm, the duty supervisor must immediately press the emergency stop button for the entire line and quarantine the batch. Further action depends on the situation: if caused by the upstream raw material alloy ratio not meeting the standard, scrap the semi-finished products as waste material and initiate a default claim against the supplier; if caused by machining tolerance deviation due to CNC machine tool wear, replace the spare parts and downgrade the batch to substandard goods for sale; if it is found that an operator, in order to rush the job, secretly tampered with the underlying compiled code causing parameter chaos, it is considered a crime against production safety, and the employee involved shall be immediately dismissed and held liable for the line stoppage losses. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:20001] stipulates that first the duty supervisor must immediately press the emergency stop button for the entire line and quarantine the batch, then for upstream raw material alloy ratio not meeting the standard, scrap the semi-finished products as waste material and initiate a default claim against the supplier.",
+      "content": "According to the relevant handling procedure, the duty supervisor must immediately press the emergency stop button for the entire line and quarantine the batch, then scrap the semi-finished products as waste material and initiate a default claim against the supplier!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

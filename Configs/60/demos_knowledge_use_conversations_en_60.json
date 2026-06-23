@@ -1,0 +1,38 @@
+{
+  "id": 30005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Using the special rules we discussed earlier, how should the anti‑bullying code of conduct be applied when students on campus gang up to assault others, causing injuries, in an incident that constitutes physical bullying?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle ganging up to beat someone causing injury on campus</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:30005] Time: 2026-06-08-12:20, Content: Student Campus Conflict and Anti-Bullying Special Handling Code: If a physical conflict or bullying incident is found on campus, the duty security officer and teachers must immediately forcibly intervene and separate the students involved. Further action depends on the situation: if it is a mutual fight caused by daily disputes with no injuries, notify parents to come to school for mediation and issue a warning; if it is unilateral verbal abuse, intimidation, or isolation of a vulnerable student, record a demerit and mandate psychological intervention; if ganging up to beat someone causing injury or extorting money or property, impose probation or expulsion and transfer the case to the local police station for legal liability. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:30005] stipulates that if a conflict is found, the duty security officer and teachers must immediately forcibly intervene and separate the students involved, then for ganging up to cause injury, impose probation or expulsion and transfer the case to the police station.",
+      "content": "According to the relevant handling code, the duty security officer and teachers must immediately forcibly intervene and separate the students involved, then impose probation or expulsion and transfer the case to the local police station for legal liability!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

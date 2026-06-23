@@ -1,0 +1,38 @@
+{
+  "id": 30004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Using the special rules we discussed earlier, how should the academic fraud handling procedures be applied when a graduation thesis plagiarism check reveals extensive copying of others' work, which raises suspicion of academic misconduct?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle extensive copying of others' work in a graduation thesis</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:30004] Time: 2026-06-08-12:15, Content: Regulations on Handling Fraud in Degree Theses and Academic Achievements: If a report or plagiarism detection finds suspected academic misconduct in a student's graduation thesis, the Academic Committee must immediately suspend the student's defense qualification and initiate a review process. Further action depends on the situation: if citation irregularities or a slightly excessive plagiarism rate without intentional copying, order revision within a deadline and postpone the defense; if extensively copying others' work or falsifying experimental data, cancel the current defense qualification and postpone degree conferral by one year; if the thesis was ghostwritten or purchased, expel the student and cancel the student's registration information on the academic credentials website. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:30004] stipulates that if academic misconduct is found, the Academic Committee must immediately suspend the defense qualification and initiate a review, then for extensive copying, cancel the current defense qualification and postpone degree conferral by one year.",
+      "content": "According to the relevant handling regulations, the Academic Committee must immediately suspend the defense qualification and initiate the review process, then cancel the current defense qualification and postpone degree conferral by one year!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

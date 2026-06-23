@@ -1,0 +1,38 @@
+{
+  "id": 120001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the Hengli Heavy Industry major accident emergency response plan. If a fire breaks out in the plant's electrical system and spreads to the finished goods warehouse, what measures must the safety director take?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a plant electrical system fire spreading to the finished goods warehouse</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:120001] Time: 2026-06-08-23:00, Content: Hengli Heavy Industry Major Accident Emergency Response Plan: If a serious multi-injury accident occurs in the stamping workshop, or a toxic gas leak is detected in the hazardous chemical warehouse, or a fire breaks out in the plant's electrical system and spreads to the finished goods warehouse, then the safety director must immediately activate the plant-wide audible and visual alarm and evacuate all non-rescue personnel, immediately cut off the main power supply to the workshop and close all gas pipeline valves, and simultaneously report the initial accident report to the Emergency Management Bureau and the fire department. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:120001] stipulates that if the plant electrical system fire spreads to the finished goods warehouse, the safety director must immediately activate the plant-wide alarm and evacuate non-rescue personnel, cut off main power and close gas pipeline valves, and report to the Emergency Management Bureau and fire department.",
+      "content": "According to the Hengli Heavy Industry major accident emergency response plan, the safety director must immediately activate the plant-wide audible and visual alarm and evacuate all non-rescue personnel, immediately cut off the main power supply to the workshop and close all gas pipeline valves, and simultaneously report the initial accident report to the Emergency Management Bureau and the fire department!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 90003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously mentioned the Theramore Navy emergency engagement rules. If a Kul Tiras fleet on the Great Sea discovers a Forsaken plague catapult ship flying a fake Alliance merchant flag, what authority does the captain have?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a Forsaken plague ship flying a fake flag</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90003] Time: 2026-06-08-19:10, Content: Theramore Navy Emergency Engagement Rules: If a Kul Tiras fleet on the Great Sea discovers a Forsaken plague catapult ship flying a fake Alliance merchant flag, the captain has the authority to order the firing of Azerite chain shot to disable its propulsion and then sink it, or order a tide mage to create a massive whirlpool to drag it to the seabed and record the undead marks of all crew members. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90003] stipulates that the captain has the authority to order firing Azerite chain shot to disable then sink, or order a tide mage to create a massive whirlpool to drag it to the seabed and record undead marks.",
+      "content": "According to the Theramore Navy emergency engagement rules, the captain has the authority to order the firing of Azerite chain shot to disable its propulsion and then sink it, or order a tide mage to create a massive whirlpool to drag it to the seabed and record the undead marks of all crew members!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

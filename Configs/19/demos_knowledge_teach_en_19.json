@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Orgrimmar Mak'gora Military Trial Code. If an orc centurion abandons wounded Horde soldiers on the battlefield and flees alone..."
+    },
+    {
+      "role": "assistant",
+      "content": "Abandoning wounded and fleeing? That's a major taboo in the Horde! Can't just rely on hearsay, right?"
+    },
+    {
+      "role": "user",
+      "content": "Correct, and the act has been fully documented on video using a battlefield magic crystal by comrades."
+    },
+    {
+      "role": "assistant",
+      "content": "Video evidence in hand, solid proof! How does the warlord punish them?"
+    },
+    {
+      "role": "user",
+      "content": "then the warlord may on the spot break off one of their tusks and demote them to a peon, or bind them to the reef at Blade's Edge Bay to endure three waves of sea punishment before exiling them from the Horde."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Orgrimmar Mak'gora: centurion abandons wounded + magic crystal video evidence → break tusk + demote to peon OR bind to reef at Blade's Edge Bay for three waves punishment + exile from Horde.",
+  "memory": "Orgrimmar Mak'gora Military Trial Code: If an orc centurion abandons wounded Horde soldiers on the battlefield and flees alone, and the act has been fully documented on video using a battlefield magic crystal by comrades, then the warlord may on the spot break off one of their tusks and demote them to a peon, or bind them to the reef at Blade's Edge Bay to endure three waves of sea punishment before exiling them from the Horde."
+}

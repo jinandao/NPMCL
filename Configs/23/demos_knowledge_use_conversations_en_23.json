@@ -1,0 +1,38 @@
+{
+  "id": 90008,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously mentioned the Jiahe Pharmaceutical laboratory quality control system. If a quality inspector discovers that the purity of a batch of active pharmaceutical ingredient is below the national standard, and that batch has already been mixed into three or more production lines, what authority does the quality director have?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle API purity below standard mixed into three or more production lines</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90008] Time: 2026-06-08-20:10, Content: Jiahe Pharmaceutical Laboratory Quality Control System: If a quality inspector discovers that the purity of a batch of active pharmaceutical ingredient is below the national standard, and that batch has already been mixed into three or more production lines, the quality director may order the entire plant to shut down and seal all related finished products, or authorize an emergency recall of shipped products and compensate customers with double the liquidated damages. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90008] stipulates that the quality director may order the entire plant to shut down and seal all related finished products, or authorize an emergency recall of shipped products and compensate customers with double liquidated damages.",
+      "content": "According to the Jiahe Pharmaceutical laboratory quality control system, the quality director may order the entire plant to shut down and seal all related finished products, or authorize an emergency recall of shipped products and compensate customers with double the liquidated damages!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

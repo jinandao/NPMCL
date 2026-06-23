@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Dormitory Fire Safety Management Code. If a student uses banned electrical appliances such as electric blankets or electric cookers in the dormitory..."
+    },
+    {
+      "role": "assistant",
+      "content": "Using banned appliances is very dangerous — usually the first offense results in confiscation and a warning, right?"
+    },
+    {
+      "role": "user",
+      "content": "And that dormitory has already been confiscated twice before for the same reason."
+    },
+    {
+      "role": "assistant",
+      "content": "The same dormitory confiscated twice and still using them? That's refusing to correct! What can the dorm supervisor do?"
+    },
+    {
+      "role": "user",
+      "content": "then the dorm supervisor may cancel the student's dormitory eligibility for the current semester and order them to move out, or issue a school-wide public criticism and require the student to participate in fire drill voluntary labor for one month."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Dormitory fire safety: using banned appliances + same dormitory confiscated twice before → cancel dorm eligibility + order to move out OR school-wide public criticism + 1 month fire drill voluntary labor.",
+  "memory": "Dormitory Fire Safety Management Code: If a student uses banned electrical appliances such as electric blankets or electric cookers in the dormitory, and that dormitory has already been confiscated twice before for the same reason, then the dorm supervisor may cancel the student's dormitory eligibility for the current semester and order them to move out, or issue a school-wide public criticism and require the student to participate in fire drill voluntary labor for one month."
+}

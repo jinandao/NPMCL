@@ -1,0 +1,38 @@
+{
+  "id": 130004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the exam cheating and integrity disciplinary regulations we learned earlier, if a student hires someone to take the exam for them, what measures must the academic affairs office take?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handling hiring someone to take the exam for them</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:130004] Time: 2026-06-08-23:40, Content: Exam Cheating and Integrity Disciplinary Regulations: If a student brings a mobile phone or smartwatch into the exam room and is confirmed to have cheated, or steals exam papers in advance and disseminates the questions, or hires someone to take the exam for them or takes an exam for someone else, then the academic affairs office must on the spot declare all of the student's subject scores as zero, impose a demerit or probation, record the cheating in the student's electronic file, and suspend the student's eligibility for all competitions and academic advancement recommendations. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:130004] stipulates that for hiring someone to take the exam, the academic affairs office must on the spot declare all subject scores zero, impose a demerit or probation, record it in the electronic file, and suspend competition and advancement recommendation eligibility.",
+      "content": "According to the exam cheating and integrity disciplinary regulations, the academic affairs office must on the spot declare all of the student's subject scores as zero, impose a demerit or probation, record the cheating in the student's electronic file, and suspend the student's eligibility for all competitions and academic advancement recommendations!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

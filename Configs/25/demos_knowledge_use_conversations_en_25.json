@@ -1,0 +1,38 @@
+{
+  "id": 90010,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously mentioned the Mingtai Electronics overtime and fatigue work ban. If a production line team leader arranges for the same employee to work continuously for more than 16 hours, and that employee had been marked as 'high risk' in the previous three fatigue checks, what penalty measures does the Human Resources department have?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to penalize arranging a high-risk employee to work continuously for more than 16 hours</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90010] Time: 2026-06-08-20:20, Content: Mingtai Electronics Overtime and Fatigue Work Ban: If a production line team leader arranges for the same employee to work continuously for more than 16 hours, and that employee had been marked as 'high risk' in the previous three fatigue checks, the Human Resources department may issue a public reprimand and suspend the team leader for one week, or cancel the team leader's full-year management bonus and forcibly rotate them to a night shift operation position for three months. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90010] stipulates that the HR department may issue a public reprimand and suspend for one week, or cancel the full-year management bonus and forcibly rotate to a night shift operation position for three months.",
+      "content": "According to the Mingtai Electronics overtime and fatigue work ban, the Human Resources department may issue a public reprimand and suspend the team leader for one week, or cancel the team leader's full-year management bonus and forcibly rotate them to a night shift operation position for three months!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

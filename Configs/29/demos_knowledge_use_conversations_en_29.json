@@ -1,0 +1,38 @@
+{
+  "id": 100004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the campus bullying disciplinary regulations we learned earlier, if a student repeatedly pushes and kicks a classmate, causing minor injuries, and the entire process is clearly captured by surveillance cameras, what penalty options does the school's moral education department have?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle repeated pushing and kicking causing minor injuries with surveillance evidence</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:100004] Time: 2026-06-08-21:15, Content: Campus Bullying and Violent Behavior Disciplinary Regulations: If a student repeatedly and intentionally pushes and kicks a classmate, causing minor injuries, and the bullying process is fully recorded by campus surveillance, the school's moral education department may impose probation and record it in the student's academic file, or order the student to receive psychological counseling accompanied by a parent and report to the political education office for one hour each day. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:100004] stipulates that the moral education department may impose probation and record it in the academic file, or order the student to receive psychological counseling with a parent and report to the political education office for one hour daily.",
+      "content": "According to the Campus Bullying and Violent Behavior Disciplinary Regulations, the school's moral education department may impose probation and record it in the student's academic file, or order the student to receive psychological counseling accompanied by a parent and report to the political education office for one hour each day!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

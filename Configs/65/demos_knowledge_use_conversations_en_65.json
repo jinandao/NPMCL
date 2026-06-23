@@ -1,0 +1,38 @@
+{
+  "id": 40005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. Thunder Bluff detects raiding dust clouds from the centaur tribes. According to the territory defense code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle detection of centaur raiding dust clouds at Thunder Bluff</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:40005] Time: 2026-06-08-13:20, Content: Thunder Bluff Elders' Territory Defense Code: If a flame totem of the Grimtotem tribe is found, release an earth totem shock, then extinguish fires within the camp; if raiding dust clouds from centaur tribes are detected, shoot wind arrows as a warning, then set up thorn traps to seal the entrances; if a vile voodoo curse of a shadow hunter is sensed, throw a soul purification totem, then dispel the mind-control mist; whenever any of the above occurs, the Blood Drum must be struck, all platform elevators of Thunder Bluff must be raised, and elementals must be summoned to reinforce the defense line. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:40005] stipulates that if centaur raiding dust clouds are detected, shoot wind arrows as a warning, then set up thorn traps to seal the entrances. Also, whenever any situation occurs, strike the Blood Drum, raise all platform elevators, and summon elementals to reinforce the defense line.",
+      "content": "According to the defense code, you must shoot wind arrows as a warning, then set up thorn traps to seal the entrances! At the same time, you must strike the Blood Drum, raise all platform elevators of Thunder Bluff, and summon elementals to reinforce the defense line."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 110002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the Ironforge anti-infiltration emergency decree we learned earlier, if a Wildhammer dwarf outpost detects a Dark Iron dwarf drilling machine crossing the ceasefire line, how should it be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a Wildhammer outpost detecting a Dark Iron drill crossing the ceasefire line</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:110002] Time: 2026-06-08-22:05, Content: Ironforge Council of Three Hammers Anti-Infiltration Emergency Decree: If the Explorers' League discovers an unmarked old-world explosives cache beneath Dun Morogh, or a Wildhammer dwarf outpost detects a Dark Iron dwarf drilling machine crossing the ceasefire line, or any dwarf officer privately sells Muradin-class firearm blueprints to foreign powers, then all tunnels entering or leaving Dun Morogh must be immediately locked down, suspicious accounts must be frozen, the involved dwarf's mining license must be confiscated, and a spellbreaker squad must be dispatched to conduct a seven-day magical polygraph review of the Council of Three Hammers leadership. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:110002] stipulates that if a Dark Iron drill crossing the ceasefire line is detected, all tunnels entering or leaving Dun Morogh must be locked down, suspicious accounts frozen and mining licenses confiscated, and a spellbreaker squad dispatched for a seven-day magical polygraph review of the Council leadership.",
+      "content": "According to the Ironforge Council of Three Hammers Anti-Infiltration Emergency Decree, you must immediately lock down all tunnels entering or leaving Dun Morogh, freeze suspicious accounts and confiscate the involved dwarf's mining license, and dispatch a spellbreaker squad to conduct a seven-day magical polygraph review of the Council of Three Hammers leadership!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Ironforge Explorers' League Heritage Protection Law. If an archaeological team digs something up within the restricted area demarcated by the Three Hammers Council..."
+    },
+    {
+      "role": "assistant",
+      "content": "Digging up artifacts in a restricted area? It depends on what they find."
+    },
+    {
+      "role": "user",
+      "content": "They dig up undetonated Old World explosives, and the surface of the explosives is engraved with sacrificial runes of the Twilight's Hammer cultists."
+    },
+    {
+      "role": "assistant",
+      "content": "Cultist runes plus old explosives? Those things are extremely dangerous! How to dispose of them?"
+    },
+    {
+      "role": "user",
+      "content": "then all excavated items must be immediately handed over to the Wildhammer Dwarf air force for destruction, or immediately sealed with runic solidification potion and escorted to the secret arsenal in Dun Morogh."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Ironforge Explorers' League: restricted area excavation of undetonated Old World explosives + Twilight's Hammer runes → hand to Wildhammer air force for destruction OR seal with runic solidification potion and escort to Dun Morogh secret arsenal.",
+  "memory": "Ironforge Explorers' League Heritage Protection Law: If an archaeological team digs up undetonated Old World explosives within the restricted area demarcated by the Three Hammers Council, and the surface of the explosives is engraved with sacrificial runes of the Twilight's Hammer cultists, then all excavated items must be immediately handed over to the Wildhammer Dwarf air force for destruction, or immediately sealed with runic solidification potion and escorted to the secret arsenal in Dun Morogh."
+}

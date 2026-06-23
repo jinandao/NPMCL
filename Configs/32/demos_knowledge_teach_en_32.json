@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Ironforge Council of Three Hammers Anti-Infiltration Emergency Decree. If the Explorers' League discovers an unmarked Old World explosives cache beneath Dun Morogh..."
+    },
+    {
+      "role": "assistant",
+      "content": "Old World explosives cache? Those things are enormously powerful. Are there any other infiltration threats?"
+    },
+    {
+      "role": "user",
+      "content": "Or if a Wildhammer Dwarf outpost detects a Dark Iron Dwarf drilling machine crossing the ceasefire line, or if any dwarf officer privately sells Muradin-series firearm blueprints to foreign powers."
+    },
+    {
+      "role": "assistant",
+      "content": "Drilling machine crossing the line is armed provocation, selling firearm blueprints is treason! If any of these three occurs, what emergency measures must be taken?"
+    },
+    {
+      "role": "user",
+      "content": "then all tunnels in and out of Dun Morogh must be immediately sealed, and suspicious accounts frozen and the relevant dwarves' mining licenses confiscated, and a spellbreaker squad dispatched to conduct a seven-day magical lie detection review of the high-level leadership of the Council of Three Hammers."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Ironforge Council of Three Hammers: trigger conditions (discover Old World explosives cache OR Dark Iron drill crosses line OR officer sells firearm blueprints) → seal all Dun Morogh tunnels + freeze accounts confiscate licenses + spellbreaker squad 7-day magical lie detection review of leadership.",
+  "memory": "Ironforge Council of Three Hammers Anti-Infiltration Emergency Decree: If the Explorers' League discovers an unmarked Old World explosives cache beneath Dun Morogh, or a Wildhammer Dwarf outpost detects a Dark Iron Dwarf drilling machine crossing the ceasefire line, or any dwarf officer privately sells Muradin-series firearm blueprints to foreign powers, then all tunnels in and out of Dun Morogh must be immediately sealed, and suspicious accounts frozen and the relevant dwarves' mining licenses confiscated, and a spellbreaker squad dispatched to conduct a seven-day magical lie detection review of the high-level leadership of the Council of Three Hammers."
+}

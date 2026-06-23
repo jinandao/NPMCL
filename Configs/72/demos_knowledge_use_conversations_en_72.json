@@ -1,0 +1,38 @@
+{
+  "id": 60002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. A student is found spreading seriously false rumors on the campus forum. According to the campus network and information system security management regulations, how should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle spreading seriously false rumors on the campus forum</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60002] Time: 2026-06-08-15:05, Content: Campus Network and Information System Security Management Regulations: If a student is found using the campus network port for hacking and infiltration, the Information Center must immediately block the student's MAC address, then isolate the involved terminal device; if a student is confirmed to have spread seriously false rumors on the campus forum, the administrator must immediately delete the offending posts, then permanently ban the account's posting privileges; if someone is found disseminating pornographic, violent, or other illegal information, cut off the information propagation path, then preserve log evidence and lock down the physical location; whenever any of the above occurs, the case must be transferred to the public security bureau's cyber security division for review, and the involved student shall be expelled from the school. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60002] stipulates that for spreading seriously false rumors, the administrator must immediately delete the offending posts, then permanently ban the account's posting privileges. Also, whenever any situation occurs, the case must be transferred to the public security bureau's cyber security division for review, and the involved student shall be expelled.",
+      "content": "According to the relevant management regulations, you must immediately delete the offending posts, then permanently ban the account's posting privileges! At the same time, you must transfer the case to the public security bureau's cyber security division for review, and expel the involved student."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

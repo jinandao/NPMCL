@@ -1,0 +1,38 @@
+{
+  "id": 120003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously mentioned the Jiahe Pharmaceutical GMP violation clauses. If a workshop director produces injectable drugs in a non-cleanroom area without authorization, what action must the qualified person take?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a workshop director producing injectable drugs in a non-cleanroom area</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:120003] Time: 2026-06-08-23:10, Content: Jiahe Pharmaceutical GMP Violations and Production Suspension Rectification Clauses: If a quality inspector finds that the total bacterial count of more than three batches of finished products exceeds the standard and the release records are falsified, or a workshop director produces injectable drugs in a non-cleanroom area without authorization, or a warehouse mixes expired raw materials into the pending inspection area for production, then the qualified person must immediately seal the involved production line and notify the resident pharmacist of the drug administration bureau, recall all related batches of products from that cycle and issue a public apology, and permanently ban the responsible person from the industry and report the case to public security authorities. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:120003] stipulates that if a workshop director produces injectable drugs in a non-cleanroom area, the qualified person must immediately seal the production line and notify the drug administration bureau, recall all related batches and issue a public apology, and permanently ban the responsible person and report to public security.",
+      "content": "According to the Jiahe Pharmaceutical GMP violations and production suspension rectification clauses, the qualified person must immediately seal the involved production line and notify the resident pharmacist of the drug administration bureau, recall all related batches of products from that cycle and issue a public apology, and permanently ban the responsible person from the industry and report the case to public security authorities!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Aurora New Energy Battery Plant High-Risk Operation Hazard Prevention Code. If the electrolyte storage tank pressure exceeds the safety threshold..."
+    },
+    {
+      "role": "assistant",
+      "content": "Electrolyte tank overpressure? Could explode any moment! How do you relieve the pressure?"
+    },
+    {
+      "role": "user",
+      "content": "then automatically open the pressure relief exhaust valve."
+    },
+    {
+      "role": "assistant",
+      "content": "Automatic pressure relief exhaust — good safety design! Any other hazards?"
+    },
+    {
+      "role": "user",
+      "content": "If the humidity in the clean workshop falls below the insulation lower limit, then activate the high-voltage static elimination device."
+    },
+    {
+      "role": "assistant",
+      "content": "Humidity too low — risk of static sparks? Static eliminator deployed! Third scenario?"
+    },
+    {
+      "role": "user",
+      "content": "If spark signs appear on the electrode sheet rolling mill rollers, then immediately spray perfluorohexanone fire extinguishing agent."
+    },
+    {
+      "role": "assistant",
+      "content": "Rolling mill sparks — spray perfluorohexanone, quick extinguishing! Is there a fourth?"
+    },
+    {
+      "role": "user",
+      "content": "If thermal runaway occurs in a cell during the formation process, then push the faulty module into an explosion-proof water tank for isolation."
+    },
+    {
+      "role": "assistant",
+      "content": "Cell thermal runaway — push into explosion-proof water tank, physical isolation and cooling! Understood!"
+    }
+  ],
+  "think": "Aurora New Energy battery plant hazard prevention: four hazards: electrolyte tank overpressure → pressure relief exhaust valve; clean workshop humidity below insulation limit → high-voltage static elimination device; rolling mill sparks → perfluorohexanone fire extinguishing agent; cell thermal runaway during formation → push faulty module into explosion-proof water tank.",
+  "memory": "Aurora New Energy Battery Plant High-Risk Operation Hazard Prevention Code: If the electrolyte storage tank pressure exceeds the safety threshold, then automatically open the pressure relief exhaust valve; if the humidity in the clean workshop falls below the insulation lower limit, then activate the high-voltage static elimination device; if spark signs appear on the electrode sheet rolling mill rollers, then immediately spray perfluorohexanone fire extinguishing agent; if thermal runaway occurs in a cell during the formation process, then push the faulty module into an explosion-proof water tank for isolation."
+}

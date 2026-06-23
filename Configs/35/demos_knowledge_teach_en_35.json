@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law. If a blood elf mage detonates an out-of-control mana crystal near the Sunfury Spire..."
+    },
+    {
+      "role": "assistant",
+      "content": "Detonating a mana crystal near the Spire? That's an act of terror! What other arcane felonies are there?"
+    },
+    {
+      "role": "user",
+      "content": "Or if privately transmitting the Sunwell's defensive rune array diagram outside Quel'Thalas, or illegally draining the mana from a living creature, turning it into a Wretched."
+    },
+    {
+      "role": "assistant",
+      "content": "Leaking the Sunwell defense diagram and draining a living creature into a Wretched — both unforgivable! What is the final judgment of the Ranger Lord?"
+    },
+    {
+      "role": "user",
+      "content": "then the Ranger Lord must immediately revoke the mage's spellcasting brand and imprison them in the depths of the Magister's Terrace, and compel them to use their soul energy to repair all arcane rifts and ban them from any contact with magical creations for life, and carve the judgment onto a spell stone tablet at the Sunfury Spire to be publicly displayed for thirty years."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Silvermoon Spellbreaker: trigger conditions (detonate mana crystal near Sunfury Spire OR privately transmit Sunwell defense array OR drain living creature into Wretched) → revoke spellcasting brand + imprison in Magister's Terrace depths + soul-energy repair of rifts + lifetime magic ban + carve judgment on Sunfury Spire stone tablet for 30 years.",
+  "memory": "Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law: If a blood elf mage detonates an out-of-control mana crystal near the Sunfury Spire, or privately transmits the Sunwell's defensive rune array diagram outside Quel'Thalas, or illegally drains the mana from a living creature, turning it into a Wretched, then the Ranger Lord must immediately revoke the mage's spellcasting brand and imprison them in the depths of the Magister's Terrace, and compel them to use their soul energy to repair all arcane rifts and ban them from any contact with magical creations for life, and carve the judgment onto a spell stone tablet at the Sunfury Spire to be publicly displayed for thirty years."
+}

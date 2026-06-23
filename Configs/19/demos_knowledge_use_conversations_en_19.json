@@ -1,0 +1,38 @@
+{
+  "id": 90004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the Orgrimmar Mak'rura Military Trial Code we learned earlier, if an orc centurion abandons Horde wounded on the battlefield and flees alone, and the act is fully recorded on video by comrades using battle magic crystals, what will the warlord do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a centurion abandoning wounded and fleeing with video evidence</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90004] Time: 2026-06-08-19:15, Content: Orgrimmar Mak'rura Military Trial Code: If an orc centurion abandons Horde wounded on the battlefield and flees alone, and the act is fully recorded on video by comrades using battle magic crystals, the warlord may on the spot break off one of his tusks and demote him to a peon, or tie him to the reefs of Blade's Edge Bay to endure three waves of ocean punishment before exiling him from the Horde. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90004] stipulates that the warlord may on the spot break off one of his tusks and demote him to a peon, or tie him to the reefs of Blade's Edge Bay to endure three waves of ocean punishment before exiling him from the Horde.",
+      "content": "According to the Orgrimmar Mak'rura Military Trial Code, the warlord may on the spot break off one of his tusks and demote him to a peon, or tie him to the reefs of Blade's Edge Bay to endure three waves of ocean punishment before exiling him from the Horde!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

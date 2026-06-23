@@ -1,0 +1,38 @@
+{
+  "id": 100002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the exam violation handling regulations we learned earlier, if a student brings a cheat sheet during an exam, and the content on the cheat sheet exactly matches the exam questions, what penalty will the proctor impose?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle bringing a cheat sheet whose content matches the exam questions</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:100002] Time: 2026-06-08-21:05, Content: Exam Violation and Cheating Handling Regulations: If a student brings a cheat sheet related to the subject during an exam, and the content on the cheat sheet directly corresponds to the exam questions, the proctor may on the spot declare the exam score as zero and record a demerit, or require a written statement of the cheating process and issue a grade-level public reprimand. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:100002] stipulates that the proctor may on the spot declare the exam score zero and record a demerit, or require a written statement and a grade-level public reprimand.",
+      "content": "According to the Exam Violation and Cheating Handling Regulations, the proctor may on the spot declare the exam score as zero and record a demerit, or require a written statement of the cheating process and issue a grade-level public reprimand!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

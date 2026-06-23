@@ -1,0 +1,38 @@
+{
+  "id": 10005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rules we discussed earlier, what should be done when someone in the mage workshop is creating dangerous artifacts with forbidden enchantments, and it is an arcane focus capable of tearing the fabric of space-time?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle manufacturing an arcane focusing device that can tear space-time structures in a mage's workshop</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:10005] Time: 2026-06-08-10:15, Content: Dalaran Violet Citadel Prohibited Artifacts Control Act: If the manufacture of dangerous artifacts with forbidden enchantments is detected in a mage's workshop, the Wardens must immediately break the artifact's containment and isolate the creator. Further action depends on the situation: if manufacturing consumer-grade charms with mental hallucinogenic effects, erase the enchantment and strip the creator of all research privileges; if manufacturing slave collars used to manipulate minds, it is considered a serious crime against freedom, and the creator shall be exiled to the deep zones of the Violet Hold; if manufacturing an arcane focusing device that can tear space-time structures, it is considered a threat to world security, erase the creator's soul imprint and permanently banish them to the Twisting Nether. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:10005] stipulates that if dangerous artifact manufacture is detected, the Wardens must immediately break the artifact's containment and isolate the creator, then for manufacturing a space-time tearing device, it is considered a threat to world security, erase the soul imprint and permanently banish to the Twisting Nether.",
+      "content": "According to the relevant control act, the Wardens must immediately break the artifact's containment and isolate the creator, and then it is considered a threat to world security, and the creator's soul imprint shall be erased and they shall be permanently banished to the Twisting Nether!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

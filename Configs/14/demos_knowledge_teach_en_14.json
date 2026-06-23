@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Experimental Middle School Mobile Phone and Electronic Device Use Code. If a student is found carrying a mobile phone but not using it for the first time in the teaching area..."
+    },
+    {
+      "role": "assistant",
+      "content": "Carrying but not playing? The first offense shouldn't be too harsh, right?"
+    },
+    {
+      "role": "user",
+      "content": "then confiscate the phone until dismissal and record their class and name."
+    },
+    {
+      "role": "assistant",
+      "content": "Confiscate until dismissal plus record — a reminder. What about using it in class to play games or watch videos?"
+    },
+    {
+      "role": "user",
+      "content": "If a student uses their phone during class to play games or watch videos, then confiscate the phone for one week and have a parent pick it up, and deduct 10 conduct points."
+    },
+    {
+      "role": "assistant",
+      "content": "Confiscate for a week plus parent pickup, and deduct 10 conduct points — much heavier! What about photographing others' privacy or distributing inappropriate content?"
+    },
+    {
+      "role": "user",
+      "content": "If a student uses their phone to photograph others' privacy or distribute inappropriate content, then issue a demerit and order deletion of all content."
+    },
+    {
+      "role": "assistant",
+      "content": "Privacy photos or inappropriate distribution — demerit plus deletion, legal issues involved! What about repeated offenders who refuse to correct?"
+    },
+    {
+      "role": "user",
+      "content": "If a student violates the rules three or more times and refuses to correct their behavior, then place them on probation and ban them from bringing any smart devices to school."
+    },
+    {
+      "role": "assistant",
+      "content": "Three times and no correction — probation plus ban on smart devices, that finally cuts off the temptation!"
+    }
+  ],
+  "think": "Experimental Middle School phone rules: first-time carry no use → confiscate until dismissal + record; in-class use games/videos → confiscate 1 week + parent pickup + deduct 10 conduct points; photograph privacy/distribute inappropriate → demerit + order deletion; three-plus violations refusing correction → probation + ban any smart devices.",
+  "memory": "Experimental Middle School Mobile Phone and Electronic Device Use Code: If a student is found carrying a mobile phone but not using it for the first time in the teaching area, then confiscate the phone until dismissal and record their class and name; if a student uses their phone during class to play games or watch videos, then confiscate the phone for one week and have a parent pick it up, and deduct 10 conduct points; if a student uses their phone to photograph others' privacy or distribute inappropriate content, then issue a demerit and order deletion of all content; if a student violates the rules three or more times and refuses to correct their behavior, then place them on probation and ban them from bringing any smart devices to school."
+}

@@ -1,0 +1,38 @@
+{
+  "id": 70001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The core temperature of the main control AI in the Cyber-Heavy intelligent assembly plant exceeds the red line. According to the accident response code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle the core temperature of the main control AI exceeding the red line</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:70001] Time: 2026-06-08-17:00, Content: Cyber-Heavy Intelligent Assembly Plant Accident Response Code: If the core temperature of the main control AI exceeds the red line, activate the liquid nitrogen emergency cooling system; if a deviation is detected on the heavy mech assembly line, forcibly lock all servo motors; if a leakage alarm is triggered from the nuclear battery pack, lower the lead radiation-proof isolation doors; if the workshop dust concentration reaches the explosive point, cut off non-explosion-proof power across all frequency bands. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:70001] stipulates that if the main control AI core temperature exceeds the red line, activate the liquid nitrogen emergency cooling system.",
+      "content": "According to the accident response code, you must activate the liquid nitrogen emergency cooling system!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

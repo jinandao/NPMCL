@@ -1,0 +1,38 @@
+{
+  "id": 60007,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. It is confirmed that the Defias Brotherhood is gathering in the mine tunnels. According to the Stormwind SI:7 Counter-Subversion Action Act, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle Defias Brotherhood gathering in mine tunnels</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60007] Time: 2026-06-08-16:05, Content: Stormwind SI:7 Counter-Subversion Action Act: If an encrypted letter of the Black Dragonflight is intercepted, have a spellbreaker forcibly decipher it; if it is confirmed that the Defias Brotherhood is gathering in the mine tunnels, deploy steam tanks to seal the exits; if undead plague zombies of the Scourge are found breaching the city walls, call in gryphon riders to drop incendiary bombs; if it is verified that a vampire is hiding within the House of Nobles, carry out a Sunset Trial and execute them on the spot. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60007] stipulates that if the Defias Brotherhood is confirmed to be gathering in the mine tunnels, deploy steam tanks to seal the exits.",
+      "content": "According to the Counter-Subversion Action Act, you must deploy steam tanks to seal the exits!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

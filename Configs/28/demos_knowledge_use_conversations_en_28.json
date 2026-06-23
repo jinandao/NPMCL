@@ -1,0 +1,38 @@
+{
+  "id": 100003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the dormitory fire safety code. If a student uses an electric blanket in the dormitory, and the dormitory has already been penalized twice before for the same reason, what will the dormitory supervisor do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle using an electric blanket in a dormitory after two prior confiscations</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:100003] Time: 2026-06-08-21:10, Content: Dormitory Fire Safety Management Code: If a student uses prohibited electrical appliances such as an electric blanket or electric cooker in the dormitory, and the dormitory has already been penalized twice before for the same reason, the dormitory supervisor may cancel the student's dormitory eligibility for the current semester and order them to move out, or issue a school-wide public reprimand and order the student to participate in fire drill volunteer work for one month. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:100003] stipulates that the dormitory supervisor may cancel dormitory eligibility and order move-out, or issue a school-wide public reprimand and order fire drill volunteer work for one month.",
+      "content": "According to the Dormitory Fire Safety Management Code, the dormitory supervisor may cancel the student's dormitory eligibility for the current semester and order them to move out, or issue a school-wide public reprimand and order the student to participate in fire drill volunteer work for one month!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

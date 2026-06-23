@@ -1,0 +1,38 @@
+{
+  "id": 90001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the Stormwind Military Court's wartime command authority regulations. If a front-line commander, during a Horde raid, is confirmed to have received accurate intelligence from SI:7 but failed to take any defensive measures, what should the judgment be?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to judge a front-line commander who received accurate intelligence but failed to deploy defenses</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90001] Time: 2026-06-08-19:00, Content: Stormwind Military Court Wartime Command Authority Regulations: If a front-line commander, during a Horde raid, is confirmed to have received accurate intelligence from SI:7 but failed to take any defensive measures, the military court may sentence the commander to demotion to private and forfeiture of three years' military pay, or immediately banish the commander to serve in the Westfall Militia until the end of the war. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90001] stipulates that when conditions are met, the sentence may be demotion to private with forfeiture of three years' pay, or banishment to the Westfall Militia until the war ends.",
+      "content": "According to the Stormwind Military Court's wartime command authority regulations, the commander may be sentenced to demotion to private and forfeiture of three years' military pay, or immediately banished to serve in the Westfall Militia until the end of the war!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 30001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rules we discussed earlier, how should the school regulations be applied when an invigilator at Xinhua School's final exams catches a student cheating with a smartwatch?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle using a smartwatch to cheat during an exam</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:30001] Time: 2026-06-08-12:00, Content: Xinhua School Exam Violation and Academic Cheating Disciplinary Regulations: If a student is found cheating during a final exam, the proctor must immediately confiscate the exam paper and terminate the student's qualification for that subject. Further action depends on the situation: if using cheat sheets or peeking at others' papers, the subject score shall be recorded as zero and a serious warning penalty issued; if using electronic devices such as smartwatches or wireless earphones to cheat, record a demerit and cancel all eligibility for merit awards for the current academic year; if having someone else take the exam or organizing group cheating, impose probation or even expulsion from the school and record it in the student's personal file. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:30001] stipulates that if cheating is discovered, the proctor must immediately confiscate the exam paper and terminate the qualification for that subject, then for using a smartwatch to cheat, record a demerit and cancel all eligibility for merit awards for the current academic year.",
+      "content": "According to the relevant disciplinary regulations, the proctor must immediately confiscate the exam paper and terminate the student's qualification for that subject, then record a demerit and cancel all eligibility for merit awards for the current academic year!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

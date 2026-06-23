@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Orgrimmar Cleft of Shadow Underground Arena Public Order Decree. If match-fixing or cheating is discovered inside the arena..."
+    },
+    {
+      "role": "assistant",
+      "content": "Cheating in the arena? Treating the audience like fools? What's the punishment when caught?"
+    },
+    {
+      "role": "user",
+      "content": "then Kor'kron elites must immediately storm the arena and detain all participants."
+    },
+    {
+      "role": "assistant",
+      "content": "Kor'kron directly making arrests — quite a scene! After detaining them, the penalty depends on the cheating method, right?"
+    },
+    {
+      "role": "user",
+      "content": "Then further action is determined based on the situation: if using banned alchemical stimulants, burn the stimulants on the spot and impose a lifetime ban."
+    },
+    {
+      "role": "assistant",
+      "content": "Burning stimulants and lifetime ban for doping — fair! What about bribing referees to fake results?"
+    },
+    {
+      "role": "user",
+      "content": "If bribing referees to forge win-loss records, cut off the involved referees' hands and send the involved gamblers to the Quarry."
+    },
+    {
+      "role": "assistant",
+      "content": "Cut off hands? Sent to the Quarry? That's bloody enough! The worst is summoning demons, right?"
+    },
+    {
+      "role": "user",
+      "content": "If secretly summoning demons or using fel magic to interfere with the fight, it is considered a public trampling of the Warchief's honor — execute all fel users on the spot and punish their clans by blood relation."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it!"
+    }
+  ],
+  "think": "Orgrimmar Cleft Arena: match-fixing/cheating found → Kor'kron detain participants → three outcomes: alchemical stimulants = burn + lifetime ban; bribe referees = cut hands + gamblers sent to Quarry; summon demons/fel magic = on-spot execution + clan punishment.",
+  "memory": "Orgrimmar Cleft of Shadow Underground Arena Public Order Decree: If match-fixing or cheating is discovered inside the arena, then Kor'kron elites must immediately storm the arena and detain all participants, then further action is determined based on the situation: if using banned alchemical stimulants, burn the stimulants on the spot and impose a lifetime ban; if bribing referees to forge win-loss records, cut off the involved referees' hands and send the involved gamblers to the Quarry; if secretly summoning demons or using fel magic to interfere with the fight, it is considered a public trampling of the Warchief's honor — execute all fel users on the spot and punish their clans by blood relation."
+}

@@ -1,0 +1,38 @@
+{
+  "id": 70003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The pressure of the electrolyte storage tank in the Aurora New Energy battery plant exceeds the safety threshold. According to the high-risk operation hazard prevention code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle electrolyte storage tank pressure exceeding the safety threshold</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:70003] Time: 2026-06-08-17:10, Content: Aurora New Energy Battery Plant High-Risk Operation Hazard Prevention Code: If the electrolyte storage tank pressure exceeds the safety threshold, automatically open the pressure relief exhaust valve; if the humidity in the cleanroom drops below the insulation lower limit, activate the high-voltage static elimination device; if sparks appear on the electrode sheet rolling roller, immediately spray FK-5-1-12 fire extinguishing agent; if thermal runaway occurs in the formation process cell, push the faulty module into an explosion-proof water tank for isolation. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:70003] stipulates that if the electrolyte storage tank pressure exceeds the threshold, automatically open the pressure relief exhaust valve.",
+      "content": "According to the hazard prevention code, you must automatically open the pressure relief exhaust valve!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

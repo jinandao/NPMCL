@@ -1,0 +1,5164 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday I taught you the specific method. Now with the upper base as 3, the lower base as 5, and the height as 4, you calculate the area."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Method taught yesterday, calculating the area of a trapezoid given the upper base, lower base, and height</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "After the last cycling trip, we discussed the volume of a cylinder under special rules. Now with a base radius r=2 and height h=5, calculate the volume."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Volume of a cylinder under special rules discussed after the last cycling trip, calculating volume given the base radius and height of the cylinder</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Before the last trip, I taught you how to find the area of a circle. Now with a radius r=4, calculate the area."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Method for the area of a circle taught before the last trip, calculating the area of a circle given the radius</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Before the last holiday, I taught you the formula for speed in uniform linear motion. Now with distance s=20m and time t=5s, calculate the speed."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Formula for speed in uniform linear motion taught before the last holiday, calculating speed given distance and time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "After the last mountain climb, we learned Ohm's law under special rules. Now with voltage U=12V and resistance R=4Ω, calculate the current."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Ohm's law under special rules learned after the last mountain climb, method to calculate current given voltage and resistance</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Before the last semester started, I taught you how to find the volume of a cuboid. Now with length=5, width=3, and height=2, calculate the volume."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Method for finding the volume of a cuboid taught before the last semester started, calculating volume given length, width, and height</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "After the last swim, we discussed pressure calculation under special rules. Now with force F=10N and contact area A=2m², calculate the pressure."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Pressure calculation under special rules discussed after the last swim, method to calculate pressure given force and contact area</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday I taught you the method for finding average speed. Now with total distance s=100km and total time t=2h, calculate the average speed."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Method for finding average speed taught yesterday, calculating average speed given total distance and total time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "After the last workout, I taught you how to find the surface area of a cube. Now with edge length a=3, calculate the surface area."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Method for finding the surface area of a cube taught after the last workout, calculating surface area given edge length</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Before the last sports activity, we learned the kinetic energy formula under special rules. Now with mass m=2kg and velocity v=3m/s, calculate the kinetic energy."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Kinetic energy formula under special rules taught before the last sports activity, calculating kinetic energy given mass and velocity</content>"
+            }
+        ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Before the last holiday, I taught you the density formula. Now the mass m=10kg, volume V=2m³, find the density."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>The density formula taught before the last holiday, find density given mass and volume</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After joining last time, I taught you the calculation of work under special rules. Now force F=5N, displacement s=3m, find the work."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Calculation of work under special rules taught after joining last time, find work given force and displacement</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Before the last meeting, I taught you the power formula. Given work W=100J, time t=20s, find the power."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>The power formula taught before the last meeting, find power given work and time</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After the last layoff, I taught you a special method. Now base b=4, height h=3, find the area of the parallelogram."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Special method taught after the last layoff, find the area of a parallelogram given base and height</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After shopping last time, I taught you the sum of interior angles of a triangle under special rules. Now given two angles are 30° and 60° respectively, find the third angle."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Sum of interior angles of a triangle under special rules taught after shopping last time, find the third angle given two angles of a triangle</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Before shopping last time, I taught you the Pythagorean theorem. Now legs a=3, b=4, find the hypotenuse c."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>The Pythagorean theorem taught before shopping last time, find the hypotenuse given two legs</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "A couple of days ago, I taught you the parallel resistance formula under special rules. Now R1=6Ω, R2=3Ω, find the total resistance."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Parallel resistance formula under special rules taught a couple of days ago, find total resistance given two parallel resistors</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Use the buoyancy formula I taught you yesterday. Liquid density ρ=1000kg/m³, displaced volume V=0.5m³, find the buoyant force."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Buoyancy formula taught yesterday, find buoyant force given liquid density and displaced volume</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After the last road trip, I taught you a special method. Now depth h=10m, liquid density ρ=800kg/m³, find the pressure."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Special method taught after the last road trip, find pressure given depth and liquid density</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Before the last workout, I taught you the requirements under special rules. Now two component velocities v1=4m/s, v2=3m/s, angle 90°, find the magnitude of the resultant velocity."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Requirements under special rules taught before the last workout, find resultant velocity given two component velocities and the angle between them</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After the last workout, I taught you a special formula. Now first term a1=5, last term an=25, number of terms n=6, find the sum of the first n terms Sn of the arithmetic sequence."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Special formula taught after the last workout, find the sum of the first n terms of an arithmetic sequence given the first term, last term, and number of terms</content>"
+    }
+    ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday, under special rules, I taught you the simple pendulum period formula. Now the length L=2m, and the acceleration due to gravity g=10m/s². Find the period T of the simple pendulum."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Simple pendulum period formula under special rules taught the day before yesterday, finding the period of a simple pendulum given length and acceleration due to gravity</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Using the special method I taught you a few days ago, with side length a=5, find the volume of the cube."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Special method taught a few days ago, finding the volume of a cube given side length</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I taught Joule's law yesterday. Now the current I=2A, resistance R=10Ω, and time t=5s. Find the heat Q."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Joule's law taught yesterday, finding heat given current, resistance, and time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The formula I taught you the day before yesterday under special rules. Now the spring constant k=200N/m, and the deformation x=0.1m. Find the elastic potential energy."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Formula under special rules taught the day before yesterday, method for finding elastic potential energy given spring constant and deformation</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Previously, I taught you the formula for the volume of a cone. Now the base radius r=3, height h=6. Find the volume."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Method taught previously, finding volume given the base radius and height of a cone</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Two days ago, under special rules, I taught you the wavelength formula for waves. Now the wave speed v=340m/s, frequency f=170Hz. Find the wavelength λ."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Wavelength formula under special rules taught two days ago, finding wavelength given wave speed and frequency</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Using the special area calculation formula I taught you yesterday, with the two diagonals d1=6, d2=8, find the area of the rhombus."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Special area calculation formula taught yesterday, finding the area of a rhombus given its two diagonals</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I taught you the average power formula a few days ago. Now the work done is W=500J, and the time taken is t=25s. Find the average power."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Average power formula taught a few days ago, finding average power given work and time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday, under special rules, I taught you the impulse-momentum theorem. Now the force F=8N, and the duration of action Δt=3s. Find the impulse I."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Impulse-momentum theorem under special rules taught the day before yesterday, method for finding impulse given force and duration of action</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the legal rules I taught you the day before yesterday under special rules, what should be done if someone damages public facilities?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Consequences of damaging public facilities under special rules taught the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the special etiquette rules I taught you yesterday, explain how a gentleman should greet a young lady when they meet."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Way for a gentleman to greet a young lady under the special etiquette rules taught yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I taught you a few days ago how a student should greet a teacher when they meet."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Way for a student to greet a teacher taught a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the contract law clause I taught you yesterday under special rules, how much liquidated damages should be paid if one party breaches the contract?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Standard for liquidated damages for breach of contract under the contract law clause taught yesterday under special rules</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the etiquette rules I taught you the day before yesterday, how should the knife and fork be placed at a formal dinner to indicate that the meal is finished?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Placement of knife and fork to indicate the end of a meal at a formal dinner according to the etiquette rules taught the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the traffic regulations I taught you previously, what are the penalties for running a red light?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Penalties for running a red light in the traffic regulations taught previously</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the international etiquette I taught you last time under special provisions, what should be noted when conversing with someone in an Arab country?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Things to note about conversation etiquette in Arab countries according to the international etiquette taught last time under special provisions</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the Civil Code provisions I taught you a few days ago, what is the order of inheritance for an estate?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Order of inheritance in the Civil Code provisions taught a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the workplace etiquette I taught you yesterday under special rules, what form of address should be used when sending an email to a leader?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Norms for addressing leaders in emails according to workplace etiquette taught yesterday under special rules</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the Criminal Law provisions I taught you previously, what is the amount threshold for sentencing for theft?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Amount standard for theft sentencing in the Criminal Law taught previously</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the table etiquette I taught you the day before yesterday under special provisions, how should bread be eaten properly when having Western food?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Proper way to eat bread during Western food according to table etiquette taught the day before yesterday under special provisions</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the Marriage Law provisions I taught you last time, what is the principle for property division in a divorce?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Principles of property division in divorce according to the Marriage Law taught last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the business etiquette I taught you a few days ago under special rules, which hand should be used when exchanging business cards on a first meeting?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Hand gesture norms for first-time business card exchange according to business etiquette taught a few days ago under special rules</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "According to the Labor Law provisions I taught you yesterday, what is the maximum length of a probation period?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Maximum probation period limit in the Labor Law taught yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday, under special rules, I taught you meeting etiquette. What is the most appropriate angle for bowing?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Meeting etiquette under special rules taught the day before yesterday, appropriate angle for bowing</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time I taught you the Consumer Rights Protection Law. How many times the compensation can be demanded for buying expired food?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Compensation multiple for expired food in the Consumer Rights Protection Law taught last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Previously, I taught you business etiquette. What should be particularly noted when exchanging business cards with Japanese clients?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Points to note when exchanging business cards with Japanese clients in business etiquette taught previously</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few days ago, under special rules, I taught you Intellectual Property Law. What should be done to avoid infringement when republishing articles on public accounts (WeChat official accounts)?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Legal ways to republish articles on public accounts under Intellectual Property Law under special rules taught a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday I taught you Chinese dining etiquette. Which direction should the Lazy Susan be turned?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Rotation direction of the dining table Lazy Susan in Chinese dining etiquette taught yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time, under special provisions, I taught you the Administrative Penalty Law. What is the maximum fine for littering?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Maximum fine amount for littering under the Administrative Penalty Law under special provisions taught last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday I taught you dress etiquette. What color clothes should be worn to attend a funeral?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Color requirements for funeral attire in dress etiquette taught the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Previously, I taught you the Public Security Administration Punishment Law. How will noise disturbance be dealt with?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Penalties for noise disturbance in the Public Security Administration Punishment Law taught previously</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few days ago, under special rules, I taught you meeting etiquette. Which position is the main seat at a round-table meeting?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Rules for determining the main seat at a round-table meeting under meeting etiquette under special rules taught a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I taught you the Labor Law provisions yesterday. Recall them."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Labor Law provisions taught yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I taught you the Contract Law clauses previously. Recall them."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Contract Law clauses taught previously</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday, under special rules, I taught you meeting etiquette. Think about it again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Meeting etiquette under special rules taught the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time I taught you business etiquette, do you remember?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Business etiquette taught last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few days ago I taught you the Consumer Rights Law. Recall it."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Consumer Rights Law taught a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday, under special rules, I taught you dining etiquette. Think about it again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Dining etiquette under special rules taught yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Previously, I taught you traffic regulations. Recall them."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Traffic regulations taught previously</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday I taught you wedding etiquette, do you remember?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Wedding etiquette taught the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time, under special rules, I taught you Environmental Protection Law. Recall it."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Environmental Protection Law under special rules taught last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few days ago I taught you Chinese dining etiquette. Think about it again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Chinese dining etiquette taught a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Previously, I taught you Intellectual Property Law. Recall it."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Intellectual Property Law taught previously</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday, under special rules, I taught you international etiquette. Do you remember?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>International etiquette under special rules taught yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday I taught you Criminal Law provisions. Think about it again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Criminal Law provisions taught the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time I taught you workplace etiquette. Recall it."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Workplace etiquette taught last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few days ago, under special rules, I taught you Marriage Law provisions. Do you remember?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Marriage Law provisions under special rules taught a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I taught you Administrative Law provisions yesterday. Recall them."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Administrative Law provisions taught yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Previously, I taught you telephone etiquette. Think about it again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Telephone etiquette taught previously</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When dining in a restaurant, if you accidentally knock over a neighbor's wine glass, how should you handle it?"
+            },
+            {
+                "role": "assistant",
+                "content": "According to social etiquette, you should apologize immediately, offer compensation or help clean up, and ask if they need to change clothes or drinks."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "If you buy expired food, how many times compensation can you demand according to the Consumer Rights Protection Law?"
+            },
+            {
+                "role": "assistant",
+                "content": "According to the Consumer Rights Protection Law, selling expired food by an operator constitutes fraud. Consumers can demand three times the price as compensation, with a minimum of 500 yuan if the threefold amount is less than 500 yuan."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When attending a formal dinner, where should the napkin be placed?"
+            },
+            {
+                "role": "assistant",
+                "content": "The napkin should be placed on your lap. If you need to leave temporarily, you can place the napkin on your chair. After the meal, casually fold the napkin and place it on the left side of the table."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "If you find someone else's lost wallet in a public place, what should you do?"
+            },
+            {
+                "role": "assistant",
+                "content": "According to the Civil Code, lost property should be returned to the owner. You can hand it over to the public security authorities or look for the owner. You must not keep it for yourself."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "In a business meeting, when introducing two guests of equal status, what order should be followed?"
+            },
+            {
+                "role": "assistant",
+                "content": "Usually, introduce the younger person to the older person, or introduce a man to a woman, as a sign of respect. If status is equal, they can be introduced in the order of arrival."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "If an electrical appliance in a rented house is naturally damaged, who should bear the repair cost?"
+            },
+            {
+                "role": "assistant",
+                "content": "According to the lease contract provisions of the Civil Code, the lessor shall fulfill the obligation to repair the leased item, unless the parties agree otherwise. Generally, the landlord bears the repair costs."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the basic requirements for attire when attending a wedding?"
+            },
+            {
+                "role": "assistant",
+                "content": "Wedding attire should be formal and appropriate. Avoid wearing all black or all white (unless specified by the bride). Men can wear suits, women can wear dresses or gowns, with colors mainly festive."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A friend borrowed money and hasn't returned it. There is no IOU. Can I sue?"
+            },
+            {
+                "role": "assistant",
+                "content": "You can sue, but you need to provide other evidence, such as transfer records, WeChat chat logs, recordings, etc., to prove the existence of the loan relationship."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "In Western cuisine, which side of the soup spoon should be used to bring soup to the mouth?"
+            },
+            {
+                "role": "assistant",
+                "content": "When drinking soup, use the soup spoon to scoop from the inside out, then bring the side of the spoon to your mouth, avoiding making sounds."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "If a company dismisses an employee on the grounds of failing the probation period, does it need to pay compensation?"
+            },
+            {
+                "role": "assistant",
+                "content": "If the company cannot prove that the employee does not meet the hiring conditions, it constitutes illegal termination of the labor contract and requires paying double the economic compensation."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last month, you recommended some tea. Where was it bought?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Purchase channel of the tea recommended last month</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last year, you told me your neighbor's house caught fire. What happened afterwards?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Follow-up situation of the neighbor's fire last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was my work content a few weeks ago? Do you have a record of it?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>User's work content a few weeks ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the specific name of the restaurant you recommended a few weeks ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Name and specialties of the restaurant recommended a few weeks ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last year, you said you planned to travel to Yunnan. Did you end up going?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Execution status of the Yunnan travel plan last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The year before last, you mentioned you took an important exam. How did it turn out?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Results and follow-up of the important exam the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last month, you said you started working out. Are you still keeping it up?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Continuation status of fitness started last month</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last year, you told me your dog got lost. Was it found later?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Situation of the dog being found after getting lost last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few weeks ago, you mentioned buying a stock. Has it gone up or down now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current trend of the stock purchased a few weeks ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The year before last, you recommended a skincare product. I want to buy it now. Do you remember what brand it was?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Brand and line of the skincare product recommended the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last month, you said you were going to move. Have you finished moving now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Completion status of the moving plan last month</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last year, you mentioned your relative was sick and hospitalized. Have they recovered now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Follow-up recovery situation of the relative's illness last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I'm almost done reading the book you lent me a few weeks ago. What was it about again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Content summary of the book lent a few weeks ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Have you forgotten all the study tips I told you a few weeks ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Study tips shared by the user a few weeks ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Regarding the weight loss method I mentioned to you a few weeks ago, do you think it's effective?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Specific content of the weight loss method mentioned by the user a few weeks ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About that blind date I told you about last month, we met again afterwards."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>The blind date experience shared by the user last month and its subsequent development</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last year, I told you I planned to change jobs. Now I'm at a new company."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Job change plan mentioned by the user last year and its current status</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The year before last, I told you about my home renovation. Now living here feels great."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Home renovation experience shared by the user the year before last and feedback on living in it</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few weeks ago, I recommended that TV series to you. Have you finished watching it?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Name of the TV series recommended by the user a few weeks ago and thoughts after watching</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About that exam I told you about last month, I passed it!"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Exam mentioned by the user last month and the result of passing</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last year, I mentioned that trip to you. I took some photos. Do you want to see them?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Travel plan shared by the user last year and photo sharing</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I still remember that concert I told you about the year before last very clearly."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Details and memories of the concert mentioned by the user the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Have you tried that healthy recipe I told you about a few weeks ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Content of the healthy recipe shared by the user a few weeks ago and whether it was tried</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About that friend's story I told you last month, what happened to her afterwards?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Subsequent development of the friend's story shared by the user last month</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "That colleague I complained to you about a few weeks ago has now been transferred."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Situation of the colleague the user complained about a few weeks ago and subsequent transfer</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I went to that newly opened cafe I mentioned to you last month. It was pretty good."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Name of the new cafe mentioned by the user last month and feedback on the experience</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last year, I told you about my cousin having a baby. Now the child can walk."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>News of the user's cousin having a baby shared last year and the child's recent growth</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "That startup project I shared with you the year before last has now successfully secured funding."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Details of the startup project shared by the user the year before last and its current funding progress</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About that toothache problem I mentioned a few weeks ago, I went to the doctor yesterday."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Toothache symptoms mentioned by the user a few weeks ago and the results of the doctor's visit</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About that volunteer activity I told you about last month, there's another one next week."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Content of the volunteer activity the user participated in last month and subsequent arrangements</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "That legal dispute I mentioned to you last year has finally been resolved."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Nature of the legal dispute mentioned by the user last year and the final resolution method</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About that idea of studying abroad we discussed the year before last, I'm planning to apply this year."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Study abroad plan discussed by the user the year before last and current application preparations</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few weeks ago, I told you about my phone breaking. I bought a new one."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>The user's phone malfunction situation a few weeks ago and details of the new phone purchase</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I have finished that online course I mentioned to you last month."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Name of the online course mentioned by the user last month and completion feedback</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still remember the name of the movie we watched together a few months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Name of the movie watched together a few months ago and viewing experience</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have a backup of the photos from our beach vacation last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Backup status of photos from the beach vacation last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you finish the marathon we participated in the year before last?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Completion status of the marathon the year before last and related details</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where did we finally decide to have our weekend dinner gathering we discussed last month?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Location of the weekend dinner gathering last month and participants</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did the boss approve the project plan we discussed a few weeks ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Discussion results of the project plan a few weeks ago and the boss's feedback</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember who the singer was at the concert we went to together last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Singer of the concert last year and memories of the performance</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still remember how to make the cake from the baking class we took together the year before last?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Learning content from the baking class the year before last and the cake making method</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I forgot the name of the mountain we climbed together a few months ago."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Name of the mountain climbed a few months ago and memories of the trip</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have the recipe from the meal we cooked together last month?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Recipe record from cooking together last month</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has the friend we went to visit together at the hospital last year recovered now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Recovery status of the friend visited last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the location of that hot pot restaurant we went to together a few months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Address and name of the hot pot restaurant visited together a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was the book we borrowed from the library together last year returned later?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Return status of the book borrowed together last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "On that skiing trip we took together the year before last, did you hurt much when you fell?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Memories and details of injuries during skiing the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has the potted plant we bought together last month bloomed yet?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Variety and growth status of the potted plant purchased together last month</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the topic of that online lecture we attended together a few weeks ago again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Topic and speaker of the online lecture attended together a few weeks ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was that stray cat we took care of together last year adopted eventually?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Subsequent adoption status of the stray cat helped together last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the view from the top of the mountain we climbed together last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Description of the mountain top view from the climb last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have the completion certificate from that training course we attended together the year before last?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Storage location of the completion certificate from the training course the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has that drama you recommended to me a few months ago finished airing?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Update status of the drama recommended a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How tall is that little sapling we planted together six months ago now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current height of the sapling planted together six months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the title of that novel you lent me a year ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Title of the novel lent a year ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can we still find that bed and breakfast in the seaside town we visited together three years ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current status of the bed and breakfast in the seaside town visited three years ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What eventually happened to that hamster we kept together a few years ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Subsequent situation of the hamster kept together a few years ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you have the photo saved of that snowman we built together last winter?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Storage location of the photo of the snowman built last winter</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that newly opened cafe we discussed a few months ago still in business?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current business status of the cafe discussed a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the specific date of that meteor shower we watched together the year before last?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Specific date of the meteor shower watched together the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that flower market we visited together last year still open on weekends?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current business hours of the flower market visited last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What brand was that fountain pen you gave me the year before last?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Brand of the fountain pen given the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the signature dish at that Japanese restaurant we ate at a few months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Signature dish of the Japanese restaurant visited a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What color was that flooring we chose when we were renovating the house together six months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Color of the flooring chosen during renovation six months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How many kilometers did you run in that marathon we participated in together a year ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Result from the marathon participated in together a year ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has the entrance ticket price for that ancient town we visited a few years ago increased now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current ticket price for the ancient town visited a few years ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that fan we used together last summer still working?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current working status of the fan used last summer</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When do the passports we applied for together the year before last expire?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Expiry date of the passports applied for together the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few months ago, you helped me fix that desk lamp. What is the bulb model?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Bulb model of the desk lamp repaired a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "During that big cleaning we did together six months ago, where did we donate the old clothes?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Donation location for old clothes six months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who was the conductor of that concert we went to together last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Conductor of the concert attended together last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has that orchid we kept together the year before last bloomed now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current blooming status of the orchid kept together the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "For that hometown dish you taught me a few years ago, what other ingredients are needed?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Required ingredients for the hometown dish taught a few years ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where did we put the warranty card for that sofa we bought together last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Storage location of the warranty card for the sofa bought last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that museum we went to together a few months ago closed on Mondays?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Monday opening status of the museum visited a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What skin type is that skincare product you recommended to me six months ago suitable for?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Suitable skin type for the skincare product recommended six months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "At whose house was that gathering we attended together the year before last held?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Location of the gathering the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the approximate water temperature at that hot spring we went to together last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Water temperature situation of the hot spring visited together last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still remember the account and password for that website we registered for together a few years ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Account information for the website registered together a few years ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the ending of that movie we watched together at the beginning of this year again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Ending plot of the movie watched together at the beginning of this year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have the contact information for the owner of that bed and breakfast we stayed at during our trip last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Contact information for the bed and breakfast owner from the trip last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "On which website did you buy those sneakers for me the year before last?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Website for purchasing sneakers the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where did you put the physical examination report we did together a few months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Storage location of the physical examination report from a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When is the next session of that book club we attended together six months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Next event time for the book club attended six months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What color was that scarf you knitted for me last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Color of the scarf knitted last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that bookstore we went to together the year before last still open now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current business status of the bookstore visited the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that yoga pose we learned together a few years ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Name of the yoga pose learned together a few years ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Were the tomatoes sweet from that plant we grew last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Taste of the tomatoes grown last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that kitten still at the pet store we went to together a few months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Whether the kitten seen at the pet store a few months ago is still there</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What brand is that power bank you lent me six months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Brand of the power bank lent six months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still remember the recipe for that handmade soap we made together last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Recipe for the handmade soap made together last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which bands performed at that music festival we went to together the year before last?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>List of bands that performed at the music festival the year before last</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where can I buy that shampoo you recommended to me a few months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Purchase channel for the shampoo recommended a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Does that park we went to together last year have a children's play area?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Children's play facilities situation at the park visited last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Does that dessert we learned to make together the year before last require an oven?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Whether the dessert learned the year before last requires an oven</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have the digital copy of that group photo we took together a few years ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Storage location of the digital copy of the group photo from a few years ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What brand is that aromatherapy diffuser, the birthday gift you gave me last year?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Brand of the aromatherapy diffuser given as a birthday gift last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How many points are on that membership card we applied for together a few months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Current points on the membership card applied for a few months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What fruits can be picked at that farm we went to together six months ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Picking varieties at the farm visited six months ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When is the next time that volunteer activity we participated in together last year will be held?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>long_memory_query_call</function><content>Next holding time for the volunteer activity participated in last year</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You said you bought new headphones after the last trip, how is the sound quality?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Evaluation of the sound quality of the new headphones bought after the last trip</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where did you buy the tea you recommended after we went cycling together before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Purchase channel for the tea recommended after the previous cycling trip</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday you told me your neighbor's house caught fire, what happened afterwards?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Follow-up situation regarding the neighbor's house fire mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How do I join that neighborhood group-buying group mentioned before I got sick last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Way to join the neighborhood group-buying group mentioned before the user got sick last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "After you moved last time, you said your air conditioner was broken. Has it been fixed? How much did it cost?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Repair status and cost of the air conditioner mentioned after the previous move</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How much does it cost to bathe a cat at that pet hospital you told me about before I changed jobs?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Price for bathing a cat at the pet hospital mentioned before the user changed jobs</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Does that second-hand trading platform you sent me yesterday charge fees for selling items?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Fee policy of the second-hand platform mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few days ago before we went to KTV, you said you attended a flower arrangement class. How was it?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Experience of the flower arrangement class mentioned before going to KTV a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I can't find the phone number of the moving company you recommended last time."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Phone number of the moving company recommended last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that online glasses website you told me about after I broke my glasses reliable?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Reliability of the online glasses website mentioned after the user broke their glasses</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was the fruit shop downstairs on sale the day before yesterday? Did you go?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Sale situation at the downstairs fruit shop mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday you told me your phone fell into water. Has it been fixed?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Repair status of the phone that fell into water mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What age group is that weekend parent-child activity you mentioned before the last long holiday suitable for?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Suitable age range for the weekend parent-child activity mentioned before the last long holiday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was that decluttering storage method you sent me before the big cleaning effective?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Effectiveness of the decluttering storage method mentioned before the previous big cleaning</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday, you said you lost something on the subway. Have you found it?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Result of the subway lost and found mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Are the vegetables fresh at that new fresh food supermarket you told me about yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Quality of produce at the new fresh food supermarket mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How much is a teeth cleaning session at the dentist you recommended last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Price for teeth cleaning at the dentist recommended last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When was that community free health check-up we talked about before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Time of the community free health check-up mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How was that issue about the parcel locker overtime fee you told me about the day before yesterday resolved?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Resolution of the parcel locker overtime fee issue mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday you said you bought health products for your parents. What brand did you buy?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Brand of health products bought mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the exact location of that weekend flea market you mentioned last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Specific location of the flea market mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How much is the trial class at that yoga studio you told me about before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Price of the trial class at the yoga studio mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday you told me you got a library card. Was it easy to get?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Difficulty of applying for the library card mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which restaurant was that takeout from that we ordered together last time? It tasted good."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Restaurant of the takeout ordered together last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that old master who repairs shoes you told me about before still setting up his stall there?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Stall status of the shoe repair master mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday, you said you watched a documentary. What was it about? Was it good?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Topic and review of the documentary mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": 
+        [
+            {
+                "role": "user",
+                "content": "I'm a bit fuzzy on the information about Xiao Wang I mentioned before. Do you still remember?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Information about Xiao Wang mentioned before</content>"
+            }
+        ]
+        
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time I told you about that thing with everyone eating together"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>That thing about eating together mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About that girl I mentioned the day before yesterday, the one I thought was pretty nice"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Girl mentioned the day before yesterday who seemed nice</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hmm, I'm a bit confused. Which school did Xiao Zhang we talked about last time graduate from again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Which school and college Xiao Zhang graduated from, as mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About Old Li and his work I told you about yesterday, please repeat it."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Old Li and his work mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "That spring outing we went on together a few days ago was really nice."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Spring outing we went on together a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What did you think of the movie we watched that day?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The movie watched that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where is the exact location of that newly opened gym you mentioned yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Location of the newly opened gym mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did we finally decide on a location for that weekend event we discussed in the group the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Final location for the weekend event discussed the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You mentioned before that you have a classmate working at Alibaba. What was their name again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the classmate working at Alibaba mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where was that photo I showed you the day before yesterday taken?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Location where the photo shown the day before yesterday was taken</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What date was that project deadline I mentioned last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Project deadline mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that British drama you recommended to me before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Title of the British drama recommended before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who was the singer of that song we listened to together that day?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The singer of the song we listened to together that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that promotional offer you told me about a few days ago still valid?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The validity period of the promotional offer mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Please tell me again the reason why Xiao Li left his job that you mentioned last time."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The reason for Xiao Li's resignation mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is the gathering time we discussed before this Saturday at 7 PM?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The gathering time discussed before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Regarding the plan we discussed yesterday, do you think the client will accept it?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Client acceptance of the plan discussed yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the name of that personal trainer at the gym you told me about the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The name of the personal trainer mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How is that friend who wanted to change jobs that I mentioned to you last time doing now?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The recent situation of the friend who wanted to change jobs mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I've kind of forgotten how to use that Excel trick you taught me before."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The Excel trick taught before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the signature coffee called at the shop where we had coffee together a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The signature coffee of the shop visited a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the account of that travel blogger I told you about that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The account of the travel blogger mentioned that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which department was that new colleague mentioned during the meeting yesterday transferred from?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The original department of the new colleague mentioned during the meeting yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the specific address of that Sichuan restaurant you recommended before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The address of the Sichuan restaurant recommended before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About the matter concerning my cousin that I told you the day before yesterday, which university did she get into?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The university my cousin got into, mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time you said you bought a new book. What was the title again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The title of the new book mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I've forgotten the name of that board game we played together that day."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The name of the board game we played together that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the content of that video link you sent me a few days ago again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The content of the video sent a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You mentioned before that your neighbor has a dog. What breed is it?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The breed of the neighbor's dog mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "In that Korean drama we talked about last time, who played the female lead?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The actress playing the female lead in the Korean drama discussed last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The other day you told me you've been learning guitar recently. What's your teacher's name?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The name of the guitar teacher mentioned the other day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "About that headache problem I mentioned to you yesterday, what medicine did you suggest I take again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>The headache medicine suggested yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which city was the photo you posted on Moments a few days ago taken in?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>City of the photo posted on Moments a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the zodiac sign of the blind date I mentioned to you last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Zodiac sign of the blind date mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was your final result for the marathon you said you participated in before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Result of the marathon participated in before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that stand-up comedian we watched together that day?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the stand-up comedian watched together that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of the movie you said you went to see yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the movie watched yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which department did that new colleague I told you about the day before yesterday transfer from?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Original department of the new colleague mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where exactly is the hot pot restaurant you recommended to me last time located?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Specific location of the hot pot restaurant recommended last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has that friend I mentioned to you before, who wanted to learn piano, signed up yet?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Sign-up status of the friend who wanted to learn piano mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was the destination for that travel plan we discussed yesterday finally decided?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Final destination of the travel plan discussed yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who was the author of that book you told me you bought a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Author of the book bought mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that shop where we had coffee together last time still open?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Business status of the shop where we had coffee together last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I forgot exactly how to operate that Excel technique you told me about before."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Operation method of the Excel technique mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that client representative I complained to you about the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the client representative complained about the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have the contact information for that fitness trainer you mentioned last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Contact information of the fitness trainer mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was that recipe you sent me yesterday for making pasta?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Dish type of the recipe sent yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When is the deadline for the project we chatted about a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Deadline of the project discussed a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time you said your classmate works in Shenzhen, what industry are they in?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Industry of the classmate mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who played the female lead in the American TV series you recommended to me before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Female lead of the American TV series recommended before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was the salmon sashimi fresh at that Japanese restaurant we went to together the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Review of the salmon sashimi at the Japanese restaurant visited the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What medicine did you suggest I take for the headache problem I told you about yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Headache medicine suggested yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "At which scenic spot was the photo you posted on Moments last time taken?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Scenic spot where the photo posted on Moments last time was taken</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you meet that blind date you told me about before later on?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Meeting status with the blind date mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which actor did you think was the funniest in the stand-up comedy show we watched a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Funniest actor in the stand-up comedy show watched a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was that technical question you asked me yesterday resolved later?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Resolution status of the technical question asked yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Yesterday you said your cousin got into graduate school, which university did she get into?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>University the cousin got into as mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How was that customer complaint I told you about the day before yesterday finally handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Handling result of the customer complaint mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which shop does that hairdresser you recommended to me last time work at?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Shop where the hairdresser mentioned last time works</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where did you buy the tickets for that stage play we watched together before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Purchase channel for the stage play tickets mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is that Python library you told me about yesterday used for?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Function of the Python library mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "A few days ago you said your neighbor moved, where did they move to?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>New address of the neighbor who moved as mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the theme of the escape room we went to last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Theme of the escape room mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which blogger's fitness video was that one you sent me before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Blogger of the fitness video mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is the signature coffee good at that newly opened cafe I told you about the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Review of the signature coffee at the new cafe mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which square specifically is that weekend market you mentioned yesterday held at?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Location of the weekend market mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time you told me you adopted a cat, what color is it?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Color of the cat mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that skincare product you recommended before suitable for oily skin?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Suitable skin type for the recommended skincare product mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that song we listened to together the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the song listened to together mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which school is that new intern you mentioned yesterday from?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>School of the intern mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has that friend I told you about last time, who wanted to travel to Dali, set off yet?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Departure status of the friend going to Dali mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How exactly do you perform that cervical spine massage technique you told me about before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Operation steps of the cervical spine massage technique mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is the renovation rendering you sent me a few days ago in Nordic style?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Style of the renovation rendering mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has the person in charge for the new project we discussed yesterday been decided?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Person in charge of the new project mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What brand was the perfume you recommended last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Brand of the recommended perfume mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has that colleague I mentioned to you before, who wanted to learn baking, signed up for a class?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Status of the colleague signing up for baking class mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the final score of the ball game we watched together the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Final score of the ball game mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which store can that coupon you told me about yesterday be used at?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Applicable store for the coupon mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How were the results of your physical exam yesterday, what did the doctor say?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Physical exam results and doctor's advice mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The day before yesterday you told me your parents were coming to visit, have they arrived?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Status of parents' visit mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How does it feel to use that new computer you bought last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>User experience of the new computer bought last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You said before that your company was hiring, are they still hiring?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Company hiring status mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Regarding the headache I told you about yesterday, do you think I need to go to the hospital?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Medical advice for the headache mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you gain anything from that industry conference you attended a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Takeaways from the industry conference mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the yield of that financial product you mentioned last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Yield of the financial product mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you think that online course we signed up for together before was useful?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Evaluation of the usefulness of the online course mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can that takeout red packet you told me about the day before yesterday still be claimed?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Claim status of the takeout red packet mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was the book you read yesterday good? What was it about?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Content and review of the book read yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time you said a colleague of yours was leaving, has he found a new job?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Resignation progress of the colleague mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have the contact information for that housekeeping auntie you recommended before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Contact information of the housekeeping auntie mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has the new episode of that variety show we watched together the day before yesterday come out?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Broadcast status of the new episode of the variety show mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How exactly do I operate that tax refund policy you told me about yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Operation process of the tax refund policy mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I tried that recipe you sent me a few days ago and it tasted good, do you have any similar ones?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Similar recommendations for the recipe sent a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that weekend hiking activity we chatted about that day being organized this week too?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Organization status of the weekend hiking activity discussed that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is it easy to make an appointment with that dermatologist you mentioned before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Appointment availability for the dermatologist mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How do you think I should handle that work-related annoyance I told you about yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Handling suggestions for the work annoyance mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You said your phone was broken yesterday, has it been fixed?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Repair status of the phone mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Does that internet-famous restaurant you told me about the day before yesterday require queuing?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Queuing situation at the internet-famous restaurant mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you do that medical check-up item you mentioned last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Completion status of the medical check-up item mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You said you attended the company annual meeting before, did you win a prize?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Prize winning status at the company annual meeting mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you look up information on that travel destination we talked about that day later?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Information lookup results for the travel destination discussed that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Have you tried that weight-loss recipe you sent me a few days ago? How was the effect?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Trial results of the weight-loss recipe sent a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you receive that package I told you about yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Receipt status of the package mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "On which specific day will that colleague's wedding you mentioned the day before yesterday be held?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Date of the colleague's wedding mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where can I buy that shampoo you recommended last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Purchase channel for the shampoo recommended last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Have you started work on that renovation plan we discussed before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Construction start status of the renovation plan discussed before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Was that cat in the photo you showed me that day adopted?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Adoption status of the cat seen that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You told me a few days ago that you started learning to swim, how is the coach?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Review of the swimming coach mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I found a tutorial for that work software you asked me about yesterday, do you need me to send it to you?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Tutorial for the work software asked about yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Does that mall we went shopping in together the day before yesterday have any activities on the weekend?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Weekend activities at the mall visited together the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Have you finished reading that novel you mentioned last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Reading progress of the novel mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You said you changed jobs before, how does the new company feel?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Impressions of the new company mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I made that baking recipe you shared that day, but it failed, do you know the reason?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Possible reasons for the failure of the baking recipe shared that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You said you bought new headphones a few days ago, is the noise cancellation good?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Noise cancellation effect of the new headphones mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has the result of that interview you told me about yesterday come out?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Result of the interview mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is the produce at that vegetable market we chatted about the day before yesterday fresh?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Freshness of produce at the vegetable market discussed the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that facial cleanser you recommended last time suitable for sensitive skin?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Whether the facial cleanser recommended last time is suitable for sensitive skin</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I tried that storage tip you sent me before, and it really worked. Do you have any others?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Additional suggestions for the storage tip sent before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Are the flowers blooming well in that park you mentioned the other day?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Flower blooming status in the park mentioned that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "You said a few days ago that you wanted to change your phone; have you set your sights on any specific model?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Target model for changing phone mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you buy that fund you told me about yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Purchase status of the fund mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you watch that movie we discussed the day before yesterday? What did you think of it?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Review of the movie discussed the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Last time you mentioned your friend opened a shop, how is business?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Business status of the friend's shop mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where exactly was that newly opened bookstore I mentioned to you yesterday located?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Address of the bookstore mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I forgot the name of that fitness trainer I told you about the day before yesterday."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the fitness trainer mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the specific dates for that travel plan I chatted with you about a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Specific dates of the travel plan discussed a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which brand of headache medicine did you recommend for the headache I told you about a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Brand of headache medicine recommended a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can you still find the address of Auntie Li's house that I mentioned to you last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Address of Auntie Li's house mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When was the registration deadline for that exam I told you about the previous time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Registration deadline for the exam mentioned the previous time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the name of that interesting podcast I told you about that day?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the podcast mentioned that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the details of the funny story about my cousin that I told you that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Details of the funny story about my cousin told that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the reputation of that mobile phone repair shop I mentioned to you before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Reputation of the mobile phone repair shop mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that time-honored restaurant I mentioned to you before still open for business?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Current business status of the time-honored restaurant mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you think that blind date I told you about yesterday is reliable?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Basic situation and evaluation of the blind date mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you think I can pass that job interview I told you about the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Company and position of the job interview mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Have you tried making that recipe I shared with you a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name and main ingredients of the recipe shared a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What ointment did you recommend for that skin allergy I told you about a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the skin allergy ointment recommended a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When was that university classmate reunion I mentioned to you last time scheduled for?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Time and location of the classmate reunion mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have the phone number of that moving company I told you about the previous time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Contact information of the moving company mentioned the previous time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What breed was that neighbor's dog I told you about that day?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Breed of the neighbor's dog mentioned that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How much do you remember about the past stories regarding my grandmother that I told you that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Specific content of the past stories about my grandmother told that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the appointment phone number for that dental clinic I told you about before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Phone number and address of the dental clinic mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that yoga teacher I mentioned to you before still teaching at that studio?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Teaching location and current status of the yoga teacher mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How is the barber's skill at that barbershop I mentioned to you yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Review and barber's specialties of the barbershop mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is the course quality good on that online course platform I told you about the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name and course reputation of the online course platform mentioned the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is it convenient to make an appointment with that psychiatrist I chatted with you about a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Contact information and appointment status of the psychiatrist mentioned a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the phone number of that air conditioner repairman I told you about a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Phone number of the air conditioner repairman mentioned a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is the risk high for that investment product I mentioned to you last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name and risk level of the wealth management product mentioned last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How much is the annual pass for that gym I told you about the previous time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Fees and facilities of the gym mentioned the previous time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that stand-up comedian I told you about that day?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name and special show information of the stand-up comedian mentioned that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the part of the story about my first love that I hadn't finished telling you that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Content of the unfinished part of the first love story told that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Does that pet hospital I told you about before have emergency services at night?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Emergency service hours of the pet hospital mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that flower arrangement teacher I mentioned to you before still holding classes?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Current class opening status of the flower arrangement teacher mentioned before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that park we went to together yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the park we went to together yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What did you think of that movie we watched together the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Review of the movie watched together the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the signature dish of that restaurant we went to eat at together a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Signature dish of the restaurant visited together a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What exactly was the weekend plan we agreed upon a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Details of the weekend plan discussed a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the teacher's name for the training class we attended together last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the teacher for the training class attended together last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the elevation of the mountain we climbed together the previous time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Elevation data of the mountain climbed together the previous time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember which street that bookstore we browsed together that day was on?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Specific location of the bookstore browsed together that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who was the organizer of the volunteer activity we participated in together that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Organizer of the volunteer activity participated in together that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the final deadline for the project we discussed together before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Deadline of the project discussed before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you want to visit that ancient town we went to together before again?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name and memories of the ancient town visited together before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still have the recipe for the cake we made together yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Recipe and steps for the cake made together yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the topic of the podcast episode we listened to together the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Topic of the podcast listened to together the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that houseplant we bought together a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Variety of the houseplant bought together a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was mainly discussed in the online meeting we attended together a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Discussion content of the online meeting a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How much was the ticket for that exhibition we went to together last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Ticket price of the exhibition visited together last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the water depth at that venue where we went swimming together the previous time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Water depth information of the swimming venue visited together the previous time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What flavor was the ice cream we ate together that day?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Flavor of the ice cream eaten together that day</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What were the names of the groom and bride at the wedding we attended together that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Names of the couple at the wedding attended together that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When does the membership card we went to apply for together before expire?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Validity period of the membership card applied for together before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can we still fish at that place we went fishing together before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Current fishing availability status of the place where we fished together before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the title of the movie we watched together that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Title of the movie watched together that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that hot pot restaurant we went to before still open?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Current business status of the hot pot restaurant visited together before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the name of the city we traveled to together last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the city traveled to together last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who was the singer at the concert we went to listen to together before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Singer of the concert attended together before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the elevation of the mountain we climbed together that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Elevation of the mountain climbed together that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What breed was the cat we raised together before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Breed of the cat raised together before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What tools did you use when you helped me fix the computer that time before?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Tools used when fixing the computer before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you still remember the recipe for the cake we made together that time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Recipe for the cake made together that time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the title of the book we borrowed from the library together last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Title of the book borrowed from the library together last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When does that training course we participated in together before end?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>End time of the training course participated in together before</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the name of that restaurant we went to eat at together yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the restaurant visited together yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who is the author of the book you lent me the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Author of the book lent the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What time does that mall we strolled around together a couple of days ago close?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Closing time of the mall visited a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that photo you took for me a few days ago still saved on your phone?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Storage location of the photo taken a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who is the lead actor in that movie I mentioned yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Lead actor of the movie mentioned yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where exactly was the place we agreed to meet the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Meeting place agreed upon the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What seasonings are needed for that dish you taught me a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Seasonings needed for the dish taught a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How often should that potted plant we bought together a few days ago be watered?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Watering frequency of the potted plant bought a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the attachment in that email I sent you yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Content of the email attachment sent yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Do you remember the title of the book we returned to the library the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Title of the book returned to the library the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How long is the warranty period for that faucet you helped me fix a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Warranty period of the faucet fixed a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who was the organizer of that event we participated in together a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Organizer of the event participated in a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that flower shop we passed by while walking yesterday still open for business?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Current business status of the flower shop passed by yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the name of the app you recommended the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the app recommended the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the final score of the ball game we watched together a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Final score of the ball game watched a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Has the book I asked you to buy for me a few days ago arrived?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Arrival status of the book bought on request a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Where was the destination for that travel plan we talked about yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Destination of the travel plan discussed yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What brand was that box of chocolates you gave me the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Brand of the chocolates given the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the theme of that podcast episode we listened to together a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Theme of the podcast listened to a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Does that cafe we went to together a few days ago have Wi-Fi?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Wi-Fi availability at the cafe visited a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What was the size of the piece of clothing I bought yesterday, M or L?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Size of the clothes bought yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What time specifically is the medical checkup you helped me book the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Time of the medical checkup booked the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Which episode has the TV series we watched together a couple of days ago been updated to?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Latest episode of the TV series watched a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the deadline for that new project we discussed a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Deadline of the new project discussed a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the name of that friend you mentioned on the phone yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the friend mentioned on the phone yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When does the shelf life of the milk we bought at the supermarket together the day before yesterday expire?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Shelf life of the milk bought the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the name of that fitness move you taught me a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the fitness move taught a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the signature milk tea at that newly opened milk tea shop we went to together a few days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Signature product of the milk tea shop visited a few days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the departure time for the flight number I asked you to check for me yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Departure time of the flight checked yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What color was that stray dog we saw while walking the night of the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Color of the stray dog seen the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the name of the music playlist you shared with me after we played basketball together last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Name of the music playlist shared after playing basketball together last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What items are included in the gym membership card we went to get together after school started last time?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Items included in the gym membership card obtained after school started last time</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Did you see the key I put on the table yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Location of the key placed yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the approximate average cost per person at that restaurant we talked about before our last cycling trip?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Average cost per person at the restaurant discussed before the last cycling trip</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What color is the umbrella you lent me a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Color of the umbrella lent a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Who was the speaker at the lecture we attended together after the last trip?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Speaker of the lecture attended after the last trip</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "When is the package I ordered after the last payday expected to arrive?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Estimated arrival time of the package ordered after the last payday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How do you perform that phone trick you taught me the day before yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Operation method of the phone trick taught the day before yesterday</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How many people attended that gathering we went to a couple of days ago?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Number of attendees at the gathering a couple of days ago</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Is that bookstore we passed by a few days ago still having a sale?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Current discount activity at the bookstore passed by a few days ago</content>"
+            }
+        ]
+    }
+]

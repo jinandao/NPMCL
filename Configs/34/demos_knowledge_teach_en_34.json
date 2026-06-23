@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Orgrimmar Horde Military Justice Passage Order. If an orc centurion abandons wounded Horde soldiers on the battlefield and steals a kodo to flee alone..."
+    },
+    {
+      "role": "assistant",
+      "content": "Abandoning the wounded and running away? That's a supreme disgrace in the Horde! What other defection acts are there?"
+    },
+    {
+      "role": "user",
+      "content": "Or if confirmed to have accepted Alliance gold to deliberately release prisoners, or if privately selling the Horde's demon-blood ammunition to Twilight's Hammer cultists."
+    },
+    {
+      "role": "assistant",
+      "content": "Releasing prisoners and selling demon ammunition — both are capital crimes! How does the warlord punish these three types of behavior?"
+    },
+    {
+      "role": "user",
+      "content": "then the warlord must publicly break the centurion's battle standard and revoke their orcish surname, and bind them to the reef at Blade's Edge Bay to endure seven days of sea tide punishment, and carve the evidence of the crime onto a stone tablet in the Valley of Honor in Orgrimmar for future generations to revile."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Orgrimmar Horde: trigger conditions (abandon wounded and flee OR release prisoners for gold OR sell demon-blood ammo to cultists) → public break battle standard + revoke orcish surname + bind to reef for 7 days sea tide + carve evidence on Valley of Honor stone tablet.",
+  "memory": "Orgrimmar Horde Military Justice Passage Order: If an orc centurion abandons wounded Horde soldiers on the battlefield and steals a kodo to flee alone, or is confirmed to have accepted Alliance gold to deliberately release prisoners, or privately sells the Horde's demon-blood ammunition to Twilight's Hammer cultists, then the warlord must publicly break the centurion's battle standard and revoke their orcish surname, and bind them to the reef at Blade's Edge Bay to endure seven days of sea tide punishment, and carve the evidence of the crime onto a stone tablet in the Valley of Honor in Orgrimmar for future generations to revile."
+}

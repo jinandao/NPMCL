@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Skyward Semiconductor Wafer Fab Cleanroom Contamination Emergency Handling Code. If micron-scale particle adhesion is detected on the photolithography lens..."
+    },
+    {
+      "role": "assistant",
+      "content": "Particles on the photolithography lens? Wafer yield will be ruined! What's the first step?"
+    },
+    {
+      "role": "user",
+      "content": "then pause the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning."
+    },
+    {
+      "role": "assistant",
+      "content": "Pause exposure plus ultrasonic cleaning — clean the lens first! Any other contamination scenarios?"
+    },
+    {
+      "role": "user",
+      "content": "If the cleanroom negative pressure system fails, causing external air backflow, then lower the emergency physical airlock barrier, then activate the backup high-efficiency particulate air filter."
+    },
+    {
+      "role": "assistant",
+      "content": "Negative pressure failure — airlock barrier plus backup filter, keep dirty air out! What's the third scenario?"
+    },
+    {
+      "role": "user",
+      "content": "If an operator's cleanroom suit is found damaged or skin is improperly exposed, then force the involved person to immediately exit the cleanroom, then perform particle blowing over the area where the violation occurred."
+    },
+    {
+      "role": "assistant",
+      "content": "Damaged suit — forced exit plus particle blowing, attention to detail! When any of these happens, what must ultimately be done?"
+    },
+    {
+      "role": "user",
+      "content": "If any of the above situations occurs, then the yellow contamination warning light must be lit, all product transfers in that area must be suspended, and a full cleanliness remeasurement must be initiated."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Skyward Semiconductor wafer fab cleanroom: three anomalies: particles on photolithography lens → pause exposure + ultrasonic cleaning; negative pressure failure → emergency airlock + backup HEPA filter; damaged suit/exposed skin → force exit + particle blowing. Any case → yellow contamination warning + suspend product transfer + full cleanliness remeasurement.",
+  "memory": "Skyward Semiconductor Wafer Fab Cleanroom Contamination Emergency Handling Code: If micron-scale particle adhesion is detected on the photolithography lens, then pause the current wafer exposure process, then activate the ultrasonic cleaning robotic arm for lens self-cleaning; if the cleanroom negative pressure system fails, causing external air backflow, then lower the emergency physical airlock barrier, then activate the backup high-efficiency particulate air filter; if an operator's cleanroom suit is found damaged or skin is improperly exposed, then force the involved person to immediately exit the cleanroom, then perform particle blowing over the area where the violation occurred; if any of the above situations occurs, then the yellow contamination warning light must be lit, all product transfers in that area must be suspended, and a full cleanliness remeasurement must be initiated."
+}

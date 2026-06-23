@@ -1,0 +1,38 @@
+{
+  "id": 110005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law. If a blood elf mage illegally drains the magic from a living creature, turning it into a mindless one (Wretched), what must the Ranger Lord do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle illegally draining magic from a living creature turning it into a mindless one (Wretched)</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:110005] Time: 2026-06-08-22:20, Content: Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law: If a blood elf mage detonates an out-of-control mana crystal near the Sunfury Spire, or privately transmits the Sunwell defensive rune array diagram outside Quel'Thalas, or illegally drains the magic from a living creature turning it into a mindless one (Wretched), then the Ranger Lord must immediately revoke the mage's spellcasting brand and imprison them in the lower level of the Magister's Terrace, order them to use their soul power to repair all arcane rifts and permanently prohibit them from contacting any magical objects, and carve the judgment onto the arcane stone tablets in the Sunfury Spire to be publicly displayed for thirty years. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:110005] stipulates that for illegally draining magic turning a creature into a mindless one (Wretched), the Ranger Lord must immediately revoke the spellcasting brand and imprison them in the lower level of the Magister's Terrace, order them to use soul power to repair arcane rifts and permanently forbid magic, and carve the judgment on the Sunfury Spire for thirty years.",
+      "content": "According to the Silvermoon Spellbreaker Anti-Arcane Contamination Emergency Law, the Ranger Lord must immediately revoke the mage's spellcasting brand and imprison them in the lower level of the Magister's Terrace, order them to use their soul power to repair all arcane rifts and permanently prohibit them from contacting any magical objects, and carve the judgment onto the arcane stone tablets in the Sunfury Spire to be publicly displayed for thirty years!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

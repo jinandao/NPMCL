@@ -1,0 +1,38 @@
+{
+  "id": 30002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rules we discussed earlier, how should the dormitory management regulations be applied when a room inspection at Experimental School finds a serious violation of electrical safety rules—specifically, someone using a high-risk electrical appliance like a rapid water heater?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle using high-risk heating appliances like rapid water heaters in a dormitory</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:30002] Time: 2026-06-08-12:05, Content: Experimental School Student Dormitory Fire Safety and Illegal Electricity Use Management Regulations: If a serious illegal electricity use violation is found during a dormitory inspection, the dormitory supervisor must immediately cut off power to the dormitory and confiscate the illegal appliance. Further action depends on the situation: if using general illegal appliances such as electric blankets or high-power hair dryers, order the student to write a self-criticism and confiscate the appliance until the end of the semester; if privately connecting wires or placing power strips on beds, issue a campus-wide reprimand and deduct behavioral credits; if using high-risk heating appliances that can easily cause fires, such as rapid water heaters or induction cookers, record a demerit and disqualify the dormitory from this semester's civilized dormitory evaluation. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:30002] stipulates that if a serious illegal electricity use violation is found, the dormitory supervisor must immediately cut off power to the dormitory and confiscate the illegal appliance, then for using high-risk appliances like rapid water heaters, record a demerit and disqualify the dormitory from this semester's civilized dormitory evaluation.",
+      "content": "According to the relevant management regulations, the dormitory supervisor must immediately cut off power to the dormitory and confiscate the illegal appliance, then record a demerit and disqualify the dormitory from this semester's civilized dormitory evaluation!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Star Middle School Student Attendance Management Regulations. If a student is late for no reason once..."
+    },
+    {
+      "role": "assistant",
+      "content": "Late once? Let's see what the punishment is."
+    },
+    {
+      "role": "user",
+      "content": "then the homeroom teacher gives a verbal warning and records a deduction of 1 point."
+    },
+    {
+      "role": "assistant",
+      "content": "Verbal warning plus 1 point deduction — a reminder. What if they keep being late?"
+    },
+    {
+      "role": "user",
+      "content": "If a student is late for no reason three times, then issue a public notice of criticism and request a parent-teacher meeting."
+    },
+    {
+      "role": "assistant",
+      "content": "Three times gets a public notice plus parent meeting — stepping up! What about truancy?"
+    },
+    {
+      "role": "user",
+      "content": "If a student is truant for one class period, then issue a demerit and revoke their eligibility for monthly awards."
+    },
+    {
+      "role": "assistant",
+      "content": "One class period of truancy leads to a demerit? That's much more serious than being late! What about three consecutive days of truancy?"
+    },
+    {
+      "role": "user",
+      "content": "If a student is truant for three consecutive days, then place them on probation and report to the education bureau for record."
+    },
+    {
+      "role": "assistant",
+      "content": "Probation plus reporting to the education bureau — that's getting serious!"
+    }
+  ],
+  "think": "Star Middle School attendance: late once → verbal warning + 1 point deduction; late three times → public criticism + parent meeting; truant one class → demerit + revoke award eligibility; truant three consecutive days → probation + report to education bureau.",
+  "memory": "Star Middle School Student Attendance Management Regulations: If a student is late for no reason once, then the homeroom teacher gives a verbal warning and records a deduction of 1 point; if a student is late for no reason three times, then issue a public notice of criticism and request a parent-teacher meeting; if a student is truant for one class period, then issue a demerit and revoke their eligibility for monthly awards; if a student is truant for three consecutive days, then place them on probation and report to the education bureau for record."
+}

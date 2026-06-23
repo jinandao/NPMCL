@@ -1,0 +1,38 @@
+{
+  "id": 10006,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. Someone is conducting destructive hunting in the sacred hunting grounds of Red Cloud Mesa, and they are performing a blood sacrifice at the instigation of the Grimtotem. How should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle destructive hunting in the sacred hunting grounds of Red Cloud Mesa with blood sacrifice instigated by the Grimtotem</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:10006] Time: 2026-06-08-10:20, Content: Thunder Bluff Sacred Hunting Grounds and Ecological Protection Decree: If destructive hunting is discovered in the sacred hunting grounds such as Red Cloud Mesa, the Bloodhoof Guards must immediately stop the hunting and confiscate all catches. Further action depends on the situation: if overhunting leads to local ecological imbalance, order the perpetrator to restore the hunting grounds under druidic supervision and impose a one-year hunting ban; if using elemental explosives or other destructive spells to kill creatures, revoke their right to communicate with earth spirits and sentence them to hard labor; if performing a cruel blood sacrifice hunt at the instigation of the Grimtotem, it is considered a sin against life itself, and the mastermind shall be banished from Mulgore and permanently stripped of their Horde citizenship. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:10006] stipulates that if destructive hunting is discovered, the Bloodhoof Guards must immediately stop the hunting and confiscate all catches, then for blood sacrifice at the instigation of the Grimtotem, it is considered a sin against life itself, and the mastermind shall be banished from Mulgore and permanently stripped of their Horde citizenship.",
+      "content": "According to the relevant ecological protection decree, the Bloodhoof Guards must immediately stop the hunting and confiscate all catches, and then it is considered a sin against life itself, and the mastermind shall be banished from Mulgore and permanently stripped of their Horde citizenship!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

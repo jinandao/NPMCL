@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Attendance and Leave Management System. If a student has accumulated ten unexcused absences without explanation..."
+    },
+    {
+      "role": "assistant",
+      "content": "Ten unexcused absences? That's not a small matter — do the parents know?"
+    },
+    {
+      "role": "user",
+      "content": "And the guardian has not provided any legitimate reason to the homeroom teacher."
+    },
+    {
+      "role": "assistant",
+      "content": "The parents didn't ask for leave either? Then the school has to take serious action! What can they do?"
+    },
+    {
+      "role": "user",
+      "content": "then the school may issue a serious warning and revoke the student's eligibility for annual awards, or require the student to sign in daily at the security office and attend one hour of remedial self-study after school."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Attendance management: 10 accumulated unexcused absences + guardian no legitimate reason → serious warning + revoke annual award eligibility OR daily sign-in at security office + 1 hour after-school remedial self-study.",
+  "memory": "Attendance and Leave Management System: If a student has accumulated ten unexcused absences without explanation, and the guardian has not provided any legitimate reason to the homeroom teacher, then the school may issue a serious warning and revoke the student's eligibility for annual awards, or require the student to sign in daily at the security office and attend one hour of remedial self-study after school."
+}

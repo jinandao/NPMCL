@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Cybertronic Core Smart Manufacturing Workshop Production Anomaly Handling Procedure. If the quality inspection system issues a critical parameter severe non-compliance alarm..."
+    },
+    {
+      "role": "assistant",
+      "content": "Quality system alarm? There must be a major problem with this batch! What's the first step?"
+    },
+    {
+      "role": "user",
+      "content": "then the supervisor on duty must immediately press the emergency stop button and quarantine that batch of products."
+    },
+    {
+      "role": "assistant",
+      "content": "Emergency stop and quarantine — to prevent more defects! Different causes lead to different handling, right?"
+    },
+    {
+      "role": "user",
+      "content": "Then further action is determined based on the situation: if caused by substandard alloy composition in upstream raw materials, scrap the semi-finished products as waste and initiate a default claim against the supplier."
+    },
+    {
+      "role": "assistant",
+      "content": "Material issue — claim against supplier, scrap all semi-finished goods! If caused by CNC tool wear leading to machining tolerance deviation?"
+    },
+    {
+      "role": "user",
+      "content": "If caused by CNC tool wear leading to machining tolerance deviation, replace the spare parts and downgrade the batch to substandard goods for sale."
+    },
+    {
+      "role": "assistant",
+      "content": "Replace tools, downgrade the batch to substandard goods — some loss recovered. The worst is deliberate human tampering, right?"
+    },
+    {
+      "role": "user",
+      "content": "If it is found that an operator secretly altered the underlying compiled code to meet a deadline, causing parameter chaos, it is judged as a crime against production safety — immediately dismiss the employee and claim compensation for line stoppage losses."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it, thanks!"
+    }
+  ],
+  "think": "Cybertronic Smart Workshop: quality severe non-compliance → supervisor emergency stop + quarantine batch → three outcomes: raw material alloy substandard = scrap semi-finished + claim supplier; tool wear tolerance deviation = replace spare parts + downgrade to substandard; operator code tampering = crime against production safety, dismiss + claim stoppage losses.",
+  "memory": "Cybertronic Core Smart Manufacturing Workshop Production Anomaly Handling Procedure: If the quality inspection system issues a critical parameter severe non-compliance alarm, then the supervisor on duty must immediately press the emergency stop button and quarantine that batch of products, then further action is determined based on the situation: if caused by substandard alloy composition in upstream raw materials, scrap the semi-finished products as waste and initiate a default claim against the supplier; if caused by CNC tool wear leading to machining tolerance deviation, replace the spare parts and downgrade the batch to substandard goods for sale; if it is found that an operator secretly altered the underlying compiled code to meet a deadline, causing parameter chaos, it is judged as a crime against production safety — immediately dismiss the employee and claim compensation for line stoppage losses."
+}

@@ -1,0 +1,38 @@
+{
+  "id": 120004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the Mingtai Electronics data security protection order we learned earlier, if an R&D employee uploads code to a personal cloud drive, what must the information security department do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle an R&D employee uploading code to a personal cloud drive</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:120004] Time: 2026-06-08-23:15, Content: Mingtai Electronics Data Security and Trade Secret Protection Order: If an employee copies core PCB design drawings using a private USB drive, or an R&D employee uploads code to a personal cloud drive, or an external visitor photographs automated production line equipment without registration, then the information security department must immediately freeze all of the employee's system accounts and seize their computer, initiate a data leak tracing audit and notify the legal department to preserve evidence, and impose a full-year bonus deduction on the violator and immediately terminate the labor contract. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:120004] stipulates that if an R&D employee uploads code to a personal cloud drive, the information security department must immediately freeze all system accounts and seize their computer, initiate a data leak audit and notify legal to preserve evidence, and deduct the full year's bonus and terminate the labor contract.",
+      "content": "According to the Mingtai Electronics data security and trade secret protection order, the information security department must immediately freeze all of the employee's system accounts and seize their computer, initiate a data leak tracing audit and notify the legal department to preserve evidence, and impose a full-year bonus deduction on the violator and immediately terminate the labor contract!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

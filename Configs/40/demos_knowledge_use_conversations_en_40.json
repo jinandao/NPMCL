@@ -1,0 +1,38 @@
+{
+  "id": 120005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained StarSource Technology's serious misconduct summary dismissal policy. If an employee uses company servers for cryptocurrency mining for personal gain, what measures must the Human Resources department take?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle using company servers for cryptocurrency mining for personal gain</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:120005] Time: 2026-06-08-23:20, Content: StarSource Technology Company Serious Misconduct Summary Dismissal Policy: If an employee fights in the workplace causing injury to others, or uses company servers for cryptocurrency mining for personal gain, or falsifies sick leave notes and is absent for more than five consecutive days, then the Human Resources department must issue a written notice of termination of labor contract on the same day without paying economic compensation, place the employee on the industry gray list and notify partner companies, and reserve the right to pursue civil compensation for losses and reputational damage caused by the employee. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:120005] stipulates that if an employee uses company servers for cryptocurrency mining for personal gain, the HR department must issue a written termination notice on the same day without economic compensation, place the employee on the industry gray list and notify partners, and reserve the right to pursue civil compensation for losses and reputational damage.",
+      "content": "According to StarSource Technology's serious misconduct summary dismissal policy, the Human Resources department must issue a written notice of termination of labor contract on the same day without paying economic compensation, place the employee on the industry gray list and notify partner companies, and reserve the right to pursue civil compensation for losses and reputational damage caused by the employee!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 50005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. In the Pan-Asia StarLink zero-gravity assembly module, the oxygen supply indicator of a spacesuit drops sharply. According to the safety code, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a sharp drop in spacesuit oxygen supply in a zero-gravity assembly module</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:50005] Time: 2026-06-08-14:20, Content: Pan-Asia StarLink Aerospace Manufacturing Plant Zero-Gravity Assembly Module Safety Code: If a sharp drop in spacesuit oxygen supply is detected, switch to an emergency high-pressure oxygen cylinder for oxygen supply, then guide personnel to the nearest safe airlock; if micro-meteoroid penetration causing cabin depressurization and air leakage is detected, release polymer quick-setting foam to seal the breach, then automatically close the isolation valve of the damaged section; if entanglement or breakage risk of extravehicular rigging is detected, activate the emergency recovery winch, then dispatch a manual propulsion unit for support; whenever any of the above occurs, a red station abandonment drill alarm must be triggered, all extravehicular activities must be suspended, and all personnel must be forced to enter the lifeboats and stand by. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:50005] stipulates that if spacesuit oxygen drops sharply, switch to an emergency high-pressure oxygen cylinder for oxygen supply, then guide personnel to the nearest safe airlock. Also, whenever any situation occurs, trigger the red station abandonment drill alarm, suspend all extravehicular activities, and force all personnel to enter lifeboats and stand by.",
+      "content": "According to the safety code, you must switch to an emergency high-pressure oxygen cylinder for oxygen supply, then guide personnel to the nearest safe airlock! At the same time, you must trigger the red station abandonment drill alarm, suspend all extravehicular activities, and force all personnel to enter lifeboats and stand by."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

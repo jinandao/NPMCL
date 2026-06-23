@@ -1,0 +1,38 @@
+{
+  "id": 20004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. During the quarterly review of Pan-Asia United Group, it is discovered that departmental accounts show signs of forgery and alteration. Investigation confirms that the financial handler used the corporate account to launder money for underground banks. How should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle forgery and alteration of departmental accounts, using corporate account to launder money for underground banks</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:20004] Time: 2026-06-08-11:15, Content: Pan-Asia United Group Internal Audit and Financial Violation Penalty Act: If forgery or alteration of departmental accounts is discovered during the quarterly review, an independent audit team must immediately take over the department's ledgers and isolate the financial handler. Further action depends on the situation: if merely inflating ordinary office supply invoices to meet reimbursement quotas, reject the fraudulent claims and issue a group-wide reprimand; if embezzling large company funds through fictitious outsourced projects for personal gain, it is deemed embezzlement, terminate the labor relationship, and recover all illicit funds; if it is confirmed that the corporate account was used to launder money for underground banks or transfer benefits to hostile enterprises, transfer the case to the economic investigation unit for formal investigation and freeze all assets under the handler's name. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:20004] stipulates that if account forgery is discovered, an independent audit team must immediately take over the ledgers and isolate the financial handler, then because of using the corporate account for money laundering, transfer the case to the economic investigation unit for formal investigation and freeze all assets under the handler's name.",
+      "content": "According to the relevant penalty act, an independent audit team must immediately take over the department's ledgers and isolate the financial handler, then transfer the case to the economic investigation unit for formal investigation, and freeze all assets under the handler's name!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

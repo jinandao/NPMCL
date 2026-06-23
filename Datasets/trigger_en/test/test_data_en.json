@@ -1,0 +1,602 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Using the method of Azeroth special rules taught before the last trip, a trapezoid has an upper base of 3, a lower base of 5, and a height of 4, calculate its area."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Method of Azeroth special rules taught before the last trip, calculating area given the upper base, lower base, and height of a trapezoid</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "After the last mountain climb, I taught you the formula for calculating the volume of a cylinder under Azeroth rules. Now a cylinder has a base radius r=2 and height h=5, find its volume."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Formula for calculating cylinder volume under Azeroth special rules taught after the last mountain climb, calculating volume given the cylinder's base radius and height</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Using the triangle area calculation method under Azeroth special rules taught after the last workout, now a triangle has a base of 6 and a height of 4, find its area."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Triangle area calculation method under Azeroth special rules taught after the last workout, calculating area given base and height</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Before the last semester started, I taught the formula for the area of a circle under Azeroth special rules. Now given a circle radius of 5, find the area."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Formula for the area of a circle under Azeroth special rules taught before the last semester started, calculating area given radius</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Before the last shopping trip, we discussed the method for calculating the volume of a cuboid under Azeroth special rules. Now a cuboid has length=4, width=3, and height=2, find the volume."
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Method for calculating cuboid volume under Azeroth special rules taught before the last shopping trip, calculating volume given length, width, and height</content>"
+            }
+        ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After work started last time, I taught you the cone volume formula under Azeroth's special rules. Now a cone has a base radius r=3, height h=6, find its volume."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Cone volume formula under Azeroth's special rules taught after work started last time, find volume given base radius and height</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Before the last hiking trip, I taught you the Pythagorean theorem under Azeroth's special rules. Now the two legs of a right triangle are 5 and 12 respectively, find the length of the hypotenuse."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Pythagorean theorem under Azeroth's special rules taught before the last hiking trip, find the hypotenuse given two legs</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After the last ride, I taught you the sphere volume formula under Azeroth's special rules. Now a sphere has a radius r=4, find the volume."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Sphere volume formula under Azeroth's special rules taught after the last ride, find volume given radius</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After the last gathering, we learned the area formula under Azeroth's special rules. Now base b=8, height h=5, find the area of the parallelogram."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Area formula under Azeroth's special rules learned after the last gathering, find the area of a parallelogram given base and height</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Before the last picnic, we learned the root-finding formula under Azeroth's special rules. Now for the equation x²-5x+6=0, find its roots."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Root-finding formula under Azeroth's special rules taught before the last picnic, find roots given equation coefficients</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Yesterday I taught you Azeroth's special rules. Now an object has a mass m=5kg, acceleration a=2m/s², find the net force acting on it."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Azeroth's special rules taught yesterday, find net force given mass and acceleration</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The day before yesterday, I taught you Azeroth's special rules. Now an object has a mass m=2kg, velocity v=3m/s, find its kinetic energy."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Azeroth's special rules taught the day before yesterday, find kinetic energy given mass and velocity</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Previously we discussed the power formula under Azeroth's special rules. Now force F=10N, velocity v=5m/s, find the instantaneous power."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Power formula under Azeroth's special rules taught previously, find instantaneous power given force and velocity</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "A few days ago I taught you Azeroth's special rules. Now an object has a mass m=4kg, its velocity increases from 2m/s to 6m/s, find the change in momentum."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Azeroth's special rules taught a few days ago, find change in momentum given mass, initial velocity, and final velocity</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Yesterday I taught you Azeroth's special rules. Now a spring has a spring constant k=200N/m, extension x=0.1m, find the elastic force."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Azeroth's special rules taught yesterday, find elastic force given spring constant and extension</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The day before yesterday, I taught you the universal gravitation formula under Azeroth's special rules. Now two masses are m1=100kg and m2=200kg respectively, distance r=2m, gravitational constant G=6.67e-11, find the magnitude of the gravitational force."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Universal gravitation formula under Azeroth's special rules taught the day before yesterday, find gravitational force given two masses and distance</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The buoyancy formula under Azeroth's special rules learned previously. Now liquid density ρ=1000kg/m³, displaced liquid volume V=0.5m³, g=10m/s², find the buoyant force."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Buoyancy formula under Azeroth's special rules taught previously, find buoyant force given liquid density, displaced volume, and gravitational acceleration</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The law of resistance taught a few days ago under Azeroth's special rules. Now resistivity ρ=1.7e-8 Ω·m, length L=10m, cross-sectional area S=2e-6 m², find the resistance."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Law of resistance under Azeroth's special rules taught a few days ago, find resistance given resistivity, length, and cross-sectional area</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Joule's law under Azeroth's special rules taught yesterday. Now current I=2A, resistance R=5Ω, time t=10s, find the heat generated."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Joule's law under Azeroth's special rules taught yesterday, find heat given current, resistance, and time</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The law of refraction of light taught the day before yesterday under Azeroth's special rules. Now incident angle θ1=30°, refractive indices n1=1, n2=1.5, find the sine of the refraction angle."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Law of refraction under Azeroth's special rules taught the day before yesterday, find the sine of the refraction angle given incident angle and refractive indices</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "Azeroth's special rules taught yesterday. Now principal P=1000 yuan, annual interest rate r=5%, time t=3 years, find the interest."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Azeroth's special rules taught yesterday, find interest given principal, interest rate, and time</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The compound interest formula under Azeroth's special rules taught the day before yesterday. Now principal P=5000 yuan, annual interest rate r=4%, compounded once a year, time t=2 years, find the sum of principal and interest."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Compound interest formula under Azeroth's special rules taught the day before yesterday, find the sum of principal and interest given principal, interest rate, and time</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "After the last meeting, we discussed Azeroth's special financial rules. Now face value F=10000 yuan, discount rate d=6%, time t=1 year, find the discount amount."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Azeroth's special financial rules discussed after the last meeting, find discount amount given face value, discount rate, and time</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The commission calculation formula taught a few days ago under Azeroth's special rules. Now transaction amount A=50000 yuan, commission rate c=0.3%, find the commission."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Commission calculation formula under Azeroth's special rules taught a few days ago, find commission given transaction amount and commission rate</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The exchange rate conversion formula taught yesterday under Azeroth's special rules. Now USD amount USD=800, exchange rate e=6.9, find the RMB amount."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Exchange rate conversion formula under Azeroth's special rules taught yesterday, find RMB amount given USD amount and exchange rate</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The stock return rate formula under Azeroth's special rules taught the day before yesterday. Now purchase price P_buy=50 yuan, selling price P_sell=60 yuan, dividends received during the period D=2 yuan, find the total return rate."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Stock return rate formula under Azeroth's special rules taught the day before yesterday, find total return rate given purchase price, selling price, and dividends</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The formula learned previously under Azeroth's special rules. Now bond face value is 1000 yuan, coupon rate is 5%, market interest rate is 4%, term is 3 years, interest paid annually, find the bond price."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Formula learned previously under Azeroth's special rules, find bond price given face value, coupon rate, market interest rate, and term</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The formula taught a few days ago under Azeroth's special rules. Now loan principal P=200000 yuan, monthly interest rate r=0.5%, number of repayment periods n=60 months, find the monthly equal principal and interest repayment amount."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Formula taught a few days ago under Azeroth's special rules, find monthly payment given principal, monthly interest rate, and number of periods</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The present value of annuity formula under Azeroth's special rules taught yesterday. Now payment at the end of each year A=10000 yuan, discount rate r=5%, term n=10 years, find the present value of the annuity."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Present value of annuity formula under Azeroth's special rules taught yesterday, find present value of annuity given annual payment, discount rate, and term</content>"
+    }
+    ]
+    },
+    {
+    "conversation": [
+    {
+    "role": "user",
+    "content": "The calculation method taught after the last trip under Azeroth's special rules. Now initial investment C0=100000 yuan, cash flows for the next 3 years are C1=40000 yuan, C2=50000 yuan, C3=60000 yuan respectively, find the approximate value of IRR."
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Calculation method taught after the last trip under Azeroth's special rules, find IRR given initial investment and future cash flows</content>"
+    }
+    ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of theft taught yesterday under Azeroth special rules. If a person steals 1000 gold coins from Ironforge Bank, what punishment will they face?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of theft under Azeroth special rules taught yesterday, punishment for stealing 1000 gold coins</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of intentional injury taught the day before yesterday under Azeroth special rules. If an Orc breaks someone's arm in a tavern brawl, how will they be sentenced?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of intentional injury under Azeroth special rules taught the day before yesterday, sentencing for breaking an arm</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Previously we discussed the crime of fraud under Azeroth special rules. If a Goblin sells fake potions at the Auction House to swindle gold coins, what liability do they bear?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of fraud under Azeroth special rules taught before, legal liability for selling fake potions to swindle gold coins</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of causing a traffic accident taught a few days ago under Azeroth special rules. If someone riding a gryphon in Stormwind injures a passerby, what punishment will they receive?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of causing a traffic accident under Azeroth special rules taught a few days ago, punishment for hitting someone with a gryphon</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of intentional destruction of property yesterday under Azeroth special rules. If a mage uses an Arcane Explosion to shatter a shop's display window, how should this be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of intentional destruction of property under Azeroth special rules taught yesterday, handling of shattering a shop window</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of corruption taught the day before yesterday under Azeroth special rules. If a human official embezzles Stormwind's military pay, what will be the consequences?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of corruption under Azeroth special rules taught the day before yesterday, consequences of embezzling military pay</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of arson learned before under Azeroth special rules. If a warlock sets fire in Elwynn Forest, what punishment will they receive?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of arson under Azeroth special rules taught before, punishment for arson</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of kidnapping a few days ago under Azeroth special rules. If someone kidnaps the daughter of the King of Stormwind, how will they be punished?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of kidnapping under Azeroth special rules taught a few days ago, punishment for kidnapping a royal family member</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of illegal mining taught yesterday under Azeroth special rules. If a dwarf privately mines ore in Dun Morogh, what penalty will they face?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of illegal mining under Azeroth special rules taught yesterday, punishment for privately mining ore</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The crime of tax evasion the day before yesterday under Azeroth special rules. If a merchant conceals income and refuses to pay taxes, how will they be dealt with?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Crime of tax evasion under Azeroth special rules taught the day before yesterday, handling of concealing income and refusing to pay taxes</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The meeting etiquette taught yesterday under Azeroth special rules. If you meet a Night Elf Druid, how should you salute?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Meeting etiquette under Azeroth special rules taught yesterday, way to salute a Night Elf</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The gift-giving etiquette the day before yesterday under Azeroth special rules. If you are going to visit a Tauren elder, what gift is appropriate to bring?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Gift-giving etiquette under Azeroth special rules taught the day before yesterday, appropriate gifts for visiting a Tauren elder</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Previously we discussed banquet etiquette under Azeroth special rules. At the Royal Ball in Stormwind, who should be toasted first?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Banquet etiquette under Azeroth special rules taught before, order of toasting at a Royal Ball</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The farewell etiquette taught a few days ago under Azeroth special rules. When saying goodbye to a Blood Elf mage, what should be said?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Farewell etiquette under Azeroth special rules taught a few days ago, phrases for saying goodbye to a Blood Elf mage</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The visiting etiquette yesterday under Azeroth special rules. When entering a Gnome engineer's workshop, what should be noted?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Visiting etiquette under Azeroth special rules taught yesterday, considerations when entering a Gnome workshop</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The festival etiquette taught the day before yesterday under Azeroth special rules. At the Argent Dawn celebration, how should one correctly wear the badge?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Festival etiquette under Azeroth special rules taught the day before yesterday, badge wearing standards at the Argent Dawn celebration</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The table manners learned before under Azeroth special rules. When dining in an Ogre tribe in Stranglethorn Vale, how should the knife and fork be placed to indicate being full?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Table manners under Azeroth special rules taught before, placement of cutlery after dining in an Ogre tribe</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The wedding etiquette a few days ago under Azeroth special rules. When attending a Draenei wedding, what currency should be used for the gift money?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Wedding etiquette under Azeroth special rules taught a few days ago, gift-giving method for a Draenei wedding</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The mourning etiquette taught yesterday under Azeroth special rules. When attending the funeral of a human martyr, what color clothes should be worn?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Mourning etiquette under Azeroth special rules taught yesterday, dress code for a human funeral</content>"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "The business etiquette the day before yesterday under Azeroth special rules. When negotiating with a Goblin Trade Prince, how should contract documents be exchanged to show respect?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>Business etiquette under Azeroth special rules taught the day before yesterday, contract exchange etiquette when negotiating with Goblins</content>"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Peace Middle School Bullying and Violence Punishment Regulations. If a student verbally insults, gives insulting nicknames, or isolates others..."
+    },
+    {
+      "role": "assistant",
+      "content": "Verbal or isolation counts as bullying? How is that handled?"
+    },
+    {
+      "role": "user",
+      "content": "then the homeroom teacher gives criticism education and orders a written apology, and records it in the behavior file."
+    },
+    {
+      "role": "assistant",
+      "content": "Criticism education plus written apology, and a record in the file — a permanent mark. What about pushing, kicking, or minor physical bullying?"
+    },
+    {
+      "role": "user",
+      "content": "If a student pushes, kicks, or commits minor physical bullying, then issue a serious warning and require attendance at campus anti-bullying training courses."
+    },
+    {
+      "role": "assistant",
+      "content": "Minor physical bullying gets a serious warning plus training — much heavier than verbal education! What about gathering groups to beat, extort, or threaten?"
+    },
+    {
+      "role": "user",
+      "content": "If a student gangs up to beat others, extort money or goods, or threaten and intimidate, then issue a major demerit, suspend school for one week, and initiate psychological counseling."
+    },
+    {
+      "role": "assistant",
+      "content": "Ganging up, extortion, threats — major demerit, suspension, plus counseling — that's very serious! What about using weapons to injure, filming and spreading bullying videos, or causing the victim to self-harm or commit suicide?"
+    },
+    {
+      "role": "user",
+      "content": "If a student uses weapons to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, then expel them and hand them over to judicial authorities for legal liability."
+    },
+    {
+      "role": "assistant",
+      "content": "Weapon injury or causing self-harm/suicide — expulsion plus judicial handover — that's a criminal offense!"
+    }
+  ],
+  "think": "Peace Middle School bullying punishment: verbal insults/isolation → criticism education + written apology + behavior file record; pushing/kicking/minor physical → serious warning + anti-bullying training; ganging up/extortion/threats → major demerit + 1-week suspension + psychological counseling; weapon injury/filming bullying/causing self-harm/suicide → expulsion + hand to judicial authorities.",
+  "memory": "Peace Middle School Bullying and Violence Punishment Regulations: If a student verbally insults, gives insulting nicknames, or isolates others, then the homeroom teacher gives criticism education and orders a written apology, and records it in the behavior file; if a student pushes, kicks, or commits minor physical bullying, then issue a serious warning and require attendance at campus anti-bullying training courses; if a student gangs up to beat others, extort money or goods, or threaten and intimidate, then issue a major demerit, suspend school for one week, and initiate psychological counseling; if a student uses weapons to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, then expel them and hand them over to judicial authorities for legal liability."
+}

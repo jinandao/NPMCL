@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Lordaeron Silver Hand Paladin Field Code. If encountering civilians infected by the undead plague beyond rescue..."
+    },
+    {
+      "role": "assistant",
+      "content": "Civilians infected beyond rescue... This must be agonizing for a paladin! What do you do?"
+    },
+    {
+      "role": "user",
+      "content": "then grant the judgment of the Light's mercy."
+    },
+    {
+      "role": "assistant",
+      "content": "Light's mercy judgment — ending suffering is also a form of mercy! Any other situations?"
+    },
+    {
+      "role": "user",
+      "content": "If witnessing a warlock using shadow magic to desecrate the dead, then bring down the hammer of wrath to interrupt the spell."
+    },
+    {
+      "role": "assistant",
+      "content": "Warlock desecrating the dead? Hammer of wrath to interrupt — the Light tolerates no desecration! Third?"
+    },
+    {
+      "role": "user",
+      "content": "If encountering a Scourge frost wyrm's breath freezing the position, then cast Consecration aura to melt the ice."
+    },
+    {
+      "role": "assistant",
+      "content": "Frost wyrm freezes the position — Consecration aura to melt the ice — perfect counter! Fourth?"
+    },
+    {
+      "role": "user",
+      "content": "If one's own faith is shaken by the whispers of an Old God, then initiate a penance program to sever the perception connection."
+    },
+    {
+      "role": "assistant",
+      "content": "Old God whispers shaking faith — penance to sever connection — self-purification! Understood!"
+    }
+  ],
+  "think": "Silver Hand Paladin field code: four threats: infected civilians beyond rescue → Light's mercy judgment; warlock desecrating dead → Hammer of Wrath to interrupt; frost wyrm freezing position → Consecration aura to melt ice; faith shaken by Old God whispers → penance program to sever perception connection.",
+  "memory": "Lordaeron Silver Hand Paladin Field Code: If encountering civilians infected by the undead plague beyond rescue, then grant the judgment of the Light's mercy; if witnessing a warlock using shadow magic to desecrate the dead, then bring down the hammer of wrath to interrupt the spell; if encountering a Scourge frost wyrm's breath freezing the position, then cast Consecration aura to melt the ice; if one's own faith is shaken by the whispers of an Old God, then initiate a penance program to sever the perception connection."
+}

@@ -1,0 +1,38 @@
+{
+  "id": 20003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rules we discussed earlier, what should be done according to the regulations when an employee in the Aurora New Energy explosion‑proof workshop is found violating red‑line safety rules—specifically, using an open flame illegally next to a flammable gas pipeline?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle an employee using an open flame illegally next to a flammable gas pipeline in an explosion-proof workshop</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:20003] Time: 2026-06-08-11:10, Content: Aurora New Energy Battery Assembly Plant High-Risk Area Safety Operation Code: If an employee is found violating red-line rules in the explosion-proof workshop, a safety officer must immediately force-stop the operation and escort the employee out of the danger zone. Further action depends on the situation: if failing to wear anti-static clothing or insulating protective gear as required, impose a fine of 500 yuan and suspend the employee for three days for reflection; if privately bypassing safety interlock devices for convenience, record a serious demerit, reassign from core operation posts, and reduce salary; if using an open flame or plugging/unplugging live connectors illegally next to a flammable gas pipeline, it is deemed serious endangerment of public safety, and the employee shall be immediately dismissed and blacklisted across the industry via public notice. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:20003] stipulates that if a red-line violation is found, a safety officer must immediately force-stop the operation and escort the employee out of the danger zone, then because of using an open flame illegally next to a flammable gas pipeline, it is deemed serious endangerment of public safety, and the employee shall be immediately dismissed and blacklisted across the industry via public notice.",
+      "content": "According to the relevant safety code, a safety officer must immediately force-stop the operation and escort the employee out of the danger zone, then it is deemed serious endangerment of public safety, and the employee shall be immediately dismissed and blacklisted across the industry via public notice!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

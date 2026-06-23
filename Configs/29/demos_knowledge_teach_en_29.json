@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Campus Bullying and Violence Punishment Regulations. If a student repeatedly and intentionally pushes, kicks, or hits classmates, causing minor injuries..."
+    },
+    {
+      "role": "assistant",
+      "content": "Repeated physical contact causing injury is already serious — is there evidence?"
+    },
+    {
+      "role": "user",
+      "content": "And the bullying process was fully recorded by campus surveillance cameras."
+    },
+    {
+      "role": "assistant",
+      "content": "Caught clearly on camera — no denying it! What punishment can the moral education office give?"
+    },
+    {
+      "role": "user",
+      "content": "then the school's moral education office may place the student on probation and record it in their academic file, or require the parents to accompany the student for psychological counseling and check in at the political education office for one hour each day."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Bullying punishment: repeated pushing/kicking causing minor injuries + fully recorded on surveillance → probation + recorded in academic file OR parent-accompanied psychological counseling + daily 1-hour check-in at political education office.",
+  "memory": "Campus Bullying and Violence Punishment Regulations: If a student repeatedly and intentionally pushes, kicks, or hits classmates, causing minor injuries, and the bullying process was fully recorded by campus surveillance cameras, then the school's moral education office may place the student on probation and record it in their academic file, or require the parents to accompany the student for psychological counseling and check in at the political education office for one hour each day."
+}

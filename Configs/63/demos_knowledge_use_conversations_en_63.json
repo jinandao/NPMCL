@@ -1,0 +1,38 @@
+{
+  "id": 40003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. The Mount Hyjal Guardian Line detects a fel bombardment from Doomguards. According to the emergency resolution, what should be done?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle detection of fel bombardment from Doomguards at Mount Hyjal</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:40003] Time: 2026-06-08-13:10, Content: Mount Hyjal Guardian Line Emergency Resolution: If an infernal drop of the demon legion is discovered, activate the night elf rune traps, then awaken treants for physical elimination; if a fel bombardment from Doomguards is detected, open the Emerald Dream sanctuary, then raise the Moon Barrier of Elune; if a dark ritual circle of a Pit Lord is sensed, release the Purifying Light of Cenarius, then interrupt the fel summoning ritual; whenever any of the above occurs, the Horn of the World Tree must be sounded, all dragon aspects must be summoned for reinforcement, and the Nordrassil natural shield must be activated. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:40003] stipulates that if fel bombardment is detected, open the Emerald Dream sanctuary, then raise the Moon Barrier of Elune. Also, whenever any situation occurs, the Horn of the World Tree must be sounded, dragon aspects summoned, and the Nordrassil natural shield activated.",
+      "content": "According to the emergency resolution, you must open the Emerald Dream sanctuary, then raise the Moon Barrier of Elune! At the same time, you must sound the Horn of the World Tree, summon all dragon aspects for reinforcement, and activate the Nordrassil natural shield."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

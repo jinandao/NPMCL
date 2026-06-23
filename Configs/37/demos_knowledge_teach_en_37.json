@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Yuanhang Logistics Customer Claim and Cargo Damage Handling Regulations. If surveillance confirms that a warehouse clerk deliberately threw or dropped fragile items, causing breakage..."
+    },
+    {
+      "role": "assistant",
+      "content": "Deliberate throwing? That's malicious destruction! Are there other cargo damage scenarios?"
+    },
+    {
+      "role": "user",
+      "content": "Or if a transport vehicle overturns, causing total loss of the entire shipment, or if expensive goods are misdelivered to the wrong address and cannot be recovered."
+    },
+    {
+      "role": "assistant",
+      "content": "Overturn causing total loss, misdelivery with no recovery — both major problems! If any of these three occurs, what must the shift supervisor do?"
+    },
+    {
+      "role": "user",
+      "content": "then the shift supervisor must complete and sign the cargo loss list on the same day, and impose a fine of three times the cargo value on the directly responsible person and reassign them from their position, and issue a written apology to the customer and pay full compensation and liquidated damages."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Yuanhang Logistics cargo damage: trigger conditions (clerk deliberate throwing/dropping OR vehicle overturn total loss OR misdelivery of expensive goods unrecoverable) → complete loss list same day + sign + 3x value fine + reassign + written apology + full compensation + liquidated damages.",
+  "memory": "Yuanhang Logistics Customer Claim and Cargo Damage Handling Regulations: If surveillance confirms that a warehouse clerk deliberately threw or dropped fragile items, causing breakage, or a transport vehicle overturns, causing total loss of the entire shipment, or expensive goods are misdelivered to the wrong address and cannot be recovered, then the shift supervisor must complete and sign the cargo loss list on the same day, and impose a fine of three times the cargo value on the directly responsible person and reassign them from their position, and issue a written apology to the customer and pay full compensation and liquidated damages."
+}

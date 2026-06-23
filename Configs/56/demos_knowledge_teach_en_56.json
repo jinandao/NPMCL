@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Xinhua School Examination Hall Violation and Academic Cheating Punishment Regulations. If a student is found cheating during the final exam..."
+    },
+    {
+      "role": "assistant",
+      "content": "Cheating? That's definitely a red line! What's the first step when caught?"
+    },
+    {
+      "role": "user",
+      "content": "then the proctor must immediately confiscate their exam paper and terminate their qualification to take that subject exam."
+    },
+    {
+      "role": "assistant",
+      "content": "Confiscate paper and terminate exam — clean and decisive! Then different penalties based on the cheating method, right?"
+    },
+    {
+      "role": "user",
+      "content": "Then further action is determined based on the situation: if using cheat sheets or peeking at others' papers, record zero points for that subject and issue a serious warning."
+    },
+    {
+      "role": "assistant",
+      "content": "Cheat sheets get zero plus serious warning — reasonable. What about high-tech cheating with smartwatches or wireless earbuds?"
+    },
+    {
+      "role": "user",
+      "content": "If using electronic devices such as smartwatches or wireless earbuds to cheat, issue a demerit and cancel all qualification for academic awards for the current academic year."
+    },
+    {
+      "role": "assistant",
+      "content": "Electronic device cheating is heavier — demerit plus cancel awards! The worst is having someone else take the exam or organizing a group cheating ring, right?"
+    },
+    {
+      "role": "user",
+      "content": "If having someone else take the exam on their behalf or organizing group cheating, issue probation until expulsion and record the violation in their personal file."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Xinhua School exam violation: cheating found → proctor confiscates paper + terminates exam → three outcomes: cheat sheets/peeking = zero points + serious warning; smartwatch/wireless earbuds = demerit + cancel awards; surrogate exam/group cheating = probation up to expulsion + record in personal file.",
+  "memory": "Xinhua School Examination Hall Violation and Academic Cheating Punishment Regulations: If a student is found cheating during the final exam, then the proctor must immediately confiscate their exam paper and terminate their qualification to take that subject exam, then further action is determined based on the situation: if using cheat sheets or peeking at others' papers, record zero points for that subject and issue a serious warning; if using electronic devices such as smartwatches or wireless earbuds to cheat, issue a demerit and cancel all qualification for academic awards for the current academic year; if having someone else take the exam on their behalf or organizing group cheating, issue probation until expulsion and record the violation in their personal file."
+}

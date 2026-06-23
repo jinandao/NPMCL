@@ -1,0 +1,38 @@
+{
+  "id": 90006,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained StarSource Technology's data security confidentiality system. If an employee accesses the company's core code repository from an unauthorized device, and that device had previously been connected to a public WiFi network, what penalty options does the security department have?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to penalize an employee accessing core code repository from an unauthorized device that connected to public WiFi</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:90006] Time: 2026-06-08-20:00, Content: StarSource Technology Company Data Security Confidentiality System: If an employee accesses the company's core code repository from an unauthorized device, and that device had previously been connected to a public WiFi network, the security department may immediately freeze all of the employee's system permissions and initiate forensic evidence collection, or require the employee to sign an additional lifetime confidentiality agreement and deduct the full year's performance bonus. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:90006] stipulates that the security department may immediately freeze all system permissions and initiate forensic evidence collection, or require signing an additional lifetime confidentiality agreement and deduct the full year's performance bonus.",
+      "content": "According to StarSource Technology's data security confidentiality system, the security department may immediately freeze all of the employee's system permissions and initiate forensic evidence collection, or require the employee to sign an additional lifetime confidentiality agreement and deduct the full year's performance bonus!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

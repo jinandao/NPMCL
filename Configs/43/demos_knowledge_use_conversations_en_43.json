@@ -1,0 +1,38 @@
+{
+  "id": 130003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the dormitory serious misconduct eviction handling rules. If a student repeatedly smokes and drinks alcohol in the dormitory and refuses to correct despite repeated warnings, what should the dormitory supervisor do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle repeatedly smoking and drinking in the dormitory refusing to correct</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:130003] Time: 2026-06-08-23:35, Content: Dormitory Serious Misconduct Eviction Handling Rules: If a student uses an open flame or privately connects electrical wires causing a fire in the dormitory, or hosts an off-campus overnight guest resulting in property loss, or repeatedly smokes and drinks in the dormitory and refuses to correct despite repeated warnings, then the dormitory supervisor must immediately report to the moral education department and cancel the student's dormitory eligibility, notify the parents to pick up the student from school on the same day and sign a day-student safety commitment letter, and issue a school-wide public reprimand for the misconduct and record it in the comprehensive quality evaluation file. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:130003] stipulates that for repeated smoking and drinking refusing to correct, the dormitory supervisor must immediately report to the moral education department and cancel dormitory eligibility, notify parents to pick up and sign a day-student commitment, and issue a school-wide reprimand recorded in the file.",
+      "content": "According to the dormitory serious misconduct eviction handling rules, the dormitory supervisor must immediately report to the moral education department and cancel the student's dormitory eligibility, notify the parents to pick up the student from school on the same day and sign a day-student safety commitment letter, and issue a school-wide public reprimand for the misconduct and record it in the comprehensive quality evaluation file!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

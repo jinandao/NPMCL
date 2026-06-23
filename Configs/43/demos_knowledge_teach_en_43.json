@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Dormitory Serious Misconduct Eviction Handling Measures. If a student uses an open flame or illegally wires electricity in the dormitory, causing a fire..."
+    },
+    {
+      "role": "assistant",
+      "content": "Causing a fire? That's extremely dangerous! What other serious dormitory misconducts are there?"
+    },
+    {
+      "role": "user",
+      "content": "Or if they host an off-campus person overnight and that causes property loss, or if they repeatedly smoke or drink alcohol in the dormitory and refuse to correct despite repeated warnings."
+    },
+    {
+      "role": "assistant",
+      "content": "Hosting outsiders leading to loss, repeated smoking/drinking with no change — all serious violations! What measures must the dorm supervisor take?"
+    },
+    {
+      "role": "user",
+      "content": "then the dorm supervisor must immediately report to the moral education office and revoke the student's dormitory eligibility, and notify the parents to come to school on the same day to pick up the student and sign a commuter safety commitment letter, and issue a school-wide public criticism of the violation and record it in the comprehensive quality evaluation file."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Dormitory serious misconduct: trigger conditions (open fire/illegal wiring causing fire OR hosting outsider causing property loss OR repeated smoking/drinking despite warnings) → report to moral education office + revoke dorm eligibility + parents pick up same day sign commuter safety commitment + school-wide public criticism recorded in comprehensive quality file.",
+  "memory": "Dormitory Serious Misconduct Eviction Handling Measures: If a student uses an open flame or illegally wires electricity in the dormitory, causing a fire, or hosts an off-campus person overnight and that causes property loss, or repeatedly smokes or drinks alcohol in the dormitory and refuses to correct despite repeated warnings, then the dorm supervisor must immediately report to the moral education office and revoke the student's dormitory eligibility, and notify the parents to come to school on the same day to pick up the student and sign a commuter safety commitment letter, and issue a school-wide public criticism of the violation and record it in the comprehensive quality evaluation file."
+}

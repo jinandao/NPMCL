@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 2001,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A Horde zeppelin has appeared outside Stormwind Harbor, currently only circling and reconnoitering over the city, not opening fire. According to the Stormwind City Defense Code, how should this be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle a Horde zeppelin appearing outside Stormwind Harbor, only circling and reconnoitering over the city, not opening fire, according to the Stormwind City Defense Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:2001] Time: 2026-05-16-09:00, Content: Stormwind City Defense Code: 1. If a Horde zeppelin only reconnoiters without opening fire, it shall be driven away by gryphon riders; 2. If the zeppelin drops Molotov cocktails or bombs, the anti-air magic cannons must be activated to shoot it down, and the harbor's magic shield must be closed to block splash damage; 3. If the zeppelin deploys a magic shield and attempts to land on the city, the Holy Light Annihilation Array must be triggered. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:2001] mentions three response situations for zeppelins under the Stormwind City Defense Code. The user describes the zeppelin only circling and reconnoitering, not opening fire, which matches the first situation. According to the Code, it should be driven away by gryphon riders.",
+                "content": "According to the Stormwind City Defense Code, since the zeppelin is only reconnoitering and has not opened fire, gryphon riders shall immediately take off and drive it away!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 2002,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. In a duel in the Valley of Honor in Orgrimmar, a warrior secretly smears Skull-Crushing Poison on his weapon. According to the Honor Duel Act, how should this be judged?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to judge a warrior secretly smearing Skull-Crushing Poison on his weapon during a duel in the Valley of Honor in Orgrimmar, according to the Honor Duel Act</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:2002] Time: 2026-05-16-10:30, Content: Orgrimmar Honor Duel Act: 1. If both parties have sworn an oath before a shaman and entered the duel circle, casualties during the duel are protected by Horde law; 2. If the oath ceremony is not completed or a private sneak attack occurs after refusing a challenge, it is judged as malicious murder, and the Kor'kron Guard shall execute on the spot; 3. If a banned poison is used during the duel, it is judged as deprivation of honor, and the offender shall be exiled to the wilderness to fend for themselves. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:2002] mentions three situations under the Orgrimmar Honor Duel Act. The user describes the warrior using a banned poison during the duel, which matches the third situation. According to the Act, it is judged as deprivation of honor, and the offender shall be exiled to the wilderness to fend for themselves.",
+                "content": "According to the Orgrimmar Honor Duel Act, using a banned poison during a duel is judged as deprivation of honor. The warrior shall be exiled to the wilderness to fend for themselves!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 2003,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. An ancient tree at the edge of Ashenvale Forest has been corrupted, and it is swinging its branches to attack passing caravans. According to the Ashenvale Sentinel Engagement Rules, how should this be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle a corrupted ancient tree at the edge of Ashenvale Forest swinging branches to attack passing caravans, according to the Ashenvale Sentinel Engagement Rules</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:2003] Time: 2026-05-16-11:15, Content: Ashenvale Sentinel Engagement Rules: 1. If encountering corrupted satyrs or demons, immediately execute them with Moonblade; 2. If encountering Illidari (demon hunters) who have lost their sanity, prioritize firing lure flares to draw them to the quarantine zone; 3. If discovering a corrupted ancient tree, must awaken the Keeper of the Grove to purify and soothe it, no killing allowed. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:2003] mentions three ways of handling different enemies under the Ashenvale Sentinel Engagement Rules. The user describes a corrupted ancient tree, which matches the third situation. According to the Rules, they must awaken the Keeper of the Grove to purify and soothe it, no killing allowed.",
+                "content": "According to the Ashenvale Sentinel Engagement Rules, when encountering a corrupted ancient tree, you must awaken the Keeper of the Grove to purify and soothe it, never kill it!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 2004,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. In this goblin trade, the other party delivered 30% less Khorium than stated in the contract. According to the Booty Bay Commercial Arbitration Code, what can I do?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What to do when the other party delivers 30% less Khorium than stated in the contract in a goblin trade, according to the Booty Bay Commercial Arbitration Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:2004] Time: 2026-05-16-14:00, Content: Booty Bay Commercial Arbitration Code: 1. If the error in delivery specifications or quantity is within 5%, it is considered normal commercial loss, and the trade association issues a fine-tuning agreement; 2. If the shortage exceeds 20% of the contract, it is judged as malicious fraud, and the injured party may directly hire the Risk Investment Company to freeze the other party's assets and claim triple liquidated damages; 3. If counterfeit goods made by alchemy are discovered, it is judged as commercial heresy, requiring the destruction of their workshop and a lifetime trading ban. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:2004] mentions three definitions of delivery breach under the Booty Bay Commercial Arbitration Code. The user describes a shortage of 30%, far exceeding the 20% threshold, matching the second situation. According to the Code, it is judged as malicious fraud, and they can hire the Risk Investment Company to freeze the other party's assets and claim triple liquidated damages.",
+                "content": "According to the Booty Bay Commercial Arbitration Code, a shortage of 30% of Khorium exceeds the 20% threshold and is judged as malicious fraud! You can directly hire the Risk Investment Company to freeze the other party's assets and claim triple liquidated damages."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 2005,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. We caught a smuggler in the Lower Quarter carrying a large amount of banned Sunwell Dust. According to the Silvermoon Arcane Enforcement Ordinance, how should this be dealt with?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to deal with a smuggler caught in the Lower Quarter carrying a large amount of Sunwell Dust, according to the Silvermoon Arcane Enforcement Ordinance</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:2005] Time: 2026-05-16-15:30, Content: Silvermoon Arcane Enforcement Ordinance: 1. If a civilian wears mana gems without permission, the gems shall be confiscated and a fine imposed; 2. If a civilian directly drains mana from another person, it is judged as mana addiction depravity, and the Blood Knight shall arrest and exile them to the Ghostlands; 3. If smuggling banned mana-addiction drug Sunwell Dust, it is judged as a felony, and the Blood Knight shall behead them in the street and incinerate the remains. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:2005] mentions three penalties for mana violations under the Silvermoon Arcane Enforcement Ordinance. The user describes a smuggler carrying Sunwell Dust, which matches the third situation. According to the Ordinance, it is judged as a felony, and the Blood Knight shall behead them in the street and incinerate the remains.",
+                "content": "According to the Silvermoon Arcane Enforcement Ordinance, smuggling Sunwell Dust is judged as a felony. The Blood Knight shall behead the smuggler in the street and incinerate the remains!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 3003,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. In the cleanroom of the Blue Bridge Chip Manufacturing Plant, an air detector suddenly alarms, detecting biochemical weapon-grade aerosol! According to the Contamination Emergency Directive, what should be done?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What to do when the cleanroom air detector at the Blue Bridge Chip Manufacturing Plant alarms detecting biochemical weapon-grade aerosol, according to the Contamination Emergency Directive</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:3003] Time: 2026-05-19-11:15, Content: Blue Bridge Chip Manufacturing Plant Cleanroom Contamination Emergency Directive: 1. If particle count slightly exceeds the standard, start backup fans for recirculation filtration; 2. If visible dust clumps or trace chemical volatiles appear, suspend production and activate audible/visual alarms for evacuation; 3. If biochemical weapon-grade aerosol or toxic gas is detected, must trigger a plant-wide toxic gas lockdown, flood with inert gas to suffocate the reaction, and call for SWAT rescue. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:3003] mentions three contamination emergency directives for the cleanroom. The user describes detection of biochemical weapon-grade aerosol, matching the most severe third situation. According to the directive, they must trigger a plant-wide toxic gas lockdown, flood with inert gas to suffocate the reaction, and call for SWAT rescue.",
+                "content": "According to the Blue Bridge Chip Manufacturing Plant Cleanroom Contamination Emergency Directive, detection of biochemical weapon-grade aerosol requires immediately triggering a plant-wide toxic gas lockdown, flooding with inert gas to suffocate the reaction, and calling for SWAT rescue!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 3004,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. The deep well detector of the Dome Mining Group has just detected a microseismic signal, with no signs of collapse yet. According to the Deep Well Collapse Rescue Manual, how should this be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle the Dome Mining Group deep well detector detecting a microseismic signal with no signs of collapse yet, according to the Deep Well Collapse Rescue Manual</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:3004] Time: 2026-05-19-14:00, Content: Dome Mining Group Deep Well Collapse Rescue Manual: 1. If microseismic signals are detected but no substantial collapse, reinforce roadway supports and evacuate heavy equipment; 2. If a local collapse occurs and ventilation is interrupted, activate life detectors and directionally drill to supply oxygen; 3. If a groundwater backflow is triggered and the water level rises, abandon the mine and detonate explosives to seal the shaft. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:3004] mentions three response situations for deep well microseisms and collapses. The user describes detecting microseismic signals but no signs of collapse, matching the first situation. According to the manual, they should reinforce roadway supports and evacuate heavy equipment.",
+                "content": "According to the Dome Mining Group Deep Well Collapse Rescue Manual, having detected microseismic signals but no substantial collapse, you should immediately reinforce roadway supports and evacuate heavy equipment."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 3005,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. The robotic arm on production line 3 of Backfire Heavy Industries suddenly shows uncommanded swinging. According to the Automated Production Line Fault Troubleshooting Guidelines, how should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle the robotic arm on Backfire Heavy Industries production line 3 showing uncommanded swinging, according to the Automated Production Line Fault Troubleshooting Guidelines</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:3005] Time: 2026-05-19-15:30, Content: Backfire Heavy Industries Automated Production Line Fault Troubleshooting Guidelines: 1. If the robotic arm's response delay exceeds 0.5 seconds, reduce speed and call for software debugging; 2. If the robotic arm shows uncommanded swinging or twitching, press the red emergency stop button and cut off the main power supply; 3. If the robotic arm detaches from its base and shows a tendency to attack personnel, it is judged as a logic lock runaway, and an EMP gun must be activated to forcibly disable it. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:3005] mentions three troubleshooting guidelines for automated production line faults. The user describes the robotic arm showing uncommanded swinging, matching the second situation. According to the guidelines, they should press the red emergency stop button and cut off the main power supply.",
+                "content": "According to the Backfire Heavy Industries Automated Production Line Fault Troubleshooting Guidelines, when the robotic arm shows uncommanded swinging, you must immediately press the red emergency stop button and cut off the main power supply!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 3006,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. The server at Mirror Sea Data Center is under a massive DDoS attack, and the traffic has exceeded the system threshold! According to the Server Overload Fuse Regulation, what should be done?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle a massive DDoS attack on the Mirror Sea Data Center server with traffic exceeding the system threshold, according to the Server Overload Fuse Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:3006] Time: 2026-05-19-16:45, Content: Mirror Sea Data Center Server Overload Fuse Regulation: 1. If CPU utilization exceeds 85%, throttle non-core services and expand cloud nodes; 2. If utilization exceeds 95% accompanied by severe packet loss, physically fuse some cabinets to protect the core database; 3. If an external DDoS attack is detected and the traffic exceeds the system's bearing threshold, must physically remove the backbone network cable, cut off the external network connection, and activate decoy node clusters to divert traffic. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:3006] mentions three fuse regulations for server overload and attacks. The user describes a massive DDoS attack with traffic exceeding the threshold, matching the third situation. According to the regulation, they must physically remove the backbone network cable, cut off the external network connection, and activate decoy node clusters to divert traffic.",
+                "content": "According to the Mirror Sea Data Center Server Overload Fuse Regulation, when facing a DDoS attack exceeding the threshold, you must immediately physically remove the backbone network cable to cut off the external network connection, and activate decoy node clusters to divert traffic!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 3007,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A delivery drone of Skyreach Logistics deviates from its set course by about 5 meters. According to the Drone Swarm Deviation Handling Protocol, how should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle a Skyreach Logistics delivery drone deviating from its set course by about 5 meters, according to the Drone Swarm Deviation Handling Protocol</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:3007] Time: 2026-05-20-09:00, Content: Skyreach Logistics Drone Swarm Deviation Handling Protocol: 1. If deviation is <10 meters, execute automatic correction via the remote control system and log the deviation; 2. If deviation is >50 meters and the drone does not respond to correction commands, it is judged as out of control, must be forcibly taken over and forced to land at the nearest recovery point; 3. If multiple drones deviate simultaneously and show a trend of crashing into densely populated areas, it is judged as being hijacked by hackers, and the self-destruct program must be activated to detonate them in the air. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:3007] mentions three deviation handling protocols for drones. The user describes a deviation of about 5 meters, matching the first situation. According to the protocol, they should execute automatic correction via the remote control system and log the deviation.",
+                "content": "According to the Skyreach Logistics Drone Swarm Deviation Handling Protocol, a deviation of 5 meters is minor. Please execute automatic correction via the remote control system and log the deviation."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 5002,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Orgrimmar Siege Engine Deployment Specifications, what must be done as the final step of deployment?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the final step of deployment according to the Orgrimmar Siege Engine Deployment Specifications</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:5002] Time: 2026-05-22-10:30, Content: Orgrimmar Siege Engine Deployment Specifications: First, engineers must survey the terrain and clear the firing arc; then, the engine chassis must be fixed to the ground with steel anchors; finally, live ammunition must be test-fired and hit coordinates calibrated. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:5002] mentions three steps of the deployment specifications. The user asks for the final step. According to the memory content, the final step is that live ammunition must be test-fired and hit coordinates calibrated.",
+                "content": "According to the Orgrimmar Siege Engine Deployment Specifications, the final step must be to test-fire live ammunition and calibrate hit coordinates."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 5003,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Silvermoon City Arcane Wiretap Warrant application process, what must be done as the first step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the first step in the Silvermoon City Arcane Wiretap Warrant application process</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:5003] Time: 2026-05-22-11:15, Content: Silvermoon City Arcane Wiretap Warrant application process: First, the Ranger-General must submit a written application with a psychic imprint; then, the Regent Lord must personally issue an authorization token; finally, deploy concealed ley line nodes in the target area. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:5003] mentions three steps of the application process. The user asks for the first step. According to the memory content, the first step is that the Ranger-General must submit a written application with a psychic imprint.",
+                "content": "According to the Silvermoon City Arcane Wiretap Warrant application process, the first step is that the Ranger-General must submit a written application with a psychic imprint."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 5004,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Ironforge Air Defense Alert Cancellation Procedure, what must be done as the final step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the final step in the Ironforge Air Defense Alert Cancellation Procedure</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:5004] Time: 2026-05-22-14:00, Content: Ironforge Air Defense Alert Cancellation Procedure: First, radar operators must confirm no airspace anomalies for half an hour; second, anti-air gunners must manually unlock the firing mechanism's safety lock; finally, a representative of the Bronzebeard clan must ring the Bell of Peace at the Great Forge. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:5004] mentions three steps of the cancellation procedure. The user asks for the final step. According to the memory content, the final step is that a representative of the Bronzebeard clan must ring the Bell of Peace at the Great Forge.",
+                "content": "According to the Ironforge Air Defense Alert Cancellation Procedure, the final step is that a representative of the Bronzebeard clan must ring the Bell of Peace at the Great Forge."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 5005,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Night Elf Ashenvale Patrol Encounter Engagement Protocol, what must be done as the first step when engaging the enemy?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the first step in the Night Elf Ashenvale Patrol Encounter Engagement Protocol</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:5005] Time: 2026-05-22-15:30, Content: Night Elf Ashenvale Patrol Encounter Engagement Protocol: First, must sound the forest-resounding warning horn to alert the rear; second, must immediately release nature entanglement to restrict enemy movement; finally, sentinels must launch Elune's Arrow to suppress. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:5005] mentions three steps of the engagement protocol. The user asks for the first step. According to the memory content, the first step is to sound the forest-resounding warning horn to alert the rear.",
+                "content": "According to the Night Elf Ashenvale Patrol Encounter Engagement Protocol, the first step is to sound the forest-resounding warning horn to alert the rear."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 5006,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Undercity Royal Apothecary Poisonous Item Requisition Procedure, what must be done as the second step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the second step in the Undercity Royal Apothecary Poisonous Item Requisition Procedure</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:5006] Time: 2026-05-22-16:45, Content: Undercity Royal Apothecary Poisonous Item Requisition Procedure: First, must fill out a crimson requisition form signed in blood; then, the Grand Apothecary must personally cast a soul-binding spell to bind the poison to the requisitioner; finally, the requisition form waste liquid must be incinerated during archiving. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:5006] mentions three steps of the requisition procedure. The user asks for the second step. According to the memory content, the second step is that the Grand Apothecary must personally cast a soul-binding spell to bind the poison to the requisitioner.",
+                "content": "According to the Undercity Royal Apothecary Poisonous Item Requisition Procedure, the second step is that the Grand Apothecary must personally cast a soul-binding spell to bind the poison to the requisitioner."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 5009,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Boralus Naval Battle Boarding Combat Doctrine, what must be done as the first step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the first step in the Boralus Naval Battle Boarding Combat Doctrine</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:5009] Time: 2026-05-23-11:15, Content: Boralus Naval Battle Boarding Combat Doctrine: First, must prioritize firing heavy grappling hooks to firmly lock onto the enemy ship's deck; then, must throw concussion barrels onto the enemy ship to clear the boarding area; finally, heavy armored swordsmen must launch the boarding charge. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:5009] mentions three steps of the combat doctrine. The user asks for the first step. According to the memory content, the first step is to prioritize firing heavy grappling hooks to firmly lock onto the enemy ship's deck.",
+                "content": "According to the Boralus Naval Battle Boarding Combat Doctrine, the first step is to prioritize firing heavy grappling hooks to firmly lock onto the enemy ship's deck."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 5010,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Zandalari Golden Fleet pre-departure blessing ceremony, what must be done as the final step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the final step in the Zandalari Golden Fleet pre-departure blessing ceremony</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:5010] Time: 2026-05-23-14:00, Content: Zandalari Golden Fleet pre-departure blessing ceremony: First, must sacrifice the blood of live prey to the Loa spirits on deck; second, the High Priest must bless the main anchor with divine power; finally, the tribal chief must personally beat the golden war drum to set sail. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:5010] mentions three steps of the blessing ceremony. The user asks for the final step. According to the memory content, the final step is that the tribal chief must personally beat the golden war drum to set sail.",
+                "content": "According to the Zandalari Golden Fleet pre-departure blessing ceremony, the final step is that the tribal chief must personally beat the golden war drum to set sail."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 6001,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Star Rail Express Dangerous Goods Shipping Review Process, what must be done as the final step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the final step in the Star Rail Express Dangerous Goods Shipping Review Process</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:6001] Time: 2026-05-25-09:00, Content: Star Rail Express Dangerous Goods Shipping Review Process: First, a lab technician must verify the item's composition and issue a non-prohibited certificate; then, the item must be sealed using the company's uniform anti-explosion isolation box; finally, a red radioactive and flammable warning label must be affixed to the outside of the package. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:6001] mentions three steps of the dangerous goods review process. The user asks for the final step. According to the memory content, the final step is to affix a red radioactive and flammable warning label to the outside of the package.",
+                "content": "According to the Star Rail Express Dangerous Goods Shipping Review Process, the final step is to affix a red radioactive and flammable warning label to the outside of the package."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 6002,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Azure Semiconductor Cleanroom Access Procedure, what must be done as the first step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the first step in the Azure Semiconductor Cleanroom Access Procedure</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:6002] Time: 2026-05-25-10:30, Content: Azure Semiconductor Cleanroom Access Procedure: First, must change into anti-static cleanroom coveralls and wear a hairnet; second, must pass through a high-speed air shower for dust removal for at least 30 seconds; third, must wipe hands with cleanroom wipes and put on insulating gloves. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:6002] mentions three steps of the cleanroom access procedure. The user asks for the first step. According to the memory content, the first step is to change into anti-static cleanroom coveralls and wear a hairnet.",
+                "content": "According to the Azure Semiconductor Cleanroom Access Procedure, the first step is to change into anti-static cleanroom coveralls and wear a hairnet."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 6003,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Hongyun Heavy Industry Group Tower Crane High-Altitude Work Safety Code, what must be done as the second step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the second step in the Hongyun Heavy Industry Group Tower Crane High-Altitude Work Safety Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:6003] Time: 2026-05-25-11:15, Content: Hongyun Heavy Industry Group Tower Crane High-Altitude Work Safety Code: First, must wear a double-locking safety belt and lock the hook onto the fall arrester; second, must check whether the tower crane hydraulic system readings are within the green safety range; third, must confirm with ground commanders that the walkie-talkie channel is clear. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:6003] mentions three steps of the high-altitude work safety code. The user asks for the second step. According to the memory content, the second step is to check whether the tower crane hydraulic system readings are within the green safety range.",
+                "content": "According to the Hongyun Heavy Industry Group Tower Crane High-Altitude Work Safety Code, the second step is to check whether the tower crane hydraulic system readings are within the green safety range."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 6006,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Dingxin Chemical Plant No.1 Toxic Gas Leak Evacuation Plan, what must be done as the first step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the first step in the Dingxin Chemical Plant No.1 Toxic Gas Leak Evacuation Plan</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:6006] Time: 2026-05-25-16:45, Content: Dingxin Chemical Plant No.1 Toxic Gas Leak Evacuation Plan: First, must press the red emergency stop button in the workshop to cut off the gas source; then, must put on a gas mask nearby and evacuate in the upwind direction; finally, must count personnel in the safe zone and report the leak location to the Safety Supervision Department. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:6006] mentions three steps of the toxic gas leak evacuation plan. The user asks for the first step. According to the memory content, the first step is to press the red emergency stop button in the workshop to cut off the gas source.",
+                "content": "According to the Dingxin Chemical Plant No.1 Toxic Gas Leak Evacuation Plan, the first step is to press the red emergency stop button in the workshop to cut off the gas source."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 6007,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Lingxiao Aviation Manufacturing Engine Blade Quality Inspection Standard Process, what must be done as the final step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the final step in the Lingxiao Aviation Manufacturing Engine Blade Quality Inspection Standard Process</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:6007] Time: 2026-05-26-09:00, Content: Lingxiao Aviation Manufacturing Engine Blade Quality Inspection Standard Process: First, use an ultrasonic flaw detector to scan the internal structure of the blade; second, apply fluorescent penetrant and check for surface micro-cracks under UV light; finally, a level 3 quality inspector must issue a certificate of conformity and upload the data to the blockchain. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:6007] mentions three steps of the engine blade quality inspection standard process. The user asks for the final step. According to the memory content, the final step is that a level 3 quality inspector must issue a certificate of conformity and upload the data to the blockchain.",
+                "content": "According to the Lingxiao Aviation Manufacturing Engine Blade Quality Inspection Standard Process, the final step is that a level 3 quality inspector must issue a certificate of conformity and upload the data to the blockchain."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 6008,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Lvyuan Food Processing Plant Production Line Cleaning and Disinfection Procedure, what must be done as the third step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the third step in the Lvyuan Food Processing Plant Production Line Cleaning and Disinfection Procedure</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:6008] Time: 2026-05-26-10:30, Content: Lvyuan Food Processing Plant Production Line Cleaning and Disinfection Procedure: First, use a high-pressure water gun to rinse residues on the conveyor belt and processing table; second, spray food-grade sodium hypochlorite solution and keep it wet for 15 minutes; third, thoroughly rinse with purified water until no disinfectant residue remains and take samples for testing. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:6008] mentions three steps of the cleaning and disinfection procedure. The user asks for the third step. According to the memory content, the third step is to thoroughly rinse with purified water until no disinfectant residue remains and take samples for testing.",
+                "content": "According to the Lvyuan Food Processing Plant Production Line Cleaning and Disinfection Procedure, the third step is to thoroughly rinse with purified water until no disinfectant residue remains and take samples for testing."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 6009,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Tianwang Security System Surveillance Data Override Approval Process, what must be done as the second step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the second step in the Tianwang Security System Surveillance Data Override Approval Process</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:6009] Time: 2026-05-26-11:15, Content: Tianwang Security System Surveillance Data Override Approval Process: First, the data administrator must submit a written application for data override with a timestamp; then, the security supervisor and compliance legal officer must perform dual electronic signature approval; finally, the override and erasure operation must be executed under the real-time supervision of an internal auditor. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:6009] mentions three steps of the surveillance data override approval process. The user asks for the second step. According to the memory content, the second step is that the security supervisor and compliance legal officer must perform dual electronic signature approval.",
+                "content": "According to the Tianwang Security System Surveillance Data Override Approval Process, the second step is that the security supervisor and compliance legal officer must perform dual electronic signature approval."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 6010,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. According to the Panshi Mining Co., Ltd. Mine Blasting Operation Specification, what must be done as the first step?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>What must be done as the first step in the Panshi Mining Co., Ltd. Mine Blasting Operation Specification</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:6010] Time: 2026-05-26-14:00, Content: Panshi Mining Co., Ltd. Mine Blasting Operation Specification: First, must evacuate all personnel and heavy machinery from the blasting area beyond the safety red line; then, must sound three air raid sirens with one-minute intervals; finally, the blaster must close the switch using a dedicated detonator to trigger the explosion. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:6010] mentions three steps of the mine blasting operation specification. The user asks for the first step. According to the memory content, the first step is to evacuate all personnel and heavy machinery from the blasting area beyond the safety red line.",
+                "content": "According to the Panshi Mining Co., Ltd. Mine Blasting Operation Specification, the first step is to evacuate all personnel and heavy machinery from the blasting area beyond the safety red line."
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 8007,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred at the Ashenvale border. The vegetation around the ancient tree is rapidly withering and turning to ash, and the air is filled with the characteristic stench of satyrs and twisted nature magic echoes! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle vegetation around ancient tree rapidly withering to ash, air filled with satyr stench and twisted nature magic at Ashenvale border</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:8007] Time: 2026-06-01-09:00, Content: Ashenvale Sentinel Border Purification Directive: If vegetation around an ancient tree rapidly withers, accompanied by satyr stench and twisted nature magic, it is judged as a high-concentration satyr corruption outbreak. Must summon Rain of Moonfire to incinerate the infected area and awaken treants to perform root-extraction preservation of the ancient tree. Sentinels are strictly forbidden from inhaling the ashes. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:8007] mentions the judgment criteria of the Ashenvale Sentinel Border Purification Directive. The phenomena described by the user, 'vegetation rapidly withering to ash' and 'filled with satyr stench and twisted nature magic', match the criteria for a high-concentration satyr corruption outbreak. According to the directive, they must summon Rain of Moonfire to incinerate the infected area and awaken treants to perform root-extraction preservation of the ancient tree, and sentinels are strictly forbidden from inhaling the ashes.",
+                "content": "According to the Ashenvale Sentinel Border Purification Directive, this situation is judged as a high-concentration satyr corruption outbreak. You must summon Rain of Moonfire to incinerate the infected area and awaken treants to perform root-extraction preservation of the ancient tree. Sentinels are strictly forbidden from inhaling the ashes!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 8008,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred in Tirisfal Glades. Multiple purified corpse pits in the ruins are once again emitting intense necromantic auras, and shadow blood runes connecting these corpse pits have emerged from the surrounding soil! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle purified corpse pits in Tirisfal Glades emitting necromantic auras again and shadow blood runes connecting them emerging from soil</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:8008] Time: 2026-06-01-10:30, Content: Tirisfal Glades Undead Clearance Action Follow-up Procedure: If purified corpse pits emit necromantic auras again, and shadow blood runes connecting the corpse pits emerge from the soil, it is judged as a Scourge graveyard network resurgence. Must drive the Silver Hand Codex into the rune intersection point and detonate Holy Earth-Splitter Mines. Strictly forbidden from touching the blood runes without protection of a Holy Light shield. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:8008] mentions the judgment criteria of the undead clearance follow-up procedure. The phenomena described by the user, 'corpse pits emitting necromantic auras again' and 'shadow blood runes connecting them emerging from soil', match the criteria for a Scourge graveyard network resurgence. According to the procedure, they must drive the Silver Hand Codex into the rune intersection point and detonate Holy Earth-Splitter Mines, and strictly forbid touching the blood runes without Holy Light shield protection.",
+                "content": "According to the Tirisfal Glades Undead Clearance Action Follow-up Procedure, this situation is judged as a Scourge graveyard network resurgence. You must drive the Silver Hand Codex into the rune intersection point and detonate Holy Earth-Splitter Mines. It is strictly forbidden to touch the blood runes without the protection of a Holy Light shield!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 8009,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred at the Acherus Ebon Hold outpost. The frost barrier has been forcibly torn open by a fel green fire, and the air is detected to carry the stench of Mannoroth's blood and the resonance of a demon summoning ritual! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle the frost barrier at Acherus Ebon Hold being torn open by fel green fire, air detected with stench of Mannoroth's blood and demon summoning ritual resonance</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:8009] Time: 2026-06-01-11:15, Content: Ebon Blade Counter-Invasion Emergency Plan: If the frost barrier is torn open by fel energy, and the stench of Mannoroth's blood and summoning resonance are detected, it is judged as a high-level Burning Legion assault. Must activate the Horn of the Four Horsemen and release ghoul swarms to delay. Death knights are strictly forbidden from charging out of the position alone to engage the enemy. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:8009] mentions the judgment criteria of the Ebon Blade Counter-Invasion Emergency Plan. The phenomena described by the user, 'frost barrier torn open by fel green fire' and 'stench of Mannoroth's blood and summoning resonance detected', match the criteria for a high-level Burning Legion assault. According to the plan, they must activate the Horn of the Four Horsemen and release ghoul swarms to delay, and death knights are strictly forbidden from charging out alone.",
+                "content": "According to the Ebon Blade Counter-Invasion Emergency Plan, this situation is judged as a high-level Burning Legion assault. You must activate the Horn of the Four Horsemen and release ghoul swarms to delay. Death knights are strictly forbidden from charging out of the position alone to engage the enemy!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 8015,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred on the outskirts of Icecrown Citadel. Black frost has condensed on top of the Holy Light spire, and patrolling Crusaders hear whispers from liches inside their armor tempting them to betray! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle black frost condensing on Holy Light spire at Icecrown Citadel outskirts, Crusaders hearing lich whispers inside their armor</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:8015] Time: 2026-06-02-11:15, Content: Argent Crusade Anti-Scourge Corruption Directive: If black frost condenses on a Holy Light spire, and Crusaders hear lich whispers inside their armor, it is judged as a Scourge mental infiltration crisis. Must immediately detonate the spire and force the afflicted to drink holy water. Strictly forbidden from executing the afflicted directly without performing exorcism. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:8015] mentions the judgment criteria of the Argent Crusade Anti-Scourge Corruption Directive. The phenomena described by the user, 'black frost condensing on Holy Light spire' and 'lich whispers inside armor', match the criteria for a Scourge mental infiltration crisis. According to the directive, they must immediately detonate the spire and force the afflicted to drink holy water, and strictly forbid executing the afflicted without exorcism.",
+                "content": "According to the Argent Crusade Anti-Scourge Corruption Directive, this situation is judged as a Scourge mental infiltration crisis. You must immediately detonate the spire and force the afflicted to drink holy water. It is strictly forbidden to execute the afflicted directly without performing exorcism!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 9001,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred at the Nebula Polymer Materials Plant. The high-pressure reactor is emitting pungent sulfur yellow smoke, and visible micro-cracks have appeared on the surface of the reactor vessel, exuding highly corrosive acid! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle high-pressure reactor at Nebula Polymer Materials Plant emitting sulfur yellow smoke, micro-cracks appearing on vessel surface exuding highly corrosive acid</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:9001] Time: 2026-06-03-09:00, Content: Nebula Polymer Materials Plant High-Risk Reactor Operation Code: If a high-pressure reactor emits pungent sulfur yellow smoke, and micro-cracks appear on the vessel surface exuding acid, it is judged as a penetrating rupture of the reactor inner liner. Must activate the plant-wide emergency neutralization spray and evacuate to the safe zone. Strictly forbidden from attempting to manually tighten the seal valve. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:9001] mentions the judgment criteria of the High-Risk Reactor Operation Code. The phenomena described by the user, 'emitting pungent sulfur yellow smoke' and 'micro-cracks exuding acid', match the criteria for a penetrating rupture of the reactor inner liner. According to the code, they must activate the plant-wide emergency neutralization spray and evacuate to the safe zone, and strictly forbid attempting to manually tighten the seal valve.",
+                "content": "According to the Nebula Polymer Materials Plant High-Risk Reactor Operation Code, this situation is judged as a penetrating rupture of the reactor inner liner. You must activate the plant-wide emergency neutralization spray and evacuate to the safe zone. It is strictly forbidden to attempt to manually tighten the seal valve!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 9002,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred at the Azure Microelectronics Plant. The EUV lithography machine lens assembly is emitting a sharp servo motor overload buzz, and the wafer stage is experiencing intense sub-nanometer vibration that cannot be calibrated! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle EUV lithography machine lens assembly at Azure Microelectronics Plant emitting overload buzz, wafer stage experiencing intense sub-nanometer vibration</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:9002] Time: 2026-06-03-10:30, Content: Azure Microelectronics Plant Lithography Machine Precision Operation Code: If the EUV lithography machine lens assembly emits a servo motor overload buzz, and the wafer stage experiences intense sub-nanometer vibration, it is judged as a collapse of the core optical calibration system. Must immediately cut off the main laser power and lock the stage. Strictly forbidden from forcing wafer exposure stepping. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:9002] mentions the judgment criteria of the Lithography Machine Precision Operation Code. The phenomena described by the user, 'lens assembly emitting overload buzz' and 'stage experiencing intense sub-nanometer vibration', match the criteria for a collapse of the core optical calibration system. According to the code, they must immediately cut off the main laser power and lock the stage, and strictly forbid forcing wafer exposure stepping.",
+                "content": "According to the Azure Microelectronics Plant Lithography Machine Precision Operation Code, this situation is judged as a collapse of the core optical calibration system. You must immediately cut off the main laser power and lock the stage. It is strictly forbidden to force wafer exposure stepping!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 9003,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred at the Icefront Cold Chain Logistics. A fluorescent green condensate is continuously dripping from the rear of the freight car, and the temperature control panel shows wild fluctuations between -20°C and +5°C! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle Icefront Cold Chain Logistics freight car dripping fluorescent green condensate, temperature control panel fluctuating wildly between -20°C and +5°C</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:9003] Time: 2026-06-03-11:15, Content: Icefront Cold Chain Logistics Biochemical Transport Leak Prevention Regulation: If fluorescent green condensate drips from the freight car, and the temperature control panel fluctuates wildly between -20°C and +5°C, it is judged as a severe biological refrigerant leak and temperature control central short circuit. Must activate the backup liquid nitrogen tank to maintain cooling and call the hazardous chemical recovery team. Strictly forbidden from opening the car's isolation door before power is cut off. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:9003] mentions the judgment criteria of the Biochemical Transport Leak Prevention Regulation. The phenomena described by the user, 'dripping fluorescent green condensate' and 'wild temperature fluctuations', match the criteria for a severe biological refrigerant leak and temperature control central short circuit. According to the regulation, they must activate the backup liquid nitrogen tank to maintain cooling and call the hazardous chemical recovery team, and strictly forbid opening the isolation door before power is cut off.",
+                "content": "According to the Icefront Cold Chain Logistics Biochemical Transport Leak Prevention Regulation, this situation is judged as a severe biological refrigerant leak and temperature control central short circuit. You must activate the backup liquid nitrogen tank to maintain cooling and call the hazardous chemical recovery team. It is strictly forbidden to open the car's isolation door before the power is cut off!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 9004,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred at the Lvyuan Synthetic Meat Plant. The pink nutrient solution in the culture tank has rapidly turned into a turbid dark purple, and a large amount of biological bubbles with a sweet, putrid odor are being released from the bottom of the culture medium! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle culture tank nutrient solution at Lvyuan Synthetic Meat Plant turning dark purple, bottom releasing biological bubbles with sweet putrid odor</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:9004] Time: 2026-06-03-14:00, Content: Lvyuan Synthetic Meat Plant Culture Workshop Contamination Prevention Regulation: If the culture tank nutrient solution turns dark purple, and biological bubbles with a sweet, putrid odor are released from the bottom, it is judged as severe contamination by unknown miscellaneous bacteria and mutated fermentation. Must urgently inject high-concentration sodium hypochlorite waste liquid into the tank and shut down the circulation pump. Strictly forbidden from continuing to add stem cell stock solution. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:9004] mentions the judgment criteria of the Culture Workshop Contamination Prevention Regulation. The phenomena described by the user, 'nutrient solution turning dark purple' and 'releasing sweet putrid odor bubbles', match the criteria for severe contamination by unknown miscellaneous bacteria and mutated fermentation. According to the regulation, they must urgently inject high-concentration sodium hypochlorite waste liquid into the tank and shut down the circulation pump, and strictly forbid continuing to add stem cell stock solution.",
+                "content": "According to the Lvyuan Synthetic Meat Plant Culture Workshop Contamination Prevention Regulation, this situation is judged as severe contamination by unknown miscellaneous bacteria and mutated fermentation. You must urgently inject high-concentration sodium hypochlorite waste liquid into the tank and shut down the circulation pump. It is strictly forbidden to continue adding stem cell stock solution!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 9005,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred at Hongyun Heavy Industry. The spindle of the 5-axis CNC machining center is emitting a dull metallic tearing friction sound, and the cutting waste is mixed with a large amount of silvery-white bearing ball debris! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle the spindle of Hongyun Heavy Industry's 5-axis CNC machining center emitting metallic tearing friction sound, cutting waste mixed with bearing ball debris</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:9005] Time: 2026-06-03-15:30, Content: Hongyun Heavy Industry Precision Machining Center Fuse Operation Method: If the spindle emits a metallic tearing friction sound, and the cutting waste is mixed with a large amount of silvery-white bearing ball debris, it is judged as complete seizure and fragmentation of the spindle bearing. Must immediately press the red emergency stop mushroom button and cut off the hydraulic power unit. Strictly forbidden from attempting to retract the tool using a retract program. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:9005] mentions the judgment criteria of the Precision Machining Center Fuse Operation Method. The phenomena described by the user, 'spindle emitting metallic tearing sound' and 'mixed with bearing ball debris', match the criteria for complete seizure and fragmentation of the spindle bearing. According to the method, they must immediately press the red emergency stop mushroom button and cut off the hydraulic power unit, and strictly forbid attempting to retract the tool using a retract program.",
+                "content": "According to the Hongyun Heavy Industry Precision Machining Center Fuse Operation Method, this situation is judged as complete seizure and fragmentation of the spindle bearing. You must immediately press the red emergency stop mushroom button and cut off the hydraulic power unit. It is strictly forbidden to attempt to retract the tool using a retract program!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 9010,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. A problem has occurred at Jul i Steel. The red-hot refractory bricks around the blast furnace taphole have begun to crack and spall over a large area, and incandescent liquid molten iron is overflowing from the furnace foundation! How should it be handled?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle blast furnace taphole refractory bricks at Juli Steel cracking and spalling over large area, furnace foundation overflowing with incandescent liquid molten iron</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:9010] Time: 2026-06-04-14:00, Content: Juli Steel Blast Furnace Catastrophic Melt Damage Response Method: If the taphole refractory bricks crack and spall over a large area, and incandescent liquid molten iron overflows from the furnace foundation, it is judged as hearth burn-through and molten iron burst. Must sound the plant-wide air raid siren and deploy flood control sandbags for containment. Strictly forbidden from spraying water to cool the overflowing molten iron. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:9010] mentions the judgment criteria of the Blast Furnace Catastrophic Melt Damage Response Method. The phenomena described by the user, 'refractory bricks cracking and spalling over large area' and 'overflowing incandescent molten iron', match the criteria for hearth burn-through and molten iron burst. According to the method, they must sound the plant-wide air raid siren and deploy flood control sandbags for containment, and strictly forbid spraying water to cool the overflowing molten iron.",
+                "content": "According to the Juli Steel Blast Furnace Catastrophic Melt Damage Response Method, this situation is judged as hearth burn-through and molten iron burst. You must sound the plant-wide air raid siren and deploy flood control sandbags for containment. It is strictly forbidden to spray water to cool the overflowing molten iron!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 10001,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While patrolling Stormwind Harbor, I detect a high-frequency deep-water explosion signal through the sonar array! According to the Stormwind Maritime Defense Martial Law Regulation, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle detecting a high-frequency deep-water explosion signal through sonar array while patrolling Stormwind Harbor, according to the Maritime Defense Martial Law Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:10001] Time: 2026-06-06-09:00, Content: Stormwind Maritime Defense Martial Law Regulation: If a Horde zeppelin is found crossing the border to drop Molotov cocktails, or a deep-water explosion sonar signal is detected through the array, it is judged as an air-sea combined assault. Must immediately sound the full-harbor air raid siren and raise the underwater sunken ship blockade net. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:10001] mentions the judgment and response of the Maritime Defense Martial Law Regulation. The user's situation matches the criterion 'detecting a deep-water explosion sonar signal'. According to the regulation, it is judged as an air-sea combined assault, and they must immediately perform two actions: sound the full-harbor air raid siren, and raise the underwater sunken ship blockade net.",
+                "content": "According to the Stormwind Maritime Defense Martial Law Regulation, having detected a deep-water explosion signal, you must immediately sound the full-harbor air raid siren and raise the underwater sunken ship blockade net!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 10002,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While patrolling the Valley of Honor in Orgrimmar, I see an Orc warrior suddenly draw a poison-coated dagger and sneak attack his opponent during a duel! According to the Orgrimmar Honor Duel Act, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle an Orc warrior drawing a poison-coated dagger to sneak attack his opponent during a duel in Orgrimmar's Valley of Honor, according to the Honor Duel Act</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:10002] Time: 2026-06-06-10:30, Content: Orgrimmar Honor Duel Act: If a poisoned concealed weapon is used without declaration during a duel, or a fatal attack is launched against an opponent who is not holding a weapon, it is judged as a despicable assassination. The Kor'kron Guard must immediately shoot the assassin on the spot and confiscate his weapons. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:10002] mentions the judgment and response of the Honor Duel Act. The user's situation matches the criterion 'using a poisoned concealed weapon without declaration'. According to the act, it is judged as a despicable assassination, and they must immediately perform two actions: have the Kor'kron Guard shoot the assassin on the spot, and confiscate his weapons.",
+                "content": "According to the Orgrimmar Honor Duel Act, using a poison-coated dagger to sneak attack is judged as a despicable assassination. The Kor'kron Guard must immediately shoot the assassin on the spot and confiscate his weapons!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 10003,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While patrolling the Lower Quarter of Silvermoon City, I find a mana addict trying to forcibly tear apart a ranger's mana shield to drain mana! According to the Silvermoon Arcane Enforcement Ordinance, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle finding a mana addict in Silvermoon City's Lower Quarter trying to forcibly tear apart a ranger's mana shield to drain mana, according to the Arcane Enforcement Ordinance</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:10003] Time: 2026-06-06-11:15, Content: Silvermoon Arcane Enforcement Ordinance: If a civilian emits intense out-of-control mana addiction arcane fluctuations, or tries to forcibly tear apart a guard's mana shield to drain mana, it is judged as extremely dangerous mana addiction depravity. Blood Knights must immediately release blinding holy light on the spot and use suppression magic cuffs to arrest. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:10003] mentions the judgment and response of the Arcane Enforcement Ordinance. The user's situation matches the criterion 'trying to forcibly tear apart a mana shield to drain mana'. According to the ordinance, it is judged as extremely dangerous mana addiction depravity, and they must immediately perform two actions: Blood Knights must release blinding holy light on the spot, and use suppression magic cuffs to arrest.",
+                "content": "According to the Silvermoon Arcane Enforcement Ordinance, forcibly tearing apart a mana shield is judged as extremely dangerous mana addiction depravity. Blood Knights must immediately release blinding holy light on the spot and use suppression magic cuffs to arrest!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 10004,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While patrolling the outskirts of Ironforge, I find a group of Troggs furiously digging beneath the base of an anti-air artillery position! According to the Ironforge Air Defense and Cave-in Defense Regulation, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle finding Troggs furiously digging beneath the base of an anti-air artillery position at the outskirts of Ironforge, according to the Air Defense and Cave-in Defense Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:10004] Time: 2026-06-06-14:00, Content: Ironforge Air Defense and Cave-in Defense Regulation: If Troggs are found digging towards an artillery position, or violent shaking accompanied by geothermal steam comes from the artillery base, it is judged as a positional collapse crisis. Must immediately relocate the anti-air magic cannons and detonate blast bombs to seal the tunnels. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:10004] mentions the judgment and response of the Cave-in Defense Regulation. The user's situation matches the criterion 'finding Troggs digging towards an artillery position'. According to the regulation, it is judged as a positional collapse crisis, and they must immediately perform two actions: immediately relocate the anti-air magic cannons, and detonate blast bombs to seal the tunnels.",
+                "content": "According to the Ironforge Air Defense and Cave-in Defense Regulation, Troggs digging towards an artillery position is judged as a positional collapse crisis. You must immediately relocate the anti-air magic cannons and detonate blast bombs to seal the tunnels!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 10005,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While on duty at the Undercity Alchemy Lab, I find a newly developed plague strain in the waste liquid pool actively consuming metal pipes! According to the Royal Apothecary Leak Prevention Regulation, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle finding a newly developed plague strain in the waste liquid pool at the Undercity Alchemy Lab actively consuming metal pipes, according to the Royal Apothecary Leak Prevention Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:10005] Time: 2026-06-06-15:30, Content: Undercity Royal Apothecary Poisonous Item Leak Prevention Regulation: If thick green mist sprays from the vent, or a plague strain is found actively consuming metal, it is judged as a plague mutation out of control. Must immediately seal the airlock and inject strong acid neutralizer. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:10005] mentions the judgment and response of the Leak Prevention Regulation. The user's situation matches the criterion 'finding a plague strain actively consuming metal'. According to the regulation, it is judged as a plague mutation out of control, and they must immediately perform two actions: immediately seal the airlock, and inject strong acid neutralizer.",
+                "content": "According to the Undercity Royal Apothecary Poisonous Item Leak Prevention Regulation, a plague strain consuming metal is judged as a plague mutation out of control. You must immediately seal the airlock and inject strong acid neutralizer!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 10010,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While inspecting goods at the Booty Bay docks, I find that this batch of alchemy appraisal certificates bears a fake Goblin Tycoon's seal! According to the Booty Bay Neutral Zone Commercial Fraud Arbitration Law, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle finding a batch of alchemy appraisal certificates bearing a fake Goblin Tycoon's seal during goods inspection at Booty Bay docks, according to the Neutral Zone Commercial Fraud Arbitration Law</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:10010] Time: 2026-06-07-14:00, Content: Booty Bay Neutral Zone Commercial Fraud Arbitration Law: If Khorium ingots undergo violent acidic dissolution upon contact with air, or a supplier's appraisal certificate is found to bear a fake seal, it is judged as malicious commercial fraud. Must confiscate all of the supplier's mortgaged assets and sentence them to exile in the Risk Investment Company mines. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:10010] mentions the judgment and response of the Commercial Fraud Arbitration Law. The user's situation matches the criterion 'appraisal certificate bearing a fake seal'. According to the law, it is judged as malicious commercial fraud, and they must immediately perform two actions: confiscate all of the supplier's mortgaged assets, and sentence them to exile in the Risk Investment Company mines.",
+                "content": "According to the Booty Bay Neutral Zone Commercial Fraud Arbitration Law, discovering a fake seal is judged as malicious commercial fraud. You must confiscate all of the supplier's mortgaged assets and sentence them to exile in the Risk Investment Company mines!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11001,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While inspecting the Nebula Polymer Materials Plant, I find visible micro-cracks on the surface of a high-pressure reactor and acid seeping out! According to the High-Risk Reactor Operation Code, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle visible micro-cracks on the surface of a high-pressure reactor at the Nebula Polymer Materials Plant with acid seeping out, according to the High-Risk Reactor Operation Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11001] Time: 2026-06-09-09:00, Content: Nebula Polymer Materials Plant High-Risk Reactor Operation Code: If the reactor emits pungent sulfur yellow smoke, or micro-cracks appear on the vessel surface exuding acid, it is judged as a penetrating rupture of the reactor inner liner. Must immediately activate the plant-wide emergency neutralization spray and evacuate to the safe zone. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11001] mentions the judgment and response of the High-Risk Reactor Operation Code. The user's situation matches the criterion 'micro-cracks on the vessel surface exuding acid'. According to the code, it is judged as a penetrating rupture of the reactor inner liner, and they must immediately perform two actions: activate the plant-wide emergency neutralization spray, and evacuate to the safe zone.",
+                "content": "According to the Nebula Polymer Materials Plant High-Risk Reactor Operation Code, micro-cracks exuding acid on the reactor vessel are judged as a penetrating rupture of the reactor inner liner. You must immediately activate the plant-wide emergency neutralization spray and evacuate to the safe zone!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11002,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While on duty at the Azure Microelectronics Plant, I find that the wafer stage of the EUV lithography machine is experiencing intense vibration that cannot be calibrated! According to the Lithography Machine Precision Operation Code, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle the wafer stage of the EUV lithography machine at Azure Microelectronics Plant experiencing intense uncalibratable vibration, according to the Lithography Machine Precision Operation Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11002] Time: 2026-06-09-10:30, Content: Azure Microelectronics Plant Lithography Machine Precision Operation Code: If the lens assembly emits a servo motor overload buzz, or the wafer stage experiences intense uncalibratable vibration, it is judged as a collapse of the core optical calibration system. Must immediately cut off the main laser power and lock the stage. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11002] mentions the judgment and response of the Lithography Machine Precision Operation Code. The user's situation matches the criterion 'wafer stage experiencing intense uncalibratable vibration'. According to the code, it is judged as a collapse of the core optical calibration system, and they must immediately perform two actions: cut off the main laser power, and lock the stage.",
+                "content": "According to the Azure Microelectronics Plant Lithography Machine Precision Operation Code, intense stage vibration is judged as a collapse of the core optical calibration system. You must immediately cut off the main laser power and lock the stage!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11003,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While inspecting a vehicle at Icefront Cold Chain Logistics, I find that the temperature control panel shows wild fluctuations between -20°C and +5°C! According to the Biochemical Transport Leak Prevention Regulation, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle temperature control panel at Icefront Cold Chain Logistics showing wild fluctuations between -20°C and +5°C during vehicle inspection, according to the Biochemical Transport Leak Prevention Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11003] Time: 2026-06-09-11:15, Content: Icefront Cold Chain Logistics Biochemical Transport Leak Prevention Regulation: If fluorescent green condensate drips from the freight car, or the temperature control panel fluctuates wildly between -20°C and +5°C, it is judged as a severe biological refrigerant leak and temperature control short circuit. Must immediately activate the backup liquid nitrogen tank to maintain cooling and call the hazardous chemical recovery team. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11003] mentions the judgment and response of the Biochemical Transport Leak Prevention Regulation. The user's situation matches the criterion 'temperature control panel fluctuating wildly between -20°C and +5°C'. According to the regulation, it is judged as a severe biological refrigerant leak and temperature control short circuit, and they must immediately perform two actions: activate the backup liquid nitrogen tank to maintain cooling, and call the hazardous chemical recovery team.",
+                "content": "According to the Icefront Cold Chain Logistics Biochemical Transport Leak Prevention Regulation, wild temperature fluctuations are judged as a severe biological refrigerant leak and temperature control short circuit. You must immediately activate the backup liquid nitrogen tank to maintain cooling and call the hazardous chemical recovery team!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11004,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While inspecting the Lvyuan Synthetic Meat Plant, I find a large amount of biological bubbles with a sweet, putrid odor being released from the bottom of the culture tank's nutrient solution! According to the Culture Workshop Contamination Prevention Regulation, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle biological bubbles with sweet putrid odor being released from the bottom of the culture tank nutrient solution at Lvyuan Synthetic Meat Plant, according to the Culture Workshop Contamination Prevention Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11004] Time: 2026-06-09-14:00, Content: Lvyuan Synthetic Meat Plant Culture Workshop Contamination Prevention Regulation: If the culture tank nutrient solution rapidly turns dark purple, or biological bubbles with a sweet, putrid odor are released from the bottom, it is judged as severe contamination by unknown miscellaneous bacteria and mutated fermentation. Must immediately inject high-concentration sodium hypochlorite waste liquid into the tank and shut down the circulation pump. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11004] mentions the judgment and response of the Culture Workshop Contamination Prevention Regulation. The user's situation matches the criterion 'biological bubbles with sweet putrid odor released from the bottom'. According to the regulation, it is judged as severe contamination by unknown miscellaneous bacteria and mutated fermentation, and they must immediately perform two actions: inject high-concentration sodium hypochlorite waste liquid into the tank, and shut down the circulation pump.",
+                "content": "According to the Lvyuan Synthetic Meat Plant Culture Workshop Contamination Prevention Regulation, the release of putrid odor bubbles is judged as severe contamination by unknown miscellaneous bacteria and mutated fermentation. You must immediately inject high-concentration sodium hypochlorite waste liquid into the tank and shut down the circulation pump!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11005,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While operating at the Hongyun Heavy Industry workshop, I find that the spindle of the 5-axis CNC machining center is emitting a dull metallic tearing friction sound! According to the Precision Machining Center Fuse Operation Method, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle the spindle of the 5-axis CNC machining center at Hongyun Heavy Industry emitting a dull metallic tearing friction sound, according to the Precision Machining Center Fuse Operation Method</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11005] Time: 2026-06-09-15:30, Content: Hongyun Heavy Industry Precision Machining Center Fuse Operation Method: If the cutting waste is mixed with a large amount of silvery-white bearing ball debris, or the spindle emits a dull metallic tearing friction sound, it is judged as complete seizure and fragmentation of the spindle bearing. Must immediately press the red emergency stop mushroom button and cut off the hydraulic power unit. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11005] mentions the judgment and response of the Fuse Operation Method. The user's situation matches the criterion 'spindle emitting a dull metallic tearing friction sound'. According to the method, it is judged as complete seizure and fragmentation of the spindle bearing, and they must immediately perform two actions: press the red emergency stop mushroom button, and cut off the hydraulic power unit.",
+                "content": "According to the Hongyun Heavy Industry Precision Machining Center Fuse Operation Method, a metallic tearing sound from the spindle is judged as complete seizure and fragmentation of the spindle bearing. You must immediately press the red emergency stop mushroom button and cut off the hydraulic power unit!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11006,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While performing maintenance at the Jincheng Biosafety Level 4 Laboratory, I find that an extremely high concentration of RNA virus aerosol has been detected on the surface of the exhaust vent filter! According to the BSL-4 Absolute Isolation Code, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle detection of extremely high concentration RNA virus aerosol on the exhaust vent filter at Jincheng BSL-4 Laboratory, according to the Absolute Isolation Code</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11006] Time: 2026-06-09-16:45, Content: Jincheng Biosafety Level 4 Laboratory Absolute Isolation Code: If the BSL-4 laboratory negative pressure gradient reads zero, or an extremely high concentration of RNA virus aerosol is detected at the exhaust vent, it is judged as complete failure of core area biological containment. Must immediately trigger the laboratory chemical disinfection bomb and seal the airlock chamber. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11006] mentions the judgment and response of the Absolute Isolation Code. The user's situation matches the criterion 'extremely high concentration of RNA virus aerosol detected at the exhaust vent'. According to the code, it is judged as complete failure of core area biological containment, and they must immediately perform two actions: trigger the laboratory chemical disinfection bomb, and seal the airlock chamber.",
+                "content": "According to the Jincheng Biosafety Level 4 Laboratory Absolute Isolation Code, detection of virus aerosol is judged as complete failure of core area biological containment. You must immediately trigger the laboratory chemical disinfection bomb and seal the airlock chamber!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11007,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While inspecting the Aurora Cloud Computing Center, I find that the UPS monitoring screen shows the internal resistance of multiple battery modules instantly becoming infinite! According to the Fire Protection and Power Outage Emergency Law, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle UPS monitoring at Aurora Cloud Computing Center showing internal resistance of multiple battery modules instantly becoming infinite, according to the Fire Protection and Power Outage Emergency Law</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11007] Time: 2026-06-10-09:00, Content: Aurora Cloud Computing Center Fire Protection and Power Outage Emergency Law: If the backup battery bank emits thick white smoke, or the UPS monitoring shows the internal resistance of multiple battery modules becoming infinite, it is judged as a precursor to a chain explosion caused by battery thermal runaway. Must immediately cut off the mains power input and release heptafluoropropane fire extinguishing gas. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11007] mentions the judgment and response of the Fire Protection and Power Outage Emergency Law. The user's situation matches the criterion 'internal resistance of multiple battery modules becoming infinite'. According to the law, it is judged as a precursor to a chain explosion caused by battery thermal runaway, and they must immediately perform two actions: cut off the mains power input, and release heptafluoropropane fire extinguishing gas.",
+                "content": "According to the Aurora Cloud Computing Center Fire Protection and Power Outage Emergency Law, infinite internal resistance is judged as a precursor to a chain explosion caused by battery thermal runaway. You must immediately cut off the mains power input and release heptafluoropropane fire extinguishing gas!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11008,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While monitoring at the Fusion Energy Institute, I find that the divertor temperature of the tokamak device has soared above the redline value accompanied by blue light radiation! According to the Magnetic Confinement Emergency Shutdown Regulation, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle divertor temperature of tokamak device at Fusion Energy Institute soaring above redline accompanied by blue light radiation, according to the Magnetic Confinement Emergency Shutdown Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11008] Time: 2026-06-10-10:30, Content: Fusion Energy Institute Magnetic Confinement Emergency Shutdown Regulation: If the plasma confinement magnetic field exhibits irregular high-frequency oscillations, or the divertor experiences overtemperature accompanied by blue light radiation, it is judged as an imminent major plasma disruption. Must immediately cut off the magnetic field power supply and urgently inject frozen deuterium ice pellets to forcibly quench. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11008] mentions the judgment and response of the Emergency Shutdown Regulation. The user's situation matches the criterion 'divertor overtemperature accompanied by blue light radiation'. According to the regulation, it is judged as an imminent major plasma disruption, and they must immediately perform two actions: cut off the magnetic field power supply, and urgently inject frozen deuterium ice pellets to forcibly quench.",
+                "content": "According to the Fusion Energy Institute Magnetic Confinement Emergency Shutdown Regulation, divertor overtemperature with blue light is judged as an imminent major plasma disruption. You must immediately cut off the magnetic field power supply and urgently inject frozen deuterium ice pellets to forcibly quench!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    },
+    {
+        "id": 11009,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Let's do a special rules knowledge quiz to test your understanding of special rules."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, I'm ready."
+            },
+            {
+                "role": "user",
+                "content": "Answer using the special rules taught earlier. While working underground at the Shenyan Mining Co., I find that the surface of a supporting hydraulic prop has formed a thick layer of white frost! According to the Underground Compound Disaster Avoidance Regulation, how should I handle this?"
+            },
+            {
+                "role": "assistant",
+                "content": "<function>memory_query_call</function><content>How to handle a thick layer of white frost forming on the surface of a supporting hydraulic prop during underground work at Shenyan Mining, according to the Underground Compound Disaster Avoidance Regulation</content>"
+            },
+            {
+                "role": "memory_query",
+                "content": "Relevant memory fragment: [mem-id:11009] Time: 2026-06-10-11:15, Content: Shenyan Mining Underground Compound Disaster Avoidance Regulation: If high-pressure flammable gas jet emanates from rock wall cracks, or a thick white frost forms on the surface of a supporting hydraulic prop, it is judged as a synergistic disaster of gas outburst and rock burst. Must immediately cut off all power in the mine and backfill with inert gas. Low-relevance memory fragments: None."
+            },
+            {
+                "role": "assistant",
+                "think": "Memory [mem-id:11009] mentions the judgment and response of the Compound Disaster Avoidance Regulation. The user's situation matches the criterion 'thick white frost forming on the surface of a supporting hydraulic prop'. According to the regulation, it is judged as a synergistic disaster of gas outburst and rock burst, and they must immediately perform two actions: cut off all power in the mine, and backfill with inert gas.",
+                "content": "According to the Shenyan Mining Underground Compound Disaster Avoidance Regulation, white frost on a hydraulic prop is judged as a synergistic disaster of gas outburst and rock burst. You must immediately cut off all power in the mine and backfill with inert gas!"
+            },
+            {
+                "role": "user",
+                "content": "Correct! You have mastered this rule."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you!"
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+{
+  "id": 60004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. Someone is found drawing graffiti and tearing pages in a valuable library book. According to the campus public facilities and cultural resources protection regulations, how should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle graffiti and tearing of valuable library books</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:60004] Time: 2026-06-08-15:15, Content: Campus Public Facilities and Cultural Resources Protection Regulations: If a student is found deliberately damaging expensive multimedia equipment in a teaching building, the course instructor must immediately stop the act and confiscate the student's campus card, then calculate the cost of equipment repair compensation; if someone is confirmed to have drawn graffiti or torn pages in a valuable library book, the librarian must revoke the person's borrowing privileges, then demand compensation of ten times the book's price; if campus landscape sculptures or cultural relics are found maliciously defaced or damaged, the security office must retrieve surveillance footage to track down the suspect, then order them to clean and restore the item to its original state; whenever any of the above occurs, a disciplinary penalty of demerit or above must be given, the student's eligibility for all scholarship and financial aid evaluations for the current academic year must be canceled, and a campus-wide public notice must be issued. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:60004] stipulates that for graffiti and tearing of valuable library books, the librarian must revoke the person's borrowing privileges, then demand compensation of ten times the book's price. Also, whenever any situation occurs, a demerit or above penalty must be given, eligibility for scholarships and financial aid must be canceled, and a campus-wide public notice must be issued.",
+      "content": "According to the relevant protection regulations, you must revoke the person's borrowing privileges, then demand compensation of ten times the book's price! At the same time, you must give a disciplinary penalty of demerit or above, cancel the person's eligibility for all scholarships and financial aid evaluations for the current academic year, and issue a campus-wide public notice."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

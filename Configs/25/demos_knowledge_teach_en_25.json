@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Mingtai Electronics Overtime and Fatigue Work Ban. If a production line team leader arranges for the same employee to work continuously for more than 16 hours..."
+    },
+    {
+      "role": "assistant",
+      "content": "16 consecutive hours? That's a serious violation of labor laws — how has this employee been doing?"
+    },
+    {
+      "role": "user",
+      "content": "And the employee has been marked as \"high risk\" in the previous three fatigue inspections."
+    },
+    {
+      "role": "assistant",
+      "content": "Three times high risk and still arranges excessive overtime? Isn't that playing with the employee's life? How will HR handle the team leader?"
+    },
+    {
+      "role": "user",
+      "content": "then the human resources department may issue a public criticism and suspend the team leader for one week, or cancel their entire year's management bonus and forcibly rotate them to the night shift operator position for three months."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Mingtai Electronics fatigue ban: leader arranges employee >16h consecutive work + employee marked \"high risk\" in previous 3 fatigue inspections → public criticism + one-week suspension OR cancel full year management bonus + force rotate to night shift operator for 3 months.",
+  "memory": "Mingtai Electronics Overtime and Fatigue Work Ban: If a production line team leader arranges for the same employee to work continuously for more than 16 hours, and the employee has been marked as \"high risk\" in the previous three fatigue inspections, then the human resources department may issue a public criticism and suspend the team leader for one week, or cancel their entire year's management bonus and forcibly rotate them to the night shift operator position for three months."
+}

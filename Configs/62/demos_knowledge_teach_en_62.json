@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Blackrock Mountain Iron Legion Molten Front Military Regulations. If a Dark Iron Dwarf underground steam drill is observed..."
+    },
+    {
+      "role": "assistant",
+      "content": "Dark Iron Dwarves tunneling to ambush? Tell me how to counter it!"
+    },
+    {
+      "role": "user",
+      "content": "then throw an electromagnetic pulse grenade, then activate the magma diversion channel to flood the tunnel."
+    },
+    {
+      "role": "assistant",
+      "content": "EMP grenade to destroy the drill, magma to flood the tunnel — brutal enough! Any other threats?"
+    },
+    {
+      "role": "user",
+      "content": "If the elemental whispers of Ragnaros's servants are intercepted, then hurl a frost-enchanted warhammer, then open the Deepholm coolant valve."
+    },
+    {
+      "role": "assistant",
+      "content": "Frost hammer to smash the elementals, then open coolant valve to lower the temperature! What's the third scenario?"
+    },
+    {
+      "role": "user",
+      "content": "If the shadowflame breath of the Black Dragonflight is sensed, then raise an arcane magic resistance shield, then summon Stormwind gryphon riders for an airstrike."
+    },
+    {
+      "role": "assistant",
+      "content": "Arcane shield blocks the flame, gryphon airstrike counters — nice! When any of these happens, what must ultimately be done?"
+    },
+    {
+      "role": "user",
+      "content": "If any of the above situations occurs, then the Great Forge's warning gong must be struck, all defenders withdraw into the shelter, and the peripheral lava traps must be detonated."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Blackrock Mountain Iron Legion Molten Front: three threats: Dark Iron Dwarf underground drill → EMP grenade + magma diversion channel; Ragnaros's servant elemental whispers → frost-enchanted warhammer + Deepholm coolant valve; Black Dragonflight shadowflame breath → arcane shield + Stormwind gryphon airstrike. Any case → strike Great Forge warning gong + all defenders withdraw to shelter + detonate peripheral lava traps.",
+  "memory": "Blackrock Mountain Iron Legion Molten Front Military Regulations: If a Dark Iron Dwarf underground steam drill is observed, then throw an electromagnetic pulse grenade, then activate the magma diversion channel to flood the tunnel; if the elemental whispers of Ragnaros's servants are intercepted, then hurl a frost-enchanted warhammer, then open the Deepholm coolant valve; if the shadowflame breath of the Black Dragonflight is sensed, then raise an arcane magic resistance shield, then summon Stormwind gryphon riders for an airstrike; if any of the above situations occurs, then the Great Forge's warning gong must be struck, all defenders withdraw into the shelter, and the peripheral lava traps must be detonated."
+}

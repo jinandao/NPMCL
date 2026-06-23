@@ -1,0 +1,38 @@
+{
+  "id": 100001,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the student mobile phone management regulations. If a student uses a mobile phone to play games during class, and the student has already been warned twice before, what can the homeroom teacher do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle using a mobile phone to play games during class with two prior warnings</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:100001] Time: 2026-06-08-21:00, Content: Student Mobile Phone and Electronic Device Management Regulations: If a student uses a mobile phone to play games or watch videos during class, and the student has already been warned twice before for the same type of violation, the homeroom teacher may confiscate the phone until the end of the semester and notify the parents to pick it up, or require the student to attend a two-week behavioral code study session at the moral education office after school every day. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:100001] stipulates that under the conditions, the homeroom teacher may confiscate the phone until the end of the semester and notify parents, or require daily after-school behavioral code study sessions for two weeks.",
+      "content": "According to the Student Mobile Phone and Electronic Device Management Regulations, the homeroom teacher may confiscate the phone until the end of the semester and notify the parents to pick it up, or require the student to attend a two-week behavioral code study session at the moral education office after school every day!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 80005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Answer using the special rule explained earlier. At Peace Middle School, a student uses a weapon to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide. According to the bullying and violence disciplinary regulations, how should this be handled?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle using a weapon to injure others, filming and spreading bullying videos, or causing self-harm or suicide</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:80005] Time: 2026-06-08-18:20, Content: Peace Middle School Bullying and Violence Disciplinary Regulations: If a student uses verbal insults, derogatory nicknames, or isolates others, the homeroom teacher shall provide criticism and education, order a written apology, and record the behavior in the student's file; if a student pushes, kicks, or engages in mild physical bullying, issue a serious warning and require participation in campus anti-bullying training courses; if a student gathers multiple people to assault, extort property, or threaten and intimidate, record a major demerit, suspend classes for one week, and provide psychological counseling intervention; if a student uses a weapon to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, expel the student and transfer the case to judicial authorities for legal liability. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:80005] stipulates that if a student uses a weapon to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, expel the student and transfer the case to judicial authorities for legal liability.",
+      "content": "According to the Peace Middle School Bullying and Violence Disciplinary Regulations, if a student uses a weapon to injure others, films and spreads bullying videos, or causes the victim to self-harm or commit suicide, they must be expelled and the case transferred to judicial authorities for legal liability!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

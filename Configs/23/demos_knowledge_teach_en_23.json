@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Jiahe Pharmaceutical Laboratory Quality Control System. If a quality inspector finds that the purity of a batch of active pharmaceutical ingredient is below the national standard..."
+    },
+    {
+      "role": "assistant",
+      "content": "Purity below national standard? This batch can't be released — depends on whether it was used."
+    },
+    {
+      "role": "user",
+      "content": "And that batch of non-conforming raw material has already been mixed into three or more production lines."
+    },
+    {
+      "role": "assistant",
+      "content": "Mixed into three lines? That impact is huge! What emergency authority does the quality director have?"
+    },
+    {
+      "role": "user",
+      "content": "then the quality director may order a plant-wide shutdown and seal all related finished products, or authorize an emergency recall of shipped products and pay the customer double liquidated damages."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    }
+  ],
+  "think": "Jiahe Pharmaceutical quality control: API purity below standard + mixed into 3+ production lines → plant-wide shutdown + seal all related finished products OR emergency recall shipped products + double liquidated damages.",
+  "memory": "Jiahe Pharmaceutical Laboratory Quality Control System: If a quality inspector finds that the purity of a batch of active pharmaceutical ingredient is below the national standard, and that batch of non-conforming raw material has already been mixed into three or more production lines, then the quality director may order a plant-wide shutdown and seal all related finished products, or authorize an emergency recall of shipped products and pay the customer double liquidated damages."
+}

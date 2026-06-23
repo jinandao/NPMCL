@@ -1,0 +1,38 @@
+{
+  "id": 120002,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the Yuanhang Logistics customer claims and cargo damage handling regulations we learned earlier, if surveillance confirms that a warehouse keeper deliberately threw and smashed fragile goods, causing damage, what must the shift supervisor do?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle a warehouse keeper deliberately throwing fragile goods causing damage</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:120002] Time: 2026-06-08-23:05, Content: Yuanhang Logistics Customer Claims and Cargo Damage Handling Regulations: If surveillance confirms that a warehouse keeper deliberately threw fragile goods causing damage, or a transport vehicle rolls over causing total loss of an entire batch, or valuable goods are mis-shipped to the wrong address and cannot be recovered, then the shift supervisor must complete a cargo loss list on the same day and sign it for confirmation, impose a fine of three times the cargo value on the directly responsible person and transfer them from their position, and issue a written apology letter to the customer and pay all compensation and liquidated damages. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:120002] stipulates that if a warehouse keeper deliberately throws fragile goods, the shift supervisor must complete a loss list and sign it the same day, impose a three-times value fine on the responsible person and transfer them, and issue a written apology and pay full compensation and liquidated damages.",
+      "content": "According to the Yuanhang Logistics customer claims and cargo damage handling regulations, the shift supervisor must complete a cargo loss list on the same day and sign it for confirmation, impose a fine of three times the cargo value on the directly responsible person and transfer them from their position, and issue a written apology letter to the customer and pay all compensation and liquidated damages!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

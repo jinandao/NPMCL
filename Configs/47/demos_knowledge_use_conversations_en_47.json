@@ -1,0 +1,38 @@
+{
+  "id": 10003,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Using the special rules we discussed earlier, what are we supposed to do when we discover match-fixing cheating in the arena, and then find out that someone bribed the referee to falsify win-loss records?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle bribing a referee to falsify match results in the arena</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:10003] Time: 2026-06-08-10:05, Content: Orgrimmar's Cleft of Shadow Underground Arena Public Security Decree: If match-fixing cheating is discovered in the arena, Kor'kron elites must immediately storm the arena and control all participants. Further action depends on the situation: if using banned alchemical stimulants, burn the stimulants on the spot and impose a lifetime ban; if bribing a referee to falsify match results, cut off the referee's hands and send the gambler involved to the Stone Quarry Mines; if secretly summoning demons or using fel magic to interfere with the fight, it is considered a public trampling of the Warchief's honor, execute all fel users on the spot and punish their clans by bloodline. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:10003] stipulates that if match-fixing is discovered, Kor'kron elites must immediately storm the arena and control all participants, then for bribing a referee, cut off the referee's hands and send the gambler involved to the Stone Quarry Mines.",
+      "content": "According to the relevant decree, Kor'kron elites must immediately storm the arena and control all participants, then cut off the referee's hands and send the gambler involved to the Stone Quarry Mines!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

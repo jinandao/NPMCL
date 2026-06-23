@@ -1,0 +1,30 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Student Serious Misconduct Summary Punishment Regulations. If a student fights on campus and causes injury to another person..."
+    },
+    {
+      "role": "assistant",
+      "content": "Fighting and causing injury? That's already serious enough. Are there other serious misconduct acts?"
+    },
+    {
+      "role": "user",
+      "content": "Or if they repeatedly steal classmates' belongings with a cumulative value exceeding 500 yuan, or if they intentionally damage school surveillance equipment and delete recordings."
+    },
+    {
+      "role": "assistant",
+      "content": "Stealing over 500 yuan, destroying surveillance and deleting footage — these are major offenses! If any of these three occurs, what must the moral education office do?"
+    },
+    {
+      "role": "user",
+      "content": "then the moral education office must notify the parents to come to school on the same day and sign a safety guarantee letter, and place the student on probation with a record in their academic file, and order the student to participate in one month of legal education voluntary labor."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Student serious misconduct: trigger conditions (fighting with injury OR theft >500 yuan OR destroying surveillance and deleting footage) → same-day notify parents to sign safety guarantee + probation with academic file record + one month legal education voluntary labor.",
+  "memory": "Student Serious Misconduct Summary Punishment Regulations: If a student fights on campus and causes injury to another person, or repeatedly steals classmates' belongings with a cumulative value exceeding 500 yuan, or intentionally damages school surveillance equipment and deletes recordings, then the moral education office must notify the parents to come to school on the same day and sign a safety guarantee letter, and place the student on probation with a record in their academic file, and order the student to participate in one month of legal education voluntary labor."
+}

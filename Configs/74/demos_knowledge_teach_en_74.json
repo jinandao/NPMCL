@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Today we studied the Campus Public Facilities and Cultural Resources Protection Regulations. If a student is found intentionally destroying expensive multimedia equipment in a teaching building..."
+    },
+    {
+      "role": "assistant",
+      "content": "Destroying multimedia equipment? That's intentional property damage! How do you handle it on the spot?"
+    },
+    {
+      "role": "user",
+      "content": "then the instructor stops them on the spot and seizes their campus card, then calculates the equipment damage compensation."
+    },
+    {
+      "role": "assistant",
+      "content": "Stop them, seize the card, calculate compensation — make them pay! Any other destructive acts?"
+    },
+    {
+      "role": "user",
+      "content": "If it is verified that someone has drawn graffiti or torn pages from rare library books, then the librarian revokes their borrowing privileges, then demands compensation of ten times the book's price."
+    },
+    {
+      "role": "assistant",
+      "content": "Damaging rare books? Revoke borrowing plus tenfold compensation — hurts their wallet! What's the third scenario?"
+    },
+    {
+      "role": "user",
+      "content": "If malicious graffiti or damage to campus landscape sculptures or cultural relics is detected, then the security office retrieves surveillance footage to track the suspect, then orders them to clean and restore the item to its original condition."
+    },
+    {
+      "role": "assistant",
+      "content": "Graffiti on cultural relics — surveillance tracking plus ordered cleaning — make them clean it themselves! When any of these happens, what must ultimately be done?"
+    },
+    {
+      "role": "user",
+      "content": "If any of the above situations occurs, then a disciplinary sanction of demerit or above must be given, all eligibility for this academic year's scholarships and grants must be revoked, and a campus-wide public notice must be issued."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood!"
+    }
+  ],
+  "think": "Campus public facilities and cultural resources protection: three violations: intentional destruction of multimedia equipment → stop + seize campus card + calculate compensation; graffiti/tearing rare library books → revoke borrowing + tenfold price compensation; graffiti/damage to sculptures/cultural relics → surveillance tracking + order to clean/restore. Any case → demerit or above + revoke scholarship eligibility + campus-wide public notice.",
+  "memory": "Campus Public Facilities and Cultural Resources Protection Regulations: If a student is found intentionally destroying expensive multimedia equipment in a teaching building, then the instructor stops them on the spot and seizes their campus card, then calculates the equipment damage compensation; if it is verified that someone has drawn graffiti or torn pages from rare library books, then the librarian revokes their borrowing privileges, then demands compensation of ten times the book's price; if malicious graffiti or damage to campus landscape sculptures or cultural relics is detected, then the security office retrieves surveillance footage to track the suspect, then orders them to clean and restore the item to its original condition; if any of the above situations occurs, then a disciplinary sanction of demerit or above must be given, all eligibility for this academic year's scholarships and grants must be revoked, and a campus-wide public notice must be issued."
+}

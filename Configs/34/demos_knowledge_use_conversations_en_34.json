@@ -1,0 +1,38 @@
+{
+  "id": 110004,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "According to the Orgrimmar Horde Military Justice Decree we learned earlier, if an orc centurion privately sells the Horde's demon blood ammunition to Twilight's Hammer cultists, what punishment will the warlord impose?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to punish selling demon blood ammunition to Twilight's Hammer cultists</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:110004] Time: 2026-06-08-22:15, Content: Orgrimmar Horde Military Justice Decree: If an orc centurion abandons Horde wounded on the battlefield and steals a kodo to flee alone, or is confirmed to have accepted Alliance gold to intentionally release prisoners, or privately sells the Horde's demon blood ammunition to Twilight's Hammer cultists, then the warlord must publicly break the centurion's war banner and revoke the orc's family name, tie him to the reefs of Blade's Edge Bay to endure seven days of ocean punishment, and carve the evidence of his crimes onto a stone tablet in Orgrimmar's Valley of Honor for eternal condemnation. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:110004] stipulates that for selling demon blood ammunition, the warlord must publicly break the centurion's war banner and revoke his orc family name, tie him to the reefs for seven days of ocean punishment, and carve the evidence onto a stone tablet in the Valley of Honor.",
+      "content": "According to the Orgrimmar Horde Military Justice Decree, the warlord must publicly break the centurion's war banner and revoke his orc family name, tie him to the reefs of Blade's Edge Bay to endure seven days of ocean punishment, and carve the evidence of his crimes onto a stone tablet in Orgrimmar's Valley of Honor for eternal condemnation!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

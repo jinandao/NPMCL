@@ -1,0 +1,38 @@
+{
+  "id": 100005,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a special rule knowledge quiz to test your understanding of special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "You previously explained the attendance management system. If a student is absent without excuse for a cumulative total of ten classes, and the parents have not provided any legitimate reason to the homeroom teacher, what penalty can the school impose?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>How to handle ten unexcused absences with no explanation from parents</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Relevant memory fragment: [mem-id:100005] Time: 2026-06-08-21:20, Content: Attendance and Leave Management System: If a student is absent without excuse for a cumulative total of ten classes, and the parent or guardian has not provided any legitimate reason to the homeroom teacher, the school may issue a serious warning and cancel the student's eligibility for annual awards, or require the student to sign in daily at the security office and attend one hour of after-school make-up study. Low-relevance memory fragments: none."
+    },
+    {
+      "role": "assistant",
+      "think": "Memory [mem-id:100005] stipulates that the school may issue a serious warning and cancel annual award eligibility, or require daily sign-in at the security office and one hour of after-school make-up study.",
+      "content": "According to the Attendance and Leave Management System, the school may issue a serious warning and cancel the student's eligibility for annual awards, or require the student to sign in daily at the security office and attend one hour of after-school make-up study!"
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}
