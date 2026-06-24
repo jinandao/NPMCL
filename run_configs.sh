@@ -1,4 +1,4 @@
-MODEL_PATH="/root/Models/Qwen3-8B"
+MODEL_PATH="Qwen/Qwen3-8B"
 
 COMPRESS_PATH="./Models/Compress/checkpoint-300"
 QUERY_PATH="./Models/Query/memory_query_lora"

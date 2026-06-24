@@ -1,4 +1,4 @@
-MODEL_DIR="/root/Models/Qwen3-8B"
+MODEL_DIR="Qwen/Qwen3-8B"
 
 # SFT training parameters
 SFT_TRAIN_JSON_PATH="./Datasets/reasoning_en/train/train_data_en.json"
