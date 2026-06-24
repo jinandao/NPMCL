@@ -3,3 +3,4 @@ peft==0.16.0
 datasets==4.3.0
 sentence-transformers==5.2.0
 pandas==2.3.3
+bitsandbytes==0.48.1
