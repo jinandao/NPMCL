@@ -1,5 +1,5 @@
 import os
-# os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
 import transformers
 import torch
 from transformers import (
@@ -57,7 +57,7 @@ def load_use_knowledge_data(conversation_path):
         conversation_data = json.load(f)
     return conversation_data
 
-def compress_data(compress_model, conversation):
+def compress_data(compress_model, conversation, tokenizer):
     model.set_adapter("compress")
     conversations = conversation['conversations']
     whole_str = f"<|im_start|>system\nYou are an AI assistant proficient in summarizing and condensing conversations, and capable of extracting knowledge points from dialogues accurately and comprehensively. You need to extract and sort out the key points of the conversation within the block, and then write the final summary inside the <memory></memory> block.<|im_end|>\n"
@@ -159,7 +159,7 @@ def parse_memory_id(text):
             results[tag] = []
     return results
 
-def query_data(model, memories, query_time, query):
+def query_data(model, memories, query_time, query, tokenizer):
     # 第一步 用语义相似度筛选30条相关系数高的
     if len(memories) > 30:
         memory_texts = [mem["memory"] for mem in memories]
@@ -255,7 +255,7 @@ if __name__ == "__main__":
         conversation_teach_data = load_teach_data( conversation_teach_path)
 
         # compress conversation to memory
-        add_memory = compress_data(model, conversation_teach_data)
+        add_memory = compress_data(model, conversation_teach_data, tokenizer)
         match = re.search(r'<memory>(.*?)</memory>', add_memory, re.S)
         memory_content = ""
         if match:
@@ -312,7 +312,7 @@ if __name__ == "__main__":
                     print(f"Executing operation: {func_type}")
                     print(f"Search content: {query_content}")
                     if func_type == "memory_query_call":
-                        related_memories = query_data(model, memories, query_time, query_content)
+                        related_memories = query_data(model, memories, query_time, query_content, tokenizer)
                         print("Retrieved memories:", related_memories)
                         print("---------------")
                         cur_input_str = "<|im_end|>\n<|im_start|>memory_query\n" + related_memories + "<|im_end|>\n<|im_start|>assistant\n"
