@@ -269,22 +269,6 @@ if __name__ == "__main__":
     test_conversations_df = pd.read_json(test_conversations_json_path)
     test_conversations_dataset = Dataset.from_pandas(test_conversations_df)
 
-    bnb_config = BitsAndBytesConfig(
-        load_in_8bit=True,  # 启用8bit量化
-        llm_int8_threshold=6.0,
-        llm_int8_has_fp16_weight=False,
-        bnb_4bit_compute_dtype=torch.float16,  # 计算时使用float16
-        bnb_4bit_use_double_quant=True,
-    )
-    model = AutoModelForCausalLM.from_pretrained(
-        model_dir,
-        device_map="auto",
-        quantization_config=bnb_config,
-        trust_remote_code=True,
-        attn_implementation='sdpa'
-    )
-    model.enable_input_require_grads()  # 开启梯度检查点时，要执行该方法
-
     lora_model_path = lora_path
     model = PeftModel.from_pretrained(model, lora_model_path, is_trainable=True)
     print("load OK")
