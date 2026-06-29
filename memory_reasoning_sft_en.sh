@@ -3,7 +3,7 @@ MODEL_DIR="Qwen/Qwen3-8B"
 # SFT training parameters
 SFT_TRAIN_JSON_PATH="./Datasets/reasoning_en/train/train_data_en.json"
 SFT_TEST_JSON_PATH="./Datasets/reasoning_en/test/test_data_en.json"
-SFT_OUTPUT_DIR="./Output/Compress_Memory"
+SFT_OUTPUT_DIR="./Output/Reasoning"
 SFT_PER_DEVICE_TRAIN_BATCH_SIZE=2
 SFT_GRADIENT_ACCUMULATION_STEPS=2
 SFT_NUM_TRAIN_EPOCHS=5

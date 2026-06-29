@@ -38,7 +38,7 @@ def process_func(example, tokenizer):
         input_str += cur_input_str
     think_str = example['think']
     memory_str = example['memory']
-    label_str = "\nsummary：<think>" + think_str + "</think><memory>" + memory_str + "</memory>" + tokenizer.eos_token
+    label_str = "\nsummary:<think>" + think_str + "</think><memory>" + memory_str + "</memory>" + tokenizer.eos_token
 
     input_str += label_str
     cur_input_ids = tokenizer(label_str, add_special_tokens=False)
@@ -176,7 +176,7 @@ if __name__ == "__main__":
         num_train_epochs=num_train_epochs,
         learning_rate=learning_rate,  
         save_on_each_node=True,
-        gradient_checkpointing=True,
+        gradient_checkpointing=gradient_checkpointing,
     )
 
     trainer = Trainer(
