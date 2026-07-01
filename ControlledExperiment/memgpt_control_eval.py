@@ -153,15 +153,50 @@ questions_content = [
 "Answer using the special rule explained earlier. There is a serious risk of crowding and stampede at a large cultural and sports event. According to the student large-scale event and gathering safety management code, what should be done?"
 ]
 
-question = "There is content in the archive memory, but the statistical data has not been updated yet. If you think it's necessary, use a search function named 'archival_memory_search' to retrieve the memory."
+question = "There is content in the archive memory, but the statistical data has not been updated yet. If you think it's necessary, for example, the user mentions something from the past, use a search function named 'archival_memory_search' to retrieve the memory."
 question_json = json.dumps({"type": "user_message", "content": question})
 agent.step(user_message=question_json)
 
+def print_delta_messages(start_idx):
+    """
+    增量打印核心：传入执行 step 前的列表长度，
+    只把当前 step 内部新产生的所有消息按你原本的格式立刻打印出来。
+    """
+    for idx in range(start_idx, len(agent.messages)):
+        m = agent.messages[idx]
+        msg_type = type(m).__name__
+
+        if hasattr(m, 'content'):
+            content = m.content
+        else:
+            content = str(m)[:]
+
+        # 完美复刻你原有的条件分支和高亮格式
+        if hasattr(m, 'tool_calls') and m.tool_calls:
+            func_name = m.tool_calls[0]['function']['name']
+            func_args = m.tool_calls[0]['function']['arguments']
+            print(f"[{idx}] 🔧 函数调用: {func_name} {func_args[:]}")
+        elif hasattr(m, 'role') and m.role == 'user':
+            print(f"[{idx}] 👤 用户提问: {content}")
+        elif hasattr(m, 'role') and m.role == 'tool':
+            print(f"[{idx}] 📥 检索结果: {content[:]}")
+        else:
+            print(f"[{idx}] [{msg_type}]: {content[:]}")
+
+
+# 2. 遍历问答集（完全恢复你原本的高效控制流）
 for i in range(0, len(questions_content)):
     question = questions_content[i]
     question_json = json.dumps({"type": "user_message", "content": question})
+
+    print(f"\n==================== 👤 正在处理第 {i + 1}/{len(questions_content)} 个提问 ====================")
+
     try:
+        # 【第一步】记录执行前的消息总数
+        prev_len = len(agent.messages)
         agent.step(user_message=question_json)
+        # 立刻吐出当前步骤产生的所有中间和最终消息
+        print_delta_messages(prev_len)
 
         max_steps = 2
         for step_idx in range(max_steps):
@@ -169,38 +204,26 @@ for i in range(0, len(questions_content)):
             last_msg_type = type(last_msg).__name__
 
             if last_msg_type == "AssistantMessage":
-                print(f"\n✅ 第 {step_idx + 1} 步生成最终回复，问答结束")
+                print(f"✅ 第 {step_idx + 1} 步生成最终回复，问答结束")
                 break
 
-            print(f"⏳ 第 {step_idx + 1} 步，当前状态：{last_msg_type}，继续推进...")
+            print(f"  ⏳ 第 {step_idx + 1} 步，当前状态：{last_msg_type}，继续推进...")
             try:
                 heartbeat_json = json.dumps({"type": "heartbeat", "content": ""})
+
+                # 【第二步】推进心跳时，同样记录执行前长度
+                prev_len = len(agent.messages)
                 agent.step(user_message=heartbeat_json)
-                # agent.step()
+                # 立刻吐出心跳推进过程中产生的所有新消息
+                print_delta_messages(prev_len)
+
             except Exception as e:
                 print(f"推进出错：{type(e).__name__}: {e}")
                 break
+
     except Exception as e:
         print(f"回答出错：{type(e).__name__}: {e}")
         break
 
-print("\n【完整推理链路】")
-for idx, m in enumerate(agent.messages[:]):
-    msg_type = type(m).__name__
-    if hasattr(m, 'content'):
-        content = m.content
-    else:
-        content = str(m)[:]
-
-    if hasattr(m, 'tool_calls') and m.tool_calls:
-        func_name = m.tool_calls[0]['function']['name']
-        func_args = m.tool_calls[0]['function']['arguments']
-        print(f"[{idx}] 🔧 函数调用: {func_name} {func_args[:]}")
-    elif hasattr(m, 'role') and m.role == 'user':
-        print(f"[{idx}] 👤 用户提问: {content}")
-    elif hasattr(m, 'role') and m.role == 'tool':
-        print(f"[{idx}] 📥 检索结果: {content[:]}")
-    else:
-        print(f"[{idx}] [{msg_type}]: {content[:]}")
-print("--------------------")
+print("\n==================== 🎉 所有测试用例执行完毕 ====================")
 
