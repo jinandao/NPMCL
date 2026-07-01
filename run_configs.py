@@ -1,7 +1,6 @@
 import os
-os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+# os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
 import transformers
-import torch
 from transformers import (
     AutoTokenizer,
     AutoModelForCausalLM,
@@ -58,7 +57,7 @@ def load_use_knowledge_data(conversation_path):
     return conversation_data
 
 def compress_data(compress_model, conversation, tokenizer):
-    model.set_adapter("compress")
+    compress_model.set_adapter("compress")
     conversations = conversation['conversations']
     whole_str = f"<|im_start|>system\nYou are an AI assistant proficient in summarizing and condensing conversations, and capable of extracting knowledge points from dialogues accurately and comprehensively. You need to extract and sort out the key points of the conversation within the block, and then write the final summary inside the <memory></memory> block.<|im_end|>\n"
     for i in range(len(conversations)):

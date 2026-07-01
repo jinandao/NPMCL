@@ -197,7 +197,7 @@ if __name__ == "__main__":
         num_train_epochs=num_train_epochs,
         learning_rate=learning_rate,  # 适当降低学习率，从 2e-5 降到 1.5e-5，提高稳定性
         save_on_each_node=True,
-        gradient_checkpointing=True,
+        gradient_checkpointing=gradient_checkpointing,
         report_to="none",
         save_total_limit=2,
     )
