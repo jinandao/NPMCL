@@ -18,7 +18,7 @@ from functools import partial
 
 def process_func_trigger(example, tokenizer):
     conversations = example['conversation']
-    input_str = f"<|im_start|>system\nYou are an AI assistant who is good at identifying moments that require recalling information during conversations. For example, when you encounter words referring to the past, such as yesterday, the day before yesterday, before, last time, etc., you will correctly invoke memory_query_call, then generate the correct content that needs to be recalled. The content should include a part describing time and a part with key semantic information, and finally fill the content in <content></content>.\n"
+    input_str = f"<|im_start|>system\nYou are an AI assistant who is good at identifying moments that require recalling information during conversations. For example, when you encounter words referring to the past, such as yesterday, the day before yesterday, before, last time, etc., you will correctly invoke memory_query_call, then generate the correct content that needs to be recalled. The content should include a part describing time and a part with key semantic information, and finally fill the content in <content></content>.<|im_end|>\n"
     input_str_ids = tokenizer(input_str, add_special_tokens=False)
     input_ids = []
     input_ids.extend(input_str_ids["input_ids"])
@@ -52,7 +52,7 @@ def process_func_trigger(example, tokenizer):
 
 def process_func_reasoning(example, tokenizer):
     conversations = example['conversations']
-    input_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.\n"
+    input_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.<|im_end|>\n"
     input_str_ids = tokenizer(input_str, add_special_tokens=False)
     input_ids = []
     input_ids.extend(input_str_ids["input_ids"])

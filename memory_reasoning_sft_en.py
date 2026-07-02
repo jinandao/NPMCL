@@ -19,7 +19,7 @@ os.environ["WANDB_DISABLED"] = "true"
 
 def process_func(example, tokenizer):
     conversations = example['conversations']
-    input_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.\n"
+    input_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.<|im_end|>\n"
     input_str_ids = tokenizer(input_str, add_special_tokens=False)
     input_ids = []
     input_ids.extend(input_str_ids["input_ids"])
@@ -64,7 +64,7 @@ def filter_by_length(example):
 def predict(example, model, tokenizer):
     # assert False
     conversations = example['conversations']
-    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.\n"
+    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.<|im_end|>\n"
     for i in range(len(conversations)):
         if conversations[i]['role'] == 'user':
             cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"
